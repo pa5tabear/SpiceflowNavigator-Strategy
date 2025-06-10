@@ -1,0 +1,368 @@
+The case for colocating data centers and generation | Latitude Media
+The case for colocating data centers and generation | Latitude Media
+News
+Events
+Research
+Resources
+About
+Subscribe
+Covering the new frontiers of the energy transition
+Tech
+Grid edge
+Solar
+Energy storage
+Artificial intelligence
+Data centers + cloud
+Carbon removal
+Hydrogen
+Emerging tech
+Geothermal
+Nuclear
+See all
+Markets
+U.S. market
+Global markets
+Policy
+Regulation
+Research
+See all
+Deals
+Venture capital
+Project finance
+Corporates
+Mergers and acquisitions
+Government funding
+See all
+Podcasts
+Catalyst
+Open Circuit
+The Green Blueprint
+Political Climate
+Tech
+Grid edge
+Solar
+Energy storage
+Artificial intelligence
+Data centers + cloud
+Carbon removal
+Hydrogen
+Emerging tech
+Geothermal
+Nuclear
+See all
+Markets
+U.S. market
+Global markets
+Policy
+Regulation
+Research
+See all
+Deals
+Venture capital
+Project finance
+Corporates
+Mergers and acquisitions
+Government funding
+See all
+Podcasts
+Catalyst
+Open Circuit
+The Green Blueprint
+Political Climate
+Tech
+Grid edge
+Solar
+Energy storage
+Artificial intelligence
+Data centers + cloud
+Carbon removal
+Hydrogen
+Emerging tech
+Geothermal
+Nuclear
+See all
+Markets
+U.S. market
+Global markets
+Policy
+Regulation
+Research
+See all
+Deals
+Venture capital
+Project finance
+Corporates
+Mergers and acquisitions
+Government funding
+See all
+Podcasts
+Catalyst
+Open Circuit
+The Green Blueprint
+Political Climate
+About
+Newsletter
+Resources
+Authors
+Staff
+Careers
+Advertise
+Latitude Studios
+Contact
+Podcast
+DATA + CLOUD
+Grid edge
+The case for colocating data centers and generation
+How siting renewables and storage behind-the-meter at data centers can enable larger projects and faster connection to power.
+Shayle Kann
+Catalyst
+February 13, 2025
+Listen to the episode on:
+Sheldon Kimber says the grid is broken — at least for new data centers and other large, industrial loads that need lots of clean power, fast.
+But the
+founder and CEO
+of Intersect Power believes there’s a workaround that enables larger data centers and speeds up time to power: colocating behind-the-meter generation and storage on megasites rich with renewable resources.
+In short, instead of bringing clean generation to load, bring load to clean generation. Major partners are on board with the strategy. Last December Intersect announced
+$800 million in investment
+from Google and private equity firm TPG, along with a goal of catalyzing $20 billion in projects by 2030.
+So how does colocation work? And how far does it go?
+In this episode, Shayle talks to Sheldon about how colocation can help sidestep the
+challenges
+associated with grid upgrades, transmission, and permitting. They dig into topics like:
+Major forces shaping the market, like AI demand, the IRA, and tariffs
+Optimal PPA prices and tenures
+The right mix of grid-connected and behind-the-meter power
+The extreme version of colocation: off-grid data centers
+Megasite developers for hydrogen and crypto and how they took advantage of the AI boom
+Whether DeepSeek will cause energy demand to temper or accelerate
+Recommended resources
+Latitude Media
+: Google’s new data center model signals a massive market shift
+Latitude Media
+: Load growth is changing how Silicon Ranch develops solar projects
+Latitude Media
+: Amazon’s data center strategy: ‘Get back to being grid-tied’
+Catalyst
+: The U.S. power demand surge: The electricity gauntlet has arrived
+Credits: Hosted by Shayle Kann. Produced and edited by Daniel Woldorff. Original music and engineering by Sean Marquand. Stephen Lacey is our executive editor.
+Catalyst is brought to you by EnergyHub. EnergyHub helps utilities build next-generation virtual power plants that unlock reliable flexibility at every level of the grid. See how EnergyHub helps unlock the power of flexibility at scale, and deliver more value through cross-DER dispatch with their leading Edge DERMS platform, by visiting
+energyhub.com
+.
+Catalyst is brought to you by Antenna Group, the public relations and strategic marketing agency of choice for climate and energy leaders. If you’re a startup, investor, or global corporation that’s looking to tell your climate story, demonstrate your impact, or accelerate your growth, Antenna Group’s team of industry insiders is ready to help. Learn more at
+antennagroup.com
+.
+Transcript
+Shayle:
+I’m Shayle Khan, and this is Catalyst.
+Sheldon:
+When people say, oh, these data centers are bringing back coal or whatever, like there are opportunities to actually make these data centers some of the most, you know, sort of clean powered industrial loads in the country, and to do it at costs that are actually probably the most competitive.
+Shayle:
+Coming up: when and how it makes sense to co-locate power generation with data centers.
+I’m Shayle Khan. I invest in revolutionary climate technologies and energy impact partners. Welcome. All right. So here’s the operative question of the moment. How exactly are we going to power the tens of gigawatts of data centers that are in development or in planning or in major proclamations, including presidents and masa from SoftBank and so on?
+One thing that is clearly happening to answer that question is a mad dash to identify any sites where the grid already has enough access capacity today to fit a few hundred megawatts of load or a gigawatt or multiple gigawatts of new load. So that’s happening. A second thing that’s happening is a close examination of every opportunity to add a lot of new capacity in one location to the grid, be that through nuclear, see Three Mile Island as an example, or renewables or gas.
+But a third thing that’s starting to happen more and more is the idea of building behind the meter or onsite or co-located generation. At the site of these data centers. A lot of this to date that has been announced is natural gas. This, for example, is how XAI is partially powering its rapidly built data center in Memphis, but lots more similar announcements with new natural gas have arrived.
+But here’s a question that hasn’t been as prominent, I think, until recently. What about solar or wind or storage? Will we see significant amounts of on site renewables at data centers? And if so, then there’s a cascade of questions that come after that. Will the data centers be grid connected or off grid?
+How should we think about the load profile, et cetera? So, It was cool to see an announcement in December from Intersect Power, which is a leading renewables IPP and is led by my friend Sheldon Kimber. Intersect partnered with TPG, which is a big investment firm, and Google on a partnership that initially will inject about 800 million into Intersect to develop solar and storage and wind and some gas co-located with data centers in the United States.
+There’s lots to dig into on that. And beyond that specific topic, it’s also an opportunity for us to get an update from Sheldon on what’s going on in the solar and storage markets more generally, because things are, as always, in motion. Anyway, here’s Sheldon. Sheldon, welcome back. Thanks. Thanks for having me.
+It’s good to be back. How many times a day do you think you say the term data centers right now?
+Sheldon:
+Um, uh, you know, probably more than I’d like to be honest. Um, uh, it’s a, it’s a, it’s a moment in time where I think you have the kind of curse and the blessing of, uh, you know, In the power sector for many years, we’ve wanted the world to pay attention to us.
+We’ve been the most boring people at cocktail parties. And now all of a sudden, you know, the world is paying attention to us. And, um, uh, we’re learning that, you know, what comes with that is not all necessarily positive.
+Shayle:
+Yeah. All right. Well, I’m going to add to your daily count of data center mentions a whole bunch, I think.
+But before we start talking about data centers directly, I guess I want to talk about data centers indirectly in the sense that I want to talk about the broader picture of what’s going on in the solar and storage markets, which is partially a story of data centers anyway, but we’ll, we’ll attack it head on later.
+In the meantime, what, how would you characterize the state of the market in the U S today for, for utility scale, solar and storage?
+Sheldon:
+I mean, I think the state of the market is, is kind of this weird limbo where, you know, we have this sort of supply side policies of the Biden administration, which are driving growth, um, you know, growth in American manufacturing in particular growth in sort of American driven, uh, solar and battery storage.
+But then we’ve got this enormous demand side. You know, push coming from AI and, and not just AI, right? I mean, we’re, we’re talking about the convergence of some other trends, which we can talk about when we talk about data centers, but you know, electrification, decarbonization, advanced manufacturing, all of these things are actually legitimate load drivers as well.
+So you’ve got this double dip of supply and demand. Uh, but then I would also say that at the same time, um, These massive macros that are pushing the industry are also both, both fraught with, you know, uncertainty at this moment. So it’s a crazy time when we don’t know whether our businesses will be 10 times as large or, you know, non-existent.
+Shayle:
+And that’s not to mention, like, the complexity of things like tariffs, which are super dynamic. In general, but I’d say particularly so in solar and storage because it’s not just the latest, like what Trump took office and wants to introduce tariffs on X, Y, and Z, which is definitely happening. There was like already an ongoing complexity around tariffs in solar, I guess, especially, right?
+Sheldon:
+Yeah, yeah. I mean, I think, you know, for Intersect we’ve been sort of, you know, cheerleaders. I’ve got the pom poms to show it for, uh, for, you know, American manufacturing for, uh, for some time. And so, uh, we have less risk in this regard. Um, but you know, I’ve, I’ve often talked about how it’s not just tariffs.
+It’s, it’s, it’s sort of multiple agencies and parts of the federal government. You know, you’ve got the commerce and trade, you’ve got DOD and national defense, um, you know, all kind of coming at in particular, the Chinese sourced equipment for renewable energy. So, uh, that’s been happening for a while.
+I don’t anticipate it to get any better under Donald Trump, to be quite honest, I’ve been quite shocked that it hasn’t already gotten much worse with some of the day one threats, uh, against China. Um, you know, I think, um, and as someone who has, you know, You know, uh, pretty robust, um, almost entirely American supply chain, I guess, whereas under Biden, we would otherwise have gotten the bonus, uh, credits in the IRA.
+Um, I guess I’d be fine with falling back to just having the IRA being, you know, um, focused on American made equipment. Um, and I think that’s probably where it’s headed. So, uh, I, you know, my, my, my hope is that for our company in particular, we won’t be that affected, but for the industry at large, it’s going to be a big, big problem.
+Shayle:
+So on the supply demand balance question, one thing that you and I have talked about before, I can’t actually remember if we’ve talked about it on the podcast or not, but is where PPA prices went over the years. Right. And there was a time before, I guess, inflation really took hold here in the U S where PPA prices were at record lows.
+And I think you were the one who is really, uh, ring the bell of like, actually this is too low. Like we need PPA prices to be a little higher. They have gone higher. Since then, but that’s been coincident with higher interest rates, which raises the cost of capital on projects anyway. So I guess I’m interested in your updated view.
+Are we in a good, steady state for where PPA prices are today? Do they need to go higher? Do they need to go lower? Like what’s healthy for the market?
+Sheldon:
+Yeah, I mean, I think. When we, when we have talked in the past, you know, we’ve got 4 billion of assets that are running right now that are probably less contracted than, you know, than the average in the marketplace.
+Uh, we’ve got some open positions in ERCOT, we’ve got open positions in California, uh, those cut across different power products from energy to capacity to, you know, the RECs themselves. So, um, we’re pretty sophisticated in terms of how we trade and risk manage for an organization of our size. Um, you know, I, I think that, um, right now we’ve seen an evolution to longer term contracts because of these price points.
+Right. So, you know, the prices are increasingly in a position where I think they are commensurate with the risks that people are taking. They are rewarding, you know, the entire value chain for what they’re doing. Um, I think a lot of why they’ve gone up honestly is because, uh, as you say, the input prices, so you haven’t seen, say, developer margins blowing out, right.
+Um, I think developer margins are probably, you know, more stable than they were before. Uh, you know, we can talk a little bit about what developers were taking and what that has resulted in, in terms of like, there’s a, you know, for a lot of developers in the marketplace, there’s a lot of chaos going on right now.
+We can talk a little bit about that. Um, but a lot of those people are, uh, in that position because they took on some of those lower price contracts and they can’t deliver. Um, so I think, It hasn’t so much been a windfall for developers, but it has stabilized the businesses made them, you know, more, you know, sustainable, uh, and then also just stabilize sort of the supply chain, particularly the American attributes of the supply chain. It’s not possible to build some of this stuff in the U.S..
+Shayle:
+That’s interesting. So am I understanding you, right? That, um, okay. So the historical dynamic here was PPA prices back, you know, as, as the market started to develop, it was, or sorry, not prices. Terms., It was like a 20 year PPA was standard. And then in more recent years, in part, I think, thanks to you or you and a bunch of others, folks started signing shorter tenure PPAs, maybe 10 year PPAs or whatever. And then as you said, you know, figuring out how to hedge or at least plan around the merchant risk on the tail. This is going to be a project that operates for 25, 30 years.
+And so you plan around what the, what the value is going to be in the, in the open market. But it sounds like you’re saying now it’s trending back toward longer term PPAs as prices have risen.
+Sheldon:
+Yeah, I’m not sure that tenures have, have, have really expanded beyond the 15. I mean, they sort of collapsed to 15.
+And we can talk about whether that was sort of whether it was folks like us who were going for shorter tenure or not. Um, I see it more like our move to sort of. Five year deals or having a merchant slice. That’s totally open was almost a response to 15, right? If, if people are only offering 15, they’re really saying, why don’t you take a bunch of merchant risk on the way back end of this project, which is exactly when you don’t want it.
+Right? So in fact, the 15 years  is kind of part of the problem and kind of part of what we were getting away from. So I don’t necessarily see a return to 20 year deals. Um, but, but it’s more just the pricing on the 15 starts to look, you know, commensurate with, you know, something that can give you a reasonable return of capital on a risk adjusted basis.
+Um, you know, I will say there’s kind of an odd thing going on where spot prices remain quite low, but, you know, PPA prices for 15 year deals are kind of floating up. And I think a lot of that’s based on the fact that you’ve got CCAs and corporates and others. They know what their load is. They know how much they can pay and still kind of, you know, make money or, you know, make, make their customer customers and rate payers deliver good rates.
+And so I think they’re just not willing to, you know, they’re, they’re wanting to take that risk off the table. So they’re willing to sign those 15 year deals, even though spot prices today are quite low. So there’s a separation there. That’s a little bit strange right now. Uh, and you know, that’s, that’s, that’s been something we’ve been observing in the market.
+Shayle:
+All right, so you mentioned corporates, let’s dive into data center world. Um, okay, so the historical norm here was I’m a big, I’m a hyperscaler. I’m Google meta, Amazon, sorry, whatever. And I build a lot of data centers, I have a lot of electricity demand, I want it to be clean. Build my data centers wherever, basically, um, and then I sign virtual PPAs for as much of that as I can.
+And then in more recent years, I try to hourly match those virtual PPAs such that it’s as close to a 24-7 time match PPA as possible. What I’m finding interesting is this trend that I think you are on the vanguard of here of this new wave of data centers, maybe being co-located. With generation, um, happening certainly with natural gas as well, but you’re pioneering it to some degree in part through this partnership with TPG and Google that you announced a couple months ago, um, to co-locate solar and storage with data centers.
+So I guess that I have a whole bunch of questions about this, but the first one is why co-locate? Like, is it, is it about, um, getting clean power to site? Is it about time to power? Is it about the interconnection Woes like what is the reason to co-locate?
+Sheldon:
+I mean, the story of what is necessary in the market, uh, for data centers and for all kind of digital and advanced manufacturing loads that are now growing so fast is a story of speed and scale.
+You know, that’s something that at Intersect we’ve probably been, uh, One of the few providers in the market that’s been really rapidly focused on those two things, right? Where can we provide really scalable 500 meg gigawatts scale, uh, you know, plants, uh, quickly and not sort of this kind of You know, and then a miracle occurs development, right?
+Where you go in, you plant a seed, you sit on it for 10 years while you wait for a transmission line to get built. That’s great. That’s, that’s, that’s, if you have the patience and capital to do that, um, by all means, you know, I think there’ve been some great success stories there, but I’m not sure that as we move into this next era of power development, that that’s really the solution set that, that a lot of these new loads need.
+So. You know, just maybe backing up to kind of the 50, 000 foot view. It’s not just data centers, right? We have these kind of three mega trends, um, you know, really digitalization. We all know, you know, we can read every single newspaper about AI and e-commerce and, and everything that is driving data center demand.
+Um, but then. I, the one that’s been intriguing me lately is really electrification and the electrification of, of, of load is not necessarily tied to decarbonization. This is something, you know, actually be fascinated to talk to you about more at length, but we’re increasingly seeing, you know, electrification that is because the product is better, right?
+There are now better and better electric motors. There are better and better, you know, ways to make steel with arc furnaces. There aren’t a lot of people building, you know, um, Uh, a lot of this advanced manufacturing with, you know, cogen units on sign sites for thermal energy and things like that.
+We’re moving to an electrified economy, not just because of decarbonization. Um, and then, of course, there’s the third trend, which is decarbonization, which no matter what policy environment you’re in. It, you know, it, it’s a real thing. It’s a thing over the next few decades of our lives and our careers.
+And you can’t put that down. So between those three things, you’ve got this huge growth of load. That’s unprecedented in my career. And then the grid is broken, right? Which is something to your point. Point. We’ve been pointing out at Intersect for a long time, which means the load will have to come to generation.
+So for us, data centers are kind of, we thought maybe hydrogen would be first because of the supply-side supports under the IRA. Uh, the demand just didn’t materialize. And now all of a sudden AI has just swept up all of the assets that we developed for, you know, behind the meter. And co-located load for itself.
+Shayle:
+But, but the reason to co-locate just to isolate it is the, the grid is broken thing as in you are, I guess maybe to put a finer point on it, um, are you finding sites or do you expect to find sites where your addition of co-located, uh, Solar and storage will enable either a data center that couldn’t have been sighted there Otherwise because there isn’t enough capacity on the grid or it could be bigger than it otherwise would have been like this There’s a mechanism to get things sighted.
+Sheldon:
+Yes. There are many of those sites Where they can be bigger and get put in the ground faster Than if you were to rely purely on a load interconnection to the grid you know if you’re If you’re a grid operator or a local government or a state government, you’ve got three problems with data centers, right?
+One, they jump onto your grid and they require you to pay for a bunch of, you know, essentially a load interconnects a little bit different than a gen interconnect in most jurisdictions where a lot of the load upgrades are paid for and socialized, right? So they require you to buy a transmission line for a hyperscaler and then everybody pays for it.
+That’s one. Two, you know, do you have enough energy? Most places do. Most places have excess energy most hours and three. Do you have enough capacity at the peak moments when the grid is really breaking down on you? Is the data center going to push you over the edge? And so I think you know what? What co-location can do, particularly when you bring either, you know, batteries or to some degree, even.
+I mean, we’re working on Mhm. You know, gas-fired, dispatchable as well. Um, not combined cycle. That’s silly. Um, but simple cycle, you know, combined with renewables. And when you bring all that together, you can answer kind of all three of those things, right? The, the low, the gen interconnect ultimately. Often pays for the substation and things like that, because the generator and it connects usually have to pay for more of that.
+Um, the energy you’ve got plenty of behind the meter and then the battery or the, you know, dispatchable load or the solar itself can, can relieve a lot of the capacity. Constraint, um, and make it so that you’re not contributing any. So from that standpoint, it, it, it’s, it’s the scale of being able to build massive projects.
+It’s the speed of being able to bring renewables online. They’re still absolutely the fastest form of generation to bring online in this country and will be for at least five or six more years. And then. It’s the speed and scale that also come through getting regulators and local communities to let you do this, right?
+Cause that I think is a huge hangup. We haven’t even begun to look at the hangup that is for brand new CCGTs and nukes and other things, but it’s already a hangup for renewables. So why wouldn’t it be a massive hangup for those?
+Shayle:
+So obviously the, the extreme version of what you’re describing is, is an off grid data center, which has been much discussed, but not really done.
+Do you, what you’re describing right now is grid connected, right? Um, do you think that that’s a stepping stone? Like ultimately this stuff should be off grid. Do you think there’s ultimately that makes no sense? Whatsoever everything should always be grid connected. Is there some nuance to what the answer is situationally?
+Sheldon:
+I think it’s all about if it makes sense for the grid in a lot of ways, right? um if the grid in that location has some excess energy and they want to share it with the data center from time to time because Hey, you know making money out of Something that was otherwise making nothing is, uh, is, is good for rate payers, uh, or if they want to be in a position where, you know, potentially in an emergency, they can rely on the data center’s battery capacity or dispatchable gas that’s behind the meter, then, you know, grid connection makes all the sense in the world.
+But, uh, generally speaking, I think we’re moving into an era where, um, grid connection is optional and should be optional. Um, and that, you know, we should be able to, you know, operate these things fully off grid. If necessary. Now, I will tell you that a lot of customers still very much want the great optionality, right?
+So they’re going to, they’re going to continue to, even if they go down the road of an offset off grid data center, try to pursue having the grid eventually come to that site just for insurance purposes. Um, but increasingly what we’re developing for is an overlay with the gas grid, as well as the, the power grid.
+So I’ll give you an example. We’ve got two, uh, multi gigawatt scale. Data center sites in the panhandle of Texas. Uh, one of them’s three gigawatts. One of them’s over a gigawatt, um single sites uh, and uh, they’re capable of being fully off grid if you want them to. They’re on gas. They have multiple gigawatts each of wind and solar on site.
+Uh, you know, the ability to interconnect batteries for similar capacities. Um, but they also have interconnection to the grid. So there’s sort of this energy Disneyland that kind of, that can be all things to all people. But fundamentally, if you wanted to sever from the grid, you could.
+Shayle:
+So operationally for the ones, you know, the initial projects that you’re developing in this mold where, where they are grid connected, um, is the idea that the vast majority of the time.
+The thing is operating, or at least the behind the meter generation is delivering all of the power that the site needs and it’s pulling from the grid. Occasionally, is it more dynamic than that? And like you have a, I don’t know, 60 percent capacity factor between your, Okay. Your renewables and your storage.
+And so 40 percent of the time, you know, averaged out across days, you’re the data center is pulling from the grid. Like what, what do you think it looks like? What’s the optimal, I mean, it’s a question really, it’s an economic question, right? Like you could overbuild to infinity on the solar and wind and storage side.
+And then of course you have enough energy, but sort of an optimal economic question, I guess.
+Sheldon:
+Yeah, I mean, I think that’s what a lot of the folks that are sort of making this holy war between, you know, gas, renewables, nuclear, and don’t understand is that there is a baseload solution that’s like, you know, a little bit of a, a gassy renewables solution, if you will, where it’s like, you know, you can go into the panhandle of Texas, which is where these monster projects that we have are, and you can find yourself spots where you’ve got You know high 70 capacity factors of renewables.
+So, you know, 75 to 80 of the hours of the year We can run fully carbon free with you know Wind solar and batteries all on the same site and then you know 20 Maybe a little over 20 of the time we need to have some gas or we need to use the grid Um, that is you know, the interesting thing about that is that is probably akin to the cleanest possible, you know, mix of renewables, maybe anywhere in the country other than California and Hawaii.
+Right. So, so you’re talking about, um, you know, when people say, oh, these data centers are bringing back coal or whatever, like there are opportunities to actually make these data centers, some of the most You know, sort of clean powered industrial loads in the country, um, and to do it at costs that are actually probably the most competitive.
+Um, if you go build a CCGT right now for 2,000 KW and you know, like you can’t even find sort of like, you know, labor unions and pipe fitters and whatnot that have ever even built these things in many cases, right. You know, it’s going to take five, six years and the first ones ain’t going to be cheap. Um, you know, I, I would, I would put renewables and, you know, 12 heat rate.
+Resip engines for 20 percent of the time in against those CCGTs on cost all day and, and we’re, we’re effectively baseload as well. So I think that what’s being missed when people are like baseload resources, you know, the only way to do that is gas. Well, yeah, yeah, we need some gas, but just not the gas people are saying that we need.
+Shayle:
+Have you seen any appetite for flexible load from these data centers. The other thing that people talk about a lot, but I’ve seen no evidence of it actually in action of like, not basically operating the data center, anything other than 24 seven. Is there any interest in doing that? Whether for economic reasons, because you can offer lower, you know, electricity prices or emissions reasons, it doesn’t really matter. Is anybody talking about actually doing that?
+Sheldon:
+So while power might be increasingly sort of sexy at cocktail parties because of AI, some things don’t change. And, and, you know, one of those things is that we are still the tail of the dog, right? And, and, and, and we’re not wagging anything. So, when you think about the capacity factors, um, on the CapEx themselves, right?
+Like let’s, let’s just take a gigawatt data center and I’m going to round to like the nearest, you know, whatever, uh, Two and a half billion dollars. Okay. So, um, let’s just say you’ve got a gigawatt data center. Like the one I described that has wind solar batteries, some gas, um, and, and, you know, that generation, maybe five, 6 billion of power assets.
+Uh, you know, the data center itself is a powered shell, maybe another two and a half billion, you know, built out, built a suit takes you to 10 billion on the data center. So that’s ten billion data center structure, uh, five to six billion of renewable as our power assets, and then, you know, 30 billion of chips.
+So, you know, every second you aren’t running that at a hundred percent capacity factor is. Enormous amortized cost right so that it’s just it’s one of those things where it’s like you’d be a fool to turn it down, you know, you have to at some point because operationally, you know, there are things that you got to do for maintenance or, you know, changing the way you’re, you know, running your model or whatever it is that that constrains the data center operation itself, because the power grid is too expensive. No, never.
+Shayle:
+You mentioned time to power as being one of the advantages of building renewables in part, but in general, it is this is the. It’s the term of art in this industry at the moment, certainly as it pertains to the intersection of data centers and, uh, and power. What are you seeing there? Is there a You know, is there a willingness to pay more? How much additional flexibility do you get if you can offer power in two years versus five or five years versus ten?
+Sheldon:
+You know, I think it depends on who you’re talking to. Um, you know, up until about maybe. Nine, 12 months ago. No one wanted to even talk about anything beyond kind of like the prompt year Maybe 18 months out, right?
+Everybody was just so desperate for something right now uh, I think a combination of one they started to make some bigger bets and build a little inventory and two Uh, just the fact that they’re starting to realize that it’s not out there. Um, people have begun to capitulate. Um, you know, so for instance, for us, uh, we announced as part of the Google deal that we would be bringing online a, you know, a very, very sizable data center, um, in 26.
+So, you know, to be quite honest, that’s sort of unheard of, right? Uh, and, and that, that data center is going to have a co-location element to it. So, you know, while you might have Stargate with its first phase, uh, coming on out there, you know, in, in Abilene or wherever it is that they can come on quickly.
+Um, that’s most of the, even the big stuff is load, you know, load served from the grid right now. Uh, so I think our projects will be some of the first, you know, very, very large scale, you know, co-located assets. And, and the first of them will be 26. Uh, and then those. Those monster, uh, three gigawatt and one gigawatt systems out in the pan handle, you know, the first gigawatt scale phases of those can come on by end of 27, early 28.
+So, um, we are sitting on some stuff that could come on very, very rapidly. Uh, but a lot of that’s because of the work we did on kind of how we interconnect, uh, our hydrogen loads. Uh, so we have some pretty bespoke, um, interconnection. You know, configurations, both technically and commercially, um, that, that, you know, others, I think are gonna look, it’s not, it’s not rocket science.
+People figure it out. You get enough regulatory attorneys and, you know, like smart commercial people, you’ll get there. But I think we’re, we’re a ways ahead of a lot of folks. Um, and, and that’s a lot. Yeah.
+Shayle:
+It’s interesting. It’s a flip side of another thing that I’ve noticed, which is, um, there’s certain groups that have benefited from, it’s not exactly luck, but they were working on something else and then happened upon a gold mine.
+Basically when this happened, the, the, you know, so in your case, it is, you were developing mega sites for hydrogen production. Yeah. And because you were already developing those megasites, you know, you had a step ahead of everybody else when it turned out that we need a gigawatt or three gigawatts at a, at a single location to build data centers.
+The flip side of that were the Bitcoin miners who were building, you know, sites that were going to, that were load sites. And they were the ones who were early to looking for large capacity on the grid that you could site a data center at. And so this is where. I mean, Crusoe is a good example of this, speaking of the Abilene data center, right?
+Like they were developing data centers for Bitcoin mining and they had sites and it turns out that’s actually, that’s the coin of the realm at the moment. And so now you, you know, you get to flip from being a Bitcoin miner to being an AI data center developer and you’re, you’re a step ahead. So it’s, you know, a matter of being in the right place at the right time, I suppose.
+Sheldon:
+Yeah, I mean, you’re and you’re, you’re, you’re, and not only are you now exciting at parties, but you’re also, you know, more socially acceptable somehow, uh, yeah, that’s not true. Actually, uh, I mean, with crypto now, I think we’ve, we’ve, we’ve released the stigma and we’re back administration. We’re back. Uh, but yeah, I mean, look, we’re back.
+We we’ve been talking to folks on the crypto side for a long time. We were actually looking at a crypto deal that was, um, you know, frankly nixed by one of our banks, uh, years ago. Um, and, and all of our interactions with the crypto folks, um, almost universally, I’d say, uh, that the reputable players in the space are some of the smartest and most creative people I’ve found in the power market.
+So, you know, we, we, we, I think you share a lot of DNA. Um, they’re entrepreneurial. They’re, you know, uh, you know, developers like, like we are, they understand the rules, but they also, you know, see the rules as, you know, things to find creative ways to work within. Um, and, uh, and so, yeah, I mean, I would, I would definitely like, Like, look, the last thing we are is, is, you know, uh, going to sit here and tell you that we knew exactly what was going to happen.
+I do, I do think that like, if you look at what we were writing and saying, hydrogen was the first of many things we were preparing for. I think the thesis that–
+Shayle:
+You talked about direct air capture and, I remember.
+Sheldon:
+The thesis that the grid is broken and that, you know, in the case of what I’ve written in the past, you know, climate loads in particular, clean, clean steel, direct air capture, all of these things, if we were going to proceed with the climate policies of the prior administration or the path, it looked like we were going down, would, would require enormous amounts of kind of co-located generation.
+Uh, you know, that thesis, yeah. Proved to be durable just, I think, because it was based on some pretty, um, basic insight. You know, somebody, somebody asked me, uh, the other day, a similar version of this question, which was like, Oh, it looks like you guys were, were pretty prescient on the, uh, on the, uh, uh, you know, behind the meter co-located stuff.
+And I said like, no, you know, uh, really all it is, is like, we just, we just, we just decided that a miracle wasn’t going to happen. And then did like the only. The most obvious thing you could, right? And so, like, if, if, if deciding that you don’t believe in miracles is the prescient thing, then, yeah, I guess, I guess, uh, I guess that’s what we are.
+But, uh, one last comment. Maybe it’s karma too, Shayle, uh, because, you know, we were in that, like, Heavy fist fight with a lot of people in the industry about whether or not hydrogen should be co-located and time matched. And, you know, and a lot of people wanted to, you know, we could have just as easily developed it on the ship channel with, you know, VPPAs from West Texas, and we didn’t.
+And, um, and yeah, now we are benefiting from how we chose to develop it. So, you know, maybe there’s a little karma in the world.
+Shayle:
+You’re getting paid in a different way.
+Sheldon:
+Yeah.
+Shayle:
+Has there been– so we’re, we’re recording this, what, like three weeks past the public market meltdown of DeepSeek? Has there been any, have you felt any impact whatsoever on market demand for large scale centralized data centers since then? Or was it a. Yeah. You know a brief public market overreaction Jevons paradox immediately took hold and we’re right back where we were
+Sheldon:
+Yeah, I mean it kind of amazes me how little sort of critical thinking there is in the flow of, you know, hundreds of billions of dollars in our economy, right?
+I mean like it’s uh the first question I had was like, you know Is this even real? Right. And it turns out it kind of isn’t like, well, I mean, yeah, DeepSeek. I mean, it’s a distilled model, right? I mean, like, so great. You can make an energy efficient model, as long as the totally not energy inefficient version of it.
+Came before it, like, so distillation is a real thing. I’m not an engineer in AI, but like, you know, the whole, the whole strategy of Apple, for instance, when I’ve sat with folks from Apple on the AI side is basically distillation. We’ll take very powerful models. We’ll distill them down by sort of like effectively kind of, you know, generalizing the nodes to make them almost as intelligent, but not quite.
+And then we’ll just do inference locally. And, and that’s kind of. How, how we’ll play the game on lower, lower power equipment. Uh, and, and like, so there’s that first, right? I think people have to understand that a model is not a model. It’s not a model. Again, I’m not an engineer, but the engineers I’ve talked to since the DeepSeek announcement have, have made that pretty clear to me.
+Um, secondly, like here’s, here’s China, right? China is, uh, uh, an economy that is locked in a sort of mortal battle with the United States over AI dominance. Its incentive is to put out a model, right? It has to, it needs a public relations win that says it has a model that’s as powerful as chat GPT, Gemini, et cetera, right?
+But. It also can’t tell the world that the United States chip embargo is completely toothless and isn’t doing anything. So kind of, of course the press release is, yeah, we have a model. It’s as, it’s as powerful and it doesn’t use any chips, you know, like, so I guess that’s the first place I go, which is just like, it’s, it feels a little bit like BS to me, but let’s, let’s just take it at its face value though, that it is real.
+Um, You know, the fundamental question I have is awesome. So, uh, you know, what that means is that every megawatt hour of power can produce more intelligence. I don’t, I don’t understand why you like, why you would use less now, right? Jevons had a paradox, right? You know, can it, is there some reason why this model is very efficient and also can’t be made smarter by putting more power into it?
+Because if that’s true, yeah, then we have a problem. But like. It’s, it’s not.
+Shayle:
+I think the narrative has quickly turned back to Jevin’s paradox story of like, great, this is more efficient. We’re going to use more of it and, or we’re going to use the same amount of it and get more out of it. I guess that’s a better way to put it.
+Um, the only counter argument to that. That I see, and it’s not really a great micro argument, but it is a macro historical one, is what happened with power use efficiency in data centers over the past 20 years, pre AI, where efficiency just kept improving such that the overall power load of compute stayed relatively flat despite the fact that we did do a whole lot more computers.
+We were shifting to the cloud. So like that was happening and we sort of generally believe this time around is different. We are going to see significantly more power demand from compute, largely from AI now. And so we’re going to break this cycle of efficiency equating to power Load growth, or I guess equating to demand growth for compute over time, and so I think that is what you have to believe.
+Everyone seems to believe it, um, with a few exceptions, but it does stand to reason to me that, look, the first major, again, to your point, like let’s, let’s assume DeepSeek is real at face value, um, that the first big efficiency step function improvement, And these models is immediately going to should should immediately decrease our forecast for electricity load growth.
+Like all of a sudden we’re going to, you know, we had already found the ceiling. And so now the ceiling is just lower. That seems unlikely to me.
+Sheldon:
+Yeah, I think, um, first of all, I, I, we should have like a source-off on the kind of like did, did data center, did data center load flattened because we were, you know, even four years ago when we were looking at kind of like low growth for the original.
+like nexus of deep decarbonization articles and things that I wrote, like you were still seeing data center, you know, load growth, just purely for like e commerce and basic machine learning and things that were, you know, pretty significant, way, way more significant than, you know, electricity load growth at any other sector.
+So, you know, easily double digit, you know, kind of, kind of load growth. So I think, on a very substantial base, right? So anyway, so I do think that there’s that, um, that, that, that we have, it never really flattened out, but I think the other thing to keep in mind is like, what was that low growth fueling, right?
+A lot of that was commerce, e-commerce, web traffic, and I think a better analogy is to look at storage instead of compute, right? Um, storage is something that just goes, you know, like, like there’s, we seem to have an unbridled thirst for how much we want to store. And, you know, a lot of it’s garbage, but a lot of it gets stored.
+Right. And so I do think that there are like– AI may scale more like that. Um, the, the, the, the reasons for that are, are a couple of things, you know, commerce and the internet. Are limited by the number of people that have access to the internet, right? So when people looked at how does the internet economy scale, whether it’s fiber or data centers or Google’s, you know, revenue for ads, they always looked at like how many people have access to the internet, right?
+That was like a big statistic for a long time. Um, and you know, in Africa, it’s actually going to be bonkers, right? Well, yeah, yeah. But. But, but, but now we’re talking about something that creates load recursively, Shell. That’s the thing, right? So Apple’s trying to convince me that they don’t need a data center strategy or an AI, sorry, a big, like big model AI strategy, primarily because they don’t have one.
+I don’t think, and, and, and look, I’m not, I’m not throwing rocks. I’m, they probably have a lot, but the reality is that they’re telling me, look, Our strength is, you know, put it on the, put the smaller LLM on the phone. But the problem with that is that the smaller LLM on the phone is built to only do a couple of things.
+It’ll check the weather, you know, it’ll, it’ll, it’ll, it’ll listen to you and hear your words and understand you better, but then it’s going to launch a thousand ships, right? Every smaller distilled LLM that is power efficient doing inference is going to launch. Thousands of queries to bigger, more capable models that can actually reason their way through buying something on Amazon and reason.
+So it’s almost like increasing the world’s population by billions of people who all will want to browse the web and engage in, you know, e-commerce transactions. So, you know, Forget when Africa finds the internet, when, when, when the machines find the internet, they will be its biggest user by orders of magnitude.
+And so that’s really where I think, uh, you know, in the early days of D of AI, you know, two years ago, um, in the early days of the hype, there was this like, wow, you know, you as a power guy should be thinking about training only. Cause it’s the only way that anybody’s going to put a bet big data center like that in place.
+I think now what we’re seeing is that inference in the aggregate is actually probably a much larger draw than the training in the long run.
+Shayle:
+When machines find the internet is really, it’s like hard for me not to have Skynet in my head, as you say that, but it does evoke an, uh, a strong image. Um, all right, man, I know you have to catch a flight.
+This was illuminating and interesting as always. Um, I, I’m super excited to see you put like massive data, co-located data centers with renewables online in the next, I guess, year and a half or something, if you’re going to get something online in 26. So it seems like you’ve got to get to work.
+Sheldon:
+Yeah. We’re in the middle of project financing about 9 billion of CapEx right now.
+And, uh, next year. Um, if we, if we sign these two deals, we’re negotiating will probably be bigger. So, it’s a terrifying, but also exciting time. So thank you very much for having me on.
+Shayle:
+Yeah, appreciate it. Sheldon Kimber is the CEO and founder of Intersect Power. This show is a production of Latitude Media.
+You can head over to latitudemedia.com for links to today’s topics.
+Latitude is supported by Prelude Ventures. Prelude backs visionaries accelerating climate innovation that will reshape the global economy for the betterment of people and planet. Learn more at preludeventures.com.
+This episode was produced by Daniel Woldorff. Mixing by Roy Campanella and Sean Marquand. Theme song by Sean Marquand. Stephen Lacey is our executive editor. I’m Shayle Kann, and this is Catalyst.
+Share:
+Copied to clipboard
+Shayle Kann
+Shayle Kann is a partner at Energy Impact Partners, the leading venture capital fund investing in companies shaping the future of energy and infrastructure, where he leads the firm’s investments at the frontier of climate tech.
+Related Reading
+Interview
+Inside Octopus Energy’s expansion plans for the US market
+Lisa Martine Jenkins
+Jun 6, 2025
+Interview
+Platte River’s dual DERMs strategy
+Latitude Studios
+Jun 5, 2025
+Interview
+These BP and Microsoft alums want to use a ‘Lego set’ data center to power AI
+Bianca Giacobone
+Jun 5, 2025
+Stay ahead of energy's next frontier. Subscribe for free:
+More from Latitude Media
+Analysis
+Can Zanskar use AI to de-risk conventional geothermal?
+Bianca Giacobone
+Podcast
+The gas turbine crunch
+Shayle Kann
+Catalyst
+Interview
+Why AWS is building custom AI models for energy
+Bianca Giacobone
+Tech
+Markets
+Deals
+Podcasts
+About
+Newsletter
+Authors
+Careers
+Contact
+Advertise
+Privacy Policy
+Terms and conditions
+copyright @ 2025 Latitude media.inc
