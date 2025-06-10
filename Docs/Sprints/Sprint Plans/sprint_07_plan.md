@@ -1,71 +1,71 @@
 ---
 number:          7
-title:           "Natural Language Query Interface Foundation"
-goal:            "Build simple natural language querying with instant strategic answers on intelligence foundation"
+title:           "Strategic Intelligence Reports & Goal-Aligned Insights"
+goal:            "Generate comprehensive markdown reports showing transcript intake and goal-relevant strategic insights"
 timebox_minutes: 120
 loc_budget:      unlimited
 coverage_min:    85
-test_pattern:    "test_query"
+test_pattern:    "test_reports"
 template_version: 2.0 (2025-06-08)
 require_golden_path: false
 ---
 
-# Sprint 7 · Natural Language Query Interface Foundation
+# Sprint 7 · Strategic Intelligence Reports & Goal-Aligned Insights
 
 ## **1 · Sprint Goal (≤25 words)**
 
-Build simple natural language querying with instant strategic answers using complete intelligence pipeline foundation.
+Generate comprehensive markdown reports showing transcript intake analysis and goal-relevant strategic insights for user review.
 
 ## **2 · Deliverables & Acceptance Criteria**
 
-### Task 1: Implement basic natural language query processor
-- `pytest -k test_query_processor` green
-- Parse simple strategic queries like "Show me solar insights" or "What entities are trending?"
-- Route queries to appropriate intelligence modules (insights, entities, correlations)
-- Generate structured responses with supporting evidence and confidence scoring
+### Task 1: Generate comprehensive transcript intake analysis
+- `pytest -k test_report_generation` green
+- Create `reports/transcript_intake_analysis.md` documenting all 5 transcripts
+- Include metadata: file sizes, processing statistics, entity counts, topic coverage
+- Generate structured overview showing intelligence corpus scope and quality
 
-### Task 2: Create query result ranking and formatting
-- `pytest -k test_query_results` green  
-- Rank query results by relevance to user strategic goals
-- Format responses with supporting evidence and source attribution
-- Implement smart suggestions for related follow-up queries
+### Task 2: Create goal-aligned strategic insights report  
+- `pytest -k test_insight_mapping` green
+- Create `reports/strategic_insights_report.md` mapping insights to user goals
+- Include evidence citations from transcript sources with relevance scoring
+- Highlight cross-transcript patterns and correlations relevant to strategic objectives
 
-### Task 3: Build interactive query demonstration interface
-- `pytest -k test_query_demo` green
-- Create demonstration script showcasing natural language query capabilities
-- Generate sample query scenarios with realistic strategic questions
-- Export query results as structured data ready for future UI integration
+### Task 3: Build executive intelligence dashboard
+- `pytest -k test_executive_dashboard` green
+- Create `reports/executive_intelligence_dashboard.md` with executive summary
+- Generate actionable recommendations for each strategic goal area
+- Include risk/opportunity analysis with supporting intelligence data
 
 ## **4 · Workflow**
 
-1. **Think:** Design query architecture - parse queries → route to modules → format responses
-2. **Plan:** Create failing tests for all three query components  
-3. **Code:** Build natural language query processor using existing intelligence foundation
-4. **Test:** Implement result ranking and formatting with goal-aware prioritization
-5. **Code:** Create interactive demonstration interface with sample strategic queries
-6. **Test:** Validate query pipeline processes strategic questions with professional responses
-7. **Review:** Self-check against ThoughtSpot-style query quality standards
-8. **PR:** Open to `sprint-7` branch with natural language query capabilities
+1. **Think:** Design report architecture - intake analysis → goal mapping → executive dashboard
+2. **Plan:** Create failing tests for all three report generation components  
+3. **Code:** Build report generator using existing intelligence foundation
+4. **Test:** Generate transcript intake analysis with comprehensive metadata
+5. **Code:** Create strategic insights mapper linking findings to user goals
+6. **Test:** Build executive dashboard with actionable recommendations
+7. **Review:** Self-check against enterprise intelligence report standards
+8. **PR:** Open to `sprint-7` branch with strategic intelligence reports
 
-### **Query Architecture Components**
-- **Query Parser**: Natural language interpretation and intent recognition
-- **Intelligence Router**: Routes queries to appropriate analysis modules  
-- **Result Formatter**: Professional response generation with evidence
-- **Demo Interface**: Interactive query demonstration with strategic scenarios
+### **Report Architecture Components**
+- **Report Generator**: Core markdown report creation with data visualization
+- **Insight Mapper**: Links transcript intelligence to strategic goals with evidence
+- **Executive Analyzer**: Generates executive summaries and recommendations  
+- **Report Templates**: Professional formatting for business intelligence presentation
 
 ## **5 · Self-Review Rubric**
 
-- [ ] All `test_query*` tests green with realistic strategic query scenarios
-- [ ] Natural language query processor handles common strategic questions
-- [ ] Result ranking prioritizes responses by user goal relevance  
-- [ ] Query responses include supporting evidence and source attribution
-- [ ] Smart follow-up suggestions enhance query exploration experience
-- [ ] Demo interface showcases professional-grade strategic query capabilities
+- [ ] All `test_report*` tests green with comprehensive data validation
+- [ ] `reports/transcript_intake_analysis.md` documents all 5 transcripts with metadata
+- [ ] `reports/strategic_insights_report.md` maps insights to strategic goals with evidence
+- [ ] `reports/executive_intelligence_dashboard.md` provides actionable recommendations
+- [ ] Report formatting follows professional business intelligence standards
+- [ ] Cross-transcript correlations highlighted in strategic context
 - [ ] Clean integration with complete intelligence pipeline (goals, insights, entities, correlations)
-- [ ] Comprehensive error handling for ambiguous or unsupported queries
+- [ ] All reports include source citations and confidence indicators
 - [ ] No new dependencies added to requirements.txt
-- [ ] Commit message begins `feat(s7): natural language query foundation`
+- [ ] Commit message begins `feat(s7): strategic intelligence reports`
 
 ## **6 · Proposed Next Sprint**
 
-Sprint 8: Visual Analytics Dashboard - Interactive dashboards and drill-down capabilities for strategic intelligence visualization. 
+Sprint 8: Natural Language Query Interface - Interactive query capabilities with instant strategic answers based on generated intelligence reports. 
