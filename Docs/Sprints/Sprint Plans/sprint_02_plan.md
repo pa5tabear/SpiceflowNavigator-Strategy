@@ -1,7 +1,7 @@
 ---
 number:          2
 title:           "Goal-Based Analysis Foundation + Test Data"
-goal:            "Implement Goal data model with energy podcast test data for strategic analysis validation"
+goal:            "Implement Goal data model with user strategic objectives and energy podcast test data"
 timebox_minutes: 120         # wall-clock limit Codex may spend
 loc_budget:      150         # net new/changed lines allowed
 coverage_min:    85          # pytest --cov fail-under
@@ -33,29 +33,30 @@ require_golden_path: false
 
 ## 1 · Sprint Goal & Why It Matters (≤ 40 words)
 
-**Goal:** Implement Goal data model with energy podcast test data for strategic analysis validation
+**Goal:** Implement Goal data model with user strategic objectives and energy podcast test data
 
-**Why now:** CI foundation enables feature development. Goal-based scoring needs real test data for validation. Energy podcasts provide diverse strategic content for analysis.
+**Why now:** CI foundation enables features. Real user goals (solar, carbon removal, real estate, AI) + energy transcripts enable validated strategic analysis scoring.
 
 ## 2 · Tasks ("Rule of Three")
 
 | # | Task Name (imperative) | Acceptance Criteria (autotested) |
 |---|---|---|
-| 1 | Create Goal data model and scoring system | `pytest -k test_goal_model` green; Goal class with name, keywords, weight; score_content() returns 0.0-1.0 |
+| 1 | Create Goal data model with user objectives | `pytest -k test_goal_model` green; Goal class handles solar/carbon/real estate keywords; score_content() 0.0-1.0 |
 | 2 | Collect energy podcast test transcripts | 5 transcript files in `data/raw_podcasts/`; download script works; files readable by StrategicAnalyzer |
-| 3 | Integrate goal-based analysis with test data | `pytest -k test_goal_integration` green; analyzer processes real transcripts with goal scoring |
+| 3 | Integrate strategic scoring with real data | `pytest -k test_strategic_scoring` green; user goals score energy transcripts; relevance ranking works |
 
 ## 3 · Interfaces Changed / Added
 (append only; one row per file or endpoint)
 
 | File / API | Brief Change | Inputs → Outputs |
 |---|---|---|
-| `goal_model.py` | Create new file | Goal specifications → Goal class with scoring algorithm |
+| `goal_model.py` | Create Goal class with strategic categories | User objectives → Goal instances with keyword scoring |
 | `scripts/util/download_transcript.py` | Create transcript downloader | URL → cleaned transcript text file |
 | `data/raw_podcasts/*.txt` | Add 5 energy podcast transcripts | Raw content → test data for analysis |
-| `analyzer.py` | Add goal-based analysis | (transcript, goals) → goal-scored analysis results |
-| `tests/test_goal_model.py` | Create goal model tests | Test inputs → Goal validation and scoring tests |
-| `tests/test_analyzer.py` | Extend with real data tests | Test scenarios → Goal integration with real transcripts |
+| `analyzer.py` | Add goal-based strategic scoring | (transcript, user_goals) → relevance-scored analysis results |
+| `tests/test_goal_model.py` | Test Goal model with user objectives | Solar/carbon/real estate goals → scoring validation |
+| `tests/test_analyzer.py` | Test strategic scoring integration | Real transcripts + user goals → relevance ranking tests |
+| `User Goals/User_Goals_Template.md` | Reference for goal categories | Strategic objectives → keyword extraction for Goal model |
 
 ## 4 · Success Metrics (CI-Enforced)
 
@@ -69,25 +70,33 @@ require_golden_path: false
 
 ✅ **5 energy transcripts** successfully collected and processable
 
+✅ **User strategic goals** (solar, carbon, real estate, AI) correctly score content
+
 ✅ **No new deps** added to requirements.txt
 
 ## 5 · Codex Workflow (MUST follow)
 
-1. **Think privately** (outline Goal model + data collection strategy in comments)
-2. **Add failing tests** matching `test_goal` pattern for Goal model and integration
+1. **Think privately** (outline Goal model + strategic categories from User Goals template)
+2. **Add failing tests** for Goal model with user objectives and strategic scoring
 3. **Implement transcript download script** with BeautifulSoup HTML cleaning
-4. **Create Goal class** with keyword-based scoring algorithm
-5. **Collect 5 energy podcast transcripts** per `data/raw_podcasts/README.md` spec
-6. **Update StrategicAnalyzer** to accept goals and score real transcript content
+4. **Create Goal class** supporting strategic categories: Solar Development, Carbon Removal, Real Estate, AI Automation
+5. **Collect 5 energy podcast transcripts** per `data/raw_podcasts/README.md` specification
+6. **Update StrategicAnalyzer** to accept user goals and score real transcript content with relevance ranking
 7. **Self-Review Checklist** (below)
 8. **Open PR** to `sprint-2` branch
 
 ### Required Transcript Sources
-- Volts: Clean energy supply chains (volts.wtf)
-- Catalyst: Data center colocation (latitudemedia.com)  
-- Catalyst: FOAK project financing (latitudemedia.com)
-- Columbia Energy Exchange: America's energy priorities (energypolicy.columbia.edu)
-- Cleaning Up: Global South clean energy (simplecast.com)
+- Volts: Clean energy supply chains (volts.wtf) → matches Solar Development goals
+- Catalyst: Data center colocation (latitudemedia.com) → matches AI/energy intersection  
+- Catalyst: FOAK project financing (latitudemedia.com) → matches financial keywords
+- Columbia Energy Exchange: America's energy priorities (energypolicy.columbia.edu) → policy relevance
+- Cleaning Up: Global South clean energy (simplecast.com) → carbon removal alignment
+
+### Strategic Goal Categories (from User Goals template)
+- **Solar Development**: utility-scale, PPA, interconnection, MISO, off-take, 10 GW, 120 MW
+- **Carbon Removal**: BECCS, biochar, DAC, gigaton-scale, $100/t-CO₂
+- **Real Estate**: subdivision, IRR, ADU, parcel scoring, $50M equity
+- **AI Automation**: agents, automation, unit testing, 85% precision, 80% coverage
 
 ### Self-Review Checklist (5-point)
 - [ ] All tests green with `PYTHONPATH=.`
@@ -95,7 +104,9 @@ require_golden_path: false
 - [ ] LOC delta ≤ 150 across 6 files
 - [ ] Goal class validates inputs and scores content 0.0-1.0
 - [ ] 5 transcript files collected and readable
-- [ ] StrategicAnalyzer processes real podcast content with goals
+- [ ] StrategicAnalyzer processes real podcast content with user goal scoring
+- [ ] Strategic categories from User Goals template correctly implemented
+- [ ] Energy transcripts show meaningful relevance differences for different goal types
 - [ ] Commit message begins `feat(s2):` 
 
 *(Fail → iterate once, else open PR.)*
@@ -118,7 +129,7 @@ Any scope creep or guard-rail breach triggers automatic sprint rollback.
 
 ## 8 · Celebration Criteria 🎉
 
-**Success** = ✅ CI green • ✅ Coverage ≥85% • ✅ Goal-based scoring works • ✅ Real energy data analyzed • ✅ Strategic analyzer enhanced
+**Success** = ✅ CI green • ✅ Coverage ≥85% • ✅ Goal-based scoring works • ✅ Real energy data analyzed • ✅ User strategic objectives integrated • ✅ Relevance ranking functional
 
 Anything else = re-scope next sprint.
 
