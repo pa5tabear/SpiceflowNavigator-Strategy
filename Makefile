@@ -13,8 +13,7 @@ test:
 	pytest tests/ -v
 
 install:
-	pip install -r requirements.txt
-	pip install -e ./common-utils/
+        pip install -r requirements.txt
 
 dev:
 	python -c "from analyzer import StrategicAnalyzer; print('Strategy agent ready')"

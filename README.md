@@ -5,8 +5,7 @@
 ## Quick Start
 
 ```bash
-# Clone with submodules (for agents)
-git clone --recursive git@github.com:pa5tabear/SpiceflowNavigator-Strategy.git
+git clone git@github.com:pa5tabear/SpiceflowNavigator-Strategy.git
 cd SpiceflowNavigator-Strategy
 
 # Install dependencies
@@ -34,17 +33,6 @@ make clean         # Clean temporary files
 ```
 
 
-## CommonUtils Submodule
-
-This repository includes CommonUtils as a submodule:
-
-```bash
-# Update CommonUtils to latest
-git submodule update --remote common-utils
-
-# Install CommonUtils in development mode
-pip install -e ./common-utils/
-```
 
 ## Related Repositories
 
