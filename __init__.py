@@ -1,1 +1,1 @@
-# Navigator Strategy Agent Package 
+# Navigator Strategy Agent Package

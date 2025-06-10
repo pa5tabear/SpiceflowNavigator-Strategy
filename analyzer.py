@@ -36,4 +36,3 @@ class StrategicAnalyzer:
             picked = sentences[:1]
         summary = " ".join(picked)
         return shorten(summary, width=max_words * 6, placeholder="...")
-
