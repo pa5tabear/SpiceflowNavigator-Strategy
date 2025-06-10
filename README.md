@@ -17,10 +17,11 @@ make test
 
 ## Agent Responsibilities
 
-- 🎯 **Strategic analysis and goal scoring**
-- 📊 **Content relevance evaluation**
-- 💡 **Insight generation and ranking**
-- 🔍 **Hybrid search and matching**
+- 🎯 **Strategic Intelligence Synthesis** - Palantir-class entity mapping and cross-source correlation
+- 📊 **Predictive Analytics Engine** - Trend forecasting and risk assessment with enterprise-grade accuracy  
+- 💡 **Natural Language Intelligence** - ThoughtSpot-style querying with instant strategic answers
+- 🔍 **Visual Analytics Platform** - Tableau-level interactive dashboards and drill-down capabilities
+- ⚡ **Real-Time Strategic Alerting** - Power BI-grade monitoring and automated insight delivery
 
 ## Development Commands
 

@@ -1,65 +1,71 @@
 ---
 number:          4
-title:           "Analytics Dashboard & Report Generation"
-goal:            "Build analytics dashboard and automated report generation from insights"
+title:           "Intelligence Correlation & Pattern Detection Engine"
+goal:            "Build cross-source correlation engine and advanced pattern detection for strategic intelligence"
 timebox_minutes: 120
 loc_budget:      unlimited
 coverage_min:    85
-test_pattern:    "test_analytics"
+test_pattern:    "test_intelligence"
 template_version: 2.0 (2025-06-08)
 require_golden_path: false
 ---
 
-# Sprint 4 · Analytics Dashboard & Report Generation
+# Sprint 4 · Intelligence Correlation & Pattern Detection Engine
 
 ## **1 · Sprint Goal (≤25 words)**
 
-Build analytics dashboard and automated report generation from insights to deliver visual strategic analysis for users.
+Build Palantir-inspired intelligence correlation engine with entity relationship mapping and cross-source pattern detection capabilities.
 
 ## **2 · Deliverables & Acceptance Criteria**
 
-### Task 1: Create analytics aggregation engine
-- `pytest -k test_analytics_aggregation` green
-- Aggregate insights across transcripts by category and goal relevance
-- Generate summary statistics and trend analysis
-- Support filtering by time, category, and relevance threshold
+### Task 1: Implement entity relationship mapping engine  
+- `pytest -k test_intelligence_entities` green
+- Build entity co-occurrence graph across all transcripts
+- Calculate relationship strength scores and network density
+- Support entity context tracking and temporal analysis
 
-### Task 2: Implement dashboard data structures  
-- `pytest -k test_analytics_dashboard` green
-- Create structured data models for dashboard display
-- Support charts, metrics, and ranked lists visualization
-- Export dashboard data as JSON/dict for UI consumption
+### Task 2: Create cross-source correlation analyzer
+- `pytest -k test_intelligence_correlation` green  
+- Detect patterns and relationships across different content sources
+- Implement topic evolution tracking over time
+- Validate claims and detect information flow patterns
 
-### Task 3: Build automated report generator
-- `pytest -k test_analytics_reports` green  
-- Generate executive summary reports from aggregated insights
-- Include goal-specific recommendations and action items
-- Support markdown and structured text output formats
+### Task 3: Build strategic anomaly detection system
+- `pytest -k test_intelligence_anomalies` green
+- Detect unusual strategic importance spikes and emerging entities
+- Implement sentiment anomaly detection across sources
+- Generate actionable intelligence alerts with confidence scoring
 
 ## **4 · Workflow**
 
-1. **Think:** Design analytics architecture - aggregation → visualization → reporting
-2. **Plan:** Create failing tests for all three analytics components  
-3. **Code:** Implement aggregation engine with statistical analysis
-4. **Test:** Build dashboard data structures with export capabilities
-5. **Code:** Create report generator with executive summary logic
-6. **Test:** Validate end-to-end analytics pipeline with real transcript data
-7. **Review:** Self-check against rubric below
-8. **PR:** Open to `sprint-4` branch with comprehensive feature set
+1. **Think:** Design intelligence architecture - entity mapping → correlation analysis → anomaly detection
+2. **Plan:** Create failing tests for all three intelligence components  
+3. **Code:** Implement entity relationship mapping with co-occurrence analysis
+4. **Test:** Build cross-source correlation engine with temporal tracking
+5. **Code:** Create anomaly detection system with strategic alerting
+6. **Test:** Validate end-to-end intelligence pipeline with 307KB+ transcript corpus
+7. **Review:** Self-check against Palantir-level intelligence quality standards
+8. **PR:** Open to `sprint-4` branch with enterprise-grade intelligence capabilities
+
+### **Intelligence Architecture Components**
+- **Entity Graph Engine**: Co-occurrence mapping, relationship strength scoring
+- **Correlation Analyzer**: Cross-source pattern detection, information flow tracking  
+- **Anomaly Detector**: Strategic importance spikes, emerging entity detection
+- **Alert Generator**: Confidence-scored intelligence alerts with actionability
 
 ## **5 · Self-Review Rubric**
 
-- [ ] All `test_analytics*` tests green with real data
-- [ ] Analytics aggregation processes 307KB+ transcript data
-- [ ] Dashboard structures export clean JSON for UI consumption  
-- [ ] Reports generate actionable executive summaries
-- [ ] Statistical analysis provides meaningful business metrics
-- [ ] Goal-aware filtering and ranking throughout analytics pipeline
-- [ ] Clean integration with existing insight extraction system
-- [ ] Comprehensive error handling and data validation
+- [ ] All `test_intelligence*` tests green with real 307KB+ data corpus
+- [ ] Entity relationship mapping builds comprehensive co-occurrence graphs
+- [ ] Cross-source correlation detects meaningful pattern relationships  
+- [ ] Anomaly detection identifies strategic importance spikes and emerging entities
+- [ ] Intelligence alerts include confidence scoring and actionability assessment
+- [ ] Temporal analysis tracks topic evolution and information flow patterns
+- [ ] Clean integration with existing goal scoring and insight extraction systems
+- [ ] Enterprise-grade error handling and data validation throughout
 - [ ] No new dependencies added to requirements.txt
-- [ ] Commit message begins `feat(s4):`
+- [ ] Commit message begins `feat(s4): intelligence correlation engine`
 
 ## **6 · Proposed Next Sprint**
 
-Sprint 5: Web UI implementation with interactive dashboard visualization and user goal management interface. 
+Sprint 5: Predictive Analytics & Strategic Forecasting - Implement trend prediction algorithms and risk assessment framework. 
