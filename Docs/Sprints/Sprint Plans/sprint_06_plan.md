@@ -30,11 +30,11 @@ Build cross-source correlation engine and advanced entity relationship mapping w
 - Implement relationship confidence assessment and validation
 - Generate network density metrics and clustering analysis
 
-### Task 3: Build strategic anomaly detection system
-- `pytest -k test_correlation_anomalies` green
-- Detect unusual strategic importance spikes and emerging entity patterns
-- Implement confidence-scored anomaly alerts with actionability assessment
-- Create anomaly classification and priority ranking system
+### Task 3: Create comprehensive intelligence demonstration
+- `pytest -k test_correlation_demo` green
+- Build demo script showcasing end-to-end intelligence pipeline from transcripts to insights
+- Generate comprehensive intelligence report with visualizable data exports
+- Create executive summary demonstrating all capabilities: goal scoring, insights, aggregation, entities, correlations
 
 ## **4 · Workflow**
 
