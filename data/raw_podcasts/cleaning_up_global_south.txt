@@ -1,1 +1,492 @@
-Transcript unavailable due to site restrictions.
+Title: A Clean Energy Playbook For The Global South — Ep196: Lucy Heintz
+
+URL Source: https://www.cleaningup.live/a-clean-energy-playbook-for-the-global-south-ep196-lucy-heintz/
+
+Markdown Content:
+**Lucy Heintz**
+
+We have never had a default on any of our projects. The US energy market, from memory, the default rate is about 8-9%. If you take the subset of African power projects, which sounds like a risky place to do business, but where you've got all these protections in place, it's 1.4%. So that just challenges the mindset, in some ways. If you do all these things well and you're in critical infrastructure, your asset is actually incredibly resilient over the cycle.
+
+**Michael Liebreich**
+
+What you're talking about is very concrete. I mean an 8% default or a 1% default. I know which one I would rather have in my portfolio.
+
+**ML**
+
+Hello, I'm Michael Leibreich, and this is Cleaning Up. Regular listeners to this show will know all the statistics. Over 80% of people in the world live outside the developed countries. The growth markets will be responsible for 80% of the future emissions that will drive climate change, and yet, only a fraction of the investment going into clean energy and the net-zero transition is flowing into those growth markets. My guest today is a driving force behind that slice of investment which does address clean energy in growth markets. Lucy Heintz is partner and head of energy infrastructure at Actis, whose most recent Energy Fund represents over $6 billion of investable capital. Please welcome Lucy Heinz to Cleaning Up.
+
+**ML**
+
+Lucy, thank you so much for joining us here on Cleaning Up. And also thank you, because on an institutional level, Actis is a member of our Leadership Circle. So thank you for your support for everything we do here.
+
+**LH**
+
+Thank you for inviting me, and we're delighted to be a supporter.
+
+**ML**
+
+Very good. Now, where we start every episode, you get to explain who you are and what you do in words of your own choice. But we need the short version, and then we'll dive in.
+
+**LH**
+
+Okay, so short version. Lucy Heintz, head of energy infrastructure at Actis. I've been there for 24 years, joined as an associate. Actis is a growth markets critical infrastructure investor, institutional capital. And we have been around for all of that period, and then historically, through our heritage, for 70 years before that, through being the Commonwealth Development Corporation.
+
+**ML**
+
+Okay, now there's a number of different things that we're going to unpack there. You talked about growth markets. So I think that's where we'll start. What do you define as the growth markets then?
+
+**LH**
+
+So it's a really good question. I'm glad you started there. Growth markets are the countries where 85% of the world's population live. We define that quite broadly, because we're not emerging markets. These are not all emerging markets. But if you think about where the world's infrastructure capital currently goes, two thirds of it goes to the US and Western Europe. We are essentially investing everywhere else. So LATAM, Africa, Middle East, Central Eastern Europe, all over Asia and Japan. And that has a coherence in that context, because that's where the rest of the world, or two thirds of the world's institutional infrastructure capital is not, and it's where they've got massive opportunity, and it's less well chased by capital.
+
+**ML**
+
+So this is great because we're already heading off in a direction that I had not anticipated when we prepped for this, which is the definitional differences between emerging markets, growth markets that you've just explained, Global South, what used to be called the developing world, which I'm not sure is still a term that's approved of, and non-OECD, I've heard things called. And there's all these little nuances. Are they really that different? Is this a rabbit hole, or is this important?
+
+**LH**
+
+So I think the important point, and it's important it doesn't become a rabbit hole, but the important point is, when people think about the definition of emerging markets, their minds take them to developing countries. And what you mean by emerging markets, if you think about that we've been investing for 20 years, is that they are not a single bucket of risk-return profile. They're a continuum, and it's very hard today to contrast an India with a Senegal or a Brazil with a Nigeria. And so we try to think about it in that big growth market category, because it allows you to pull out different themes within it without being in a rabbit hole.
+
+**ML**
+
+So you've got the broadest definition. I mean, that's the important takeaway, is you've got the broadest definition. And you can kind of tell, because you've already mentioned Senegal, but you've also just now talked about Japan and so you've got, essentially, everything except for North America and Western Europe. So you would even go into Southeast Europe and Eastern Europe, the Balkans, places like that?
+
+**LH**
+
+So Romania, Bulgaria, the Balkans, yes.
+
+**ML**
+
+So we've dealt with the geography of focus, which is very broad. And we'll come back, no doubt, to different examples, because there's such a range of different countries there. Let's also dive in. You talked about it being formally the CDC, the Commonwealth Development Corporation. Now the Commonwealth is another definition of geography, but that's the history, that's where you came from. Explain that transition.
+
+**LH**
+
+So CDC was set up by the UK Government in 1946 after the Second World War. It was the UK government's arm for private sector development. There are many complementary, similar institutions in other markets, in terms of DEG in Germany and FMO in the Netherlands and Proparco in France, or Groupe AFD, who they belong to. So this kind of family of DFIs, who were investing, lending, owning businesses in developing countries for that period, so 1946 onwards.
+
+**ML**
+
+Presumably Commonwealth developing countries at that point?
+
+**LH**
+
+Initially, yes. In 1997, the Blair government came in and decided that they should look at privatization for CDC. And CDC, at that point, started to broaden its mandate, started to think about how it could become privatized. And when I joined in 2001, CDC was along that journey of transition, and the first thought process was around, should we sell shares in the topco like BT? And the first exercise we did in terms of engaging with investors in 2001, we very much got the feedback that, 'look, we love the idea of mobilizing capital, catalytic capital, in terms of UK Government going into growth markets, but why don't we invest alongside the UK government balance sheet and mobilize additional third-party capital over time?' And that's how the idea of Actis was born. And in 2004, CDC separated into the balance sheet. CDC now called BII, and Actis as the growth markets fund manager, who would start off with CDC as their only investor, but then mobilize more capital over time.
+
+**ML**
+
+Okay, now we have an acronym alarm here. There's a klaxon that I'm allowed to push. It's virtual, unfortunately. But BII?
+
+**LH**
+
+British Institutional Investment... British International Investment, sorry.
+
+**ML**
+
+Ok, so British International Investment, which is really just a caretaker for a bunch of money that was the successor of the money that was in CDC, in the Commonwealth Development Corporation. Okay, so it used to be all government money, yes. But then, following that process, you started to open it up and to have a more traditional private sector fund, a fund by fund by fund structure. Question for you: you joined in 2001, can I ask why? Was it that you saw that this was privatizing, and thought 'I'm going to fill my boots and make loads of money doing this,' or was there some idealism? Where did you personally come from in this?
+
+**LH**
+
+I went to business school in order to get an MBA, in order to switch careers from emerging markets trading, which I was doing at an investment bank, to get a job doing emerging market private equity. That's what I went to business school to get a job doing. And CDC was recruiting in its first associate program from business school. It was my dream job, and I was the second associate that they took on. And I'm still there, nearly 24 years later.
+
+**ML**
+
+Can I ask which business school?
+
+**LH**
+
+I was at INSEAD.
+
+**ML**
+
+I suspected. I should have known that when I was researching. So you, you had been doing emerging markets trading, but you wanted to get into private equity. Do you want to say some words about that? Because, you know, for some of the audience, they'll know the difference intimately, and they'll know exactly. And some of them, maybe working in civic society, really don't understand the difference between sorts of capital, and whether it's lifestyle or whether it's how long you get to work on an individual deal, those sorts of things. So you presumably had a good reason to want to make that change.
+
+**LH**
+
+I did. So trading, clearly, is a lot about markets. It's very live. It's numbers on screens. And I was taking investors on trips to Greece and the Czech Republic and South Africa, which were the markets that were kind of open at the time in terms of local currency bonds, which is what I traded. But actually what impacted me was the fact that through an emerging market crisis, which we had the Asia crisis at the end of the 90s, we were quite removed. And actually, the idea of actually investing in and building real businesses that really make an impact in the markets, but on a fully commercial basis, was something that I found deeply compelling. And I still get up every morning looking forward to doing that today.
+
+**ML**
+
+So I remember the Asia crisis in 1998 because I was having to renegotiate video news contracts. But I was already in what I would call the real economy, even though it was only news coverage. But that was quite a traumatic event. Did that play a part? Did you look at that Asian market crisis and think 'that was unexpected, that was traumatic. I need to be somewhere. I need to be doing something more real and more tangible?'
+
+**LH**
+
+Partly, but also, I traveled a lot. I traveled to a lot of different countries and what was very motivational for me was to be actually building real businesses with management teams having an impact, and actually creating infrastructure projects which are fundamental in terms of economic growth and development and all of those other things. That was the thing that was most motivating.
+
+**ML**
+
+Now we'll get onto a few examples of the sorts of things you've been building, but we need to complete on the journey, the institutional journey of Actis emerging from CDC, having some money. But it's all government money under management, and then starting to open up funds. So how did that journey go? You're on fund five at the moment, and a lot of it is already committed. So what were the steps along that journey?
+
+**LH**
+
+It's important to say that energy, which I manage, is not the only thing that access does. We have other businesses...
+
+**ML**
+
+Didn't you have orange juice at the beginning, something tells me you had orange juice and aluminum smelters. You had all sorts of stuff, didn't you?
+
+**LH**
+
+You've done your research Michael. So that was the historic portfolio that CDC had from what you might call its legacy prior to 2004. Going on from 2004 there was a legacy private equity portfolio and there was a private equity business, but over the last 20 years, our focus has increasingly channeled towards real assets and critical infrastructure, because it's such an enormous opportunity set. It's extremely capital intensive, and therefore you are never short of interesting deal opportunities that can have impact. But at the same time we had private equity, we had energy, and then over time, we've developed a long-life infrastructure fund. We're active in digital as well, and we have an Asia real estate business. But how that journey completed or continued is that our first fund had only CDC as an investor, as an LP. By the time we got to fund two, we had CDC and some others, a handful of others. Fund three, CDC was very much diluted. We'd had some track record, we'd been successful, so there was an additional group of investors. By the time we got to fund four, we didn't have any DFI LPs, or we had one in fund four that's not CDC. And then fund five is commercial capital from the world's leading asset allocators, who not only think about infrastructure, they've got mature programs, so they're thinking about a niche product within infrastructure that's focused on growth markets.
+
+**ML**
+
+Okay, so there's a few things to pick apart there. You've shifted from a general focus or different pockets, because you used to do orange juice and smelters, but you also used to do healthcare, you used to do consumer goods and probably financial services. But was that a conscious process of, well infrastructure is the thing we do well, or was it just that — because you head the energy and infrastructure — were you just more successful than all of your colleagues, and therefore the focus got shifted to what you do?
+
+**LH**
+
+Well, there are other people who were successful in energy and infrastructure before I was managing it, but it's a combination of those things, right? One of the great things about critical infrastructure in growth markets that is different from doing more vanilla private equity is you have a very high degree of hard currency component to your portfolio, so that gives you a lot of resilience. You've got a high degree of contracted cash flows because you're signing long term power purchase agreements with utilities and other off-takers. So you've got a lot of risk management that's built into the strategy that perhaps you don't have in a more vanilla private equity strategy. And we've shown that we're much more resilient over the cycle, much more resilient, which I know we're going to talk about in a minute, in terms of periods of political volatility, if you like.
+
+**ML**
+
+Yes, political volatility, I knew that was going to have to come up for sure. And we will get back to that, but just to complete so that everybody understands the what and the how and the cast of characters and so on. Give us an idea of the scale. Each of those funds got bigger and bigger. And also, as you've moved away from the DFIs, the acronym klaxon, you're going to tell us what a DFI is. But as you moved away from those multilaterals or concessionary finance institutions, who is now putting money into your funds?
+
+**LH**
+
+So DFI is a Development Finance Institution, there we go. Let's tick that one off. Our LPs today, there's a large group.
+
+**ML**
+
+LP? Klaxon.
+
+**LH**
+
+Limited Partner in a private equity fund.
+
+**ML**
+
+That's the asset owner who ultimately has the...
+
+**LH**
+
+The capital provider, right. So the capital providers come from alternative assets programs. And it's a typical mix of alternative assets allocators out of their programs, who have infrastructure components of that and within that, then they are looking for diversification, typically, and they want to have growth markets exposure in infrastructure and energy.
+
+**ML**
+
+And in terms of scale, each fund so far has been bigger than the one before, as far as I can see, is that right?
+
+**LH**
+
+In general, yes. Clearly there are cycles. But if we think about fund three, fund four and fund five, and this is all public information, you're going from 1.1 to 2.75 to 4.7.
+
+**ML**
+
+And these are in billions of dollars.
+
+**LH**
+
+Yes, billions of dollars.
+
+**ML**
+
+And that trend towards larger funds, is that because there's a bigger and bigger allocation to infrastructure and to growth markets? Or is it that as your institution has grown, you've got more market share?
+
+**LH**
+
+It's a bit of everything. So infrastructure investment has grown very substantially as an asset class over the last 10 years, particularly. There's a big factor of that in terms of just more capital going into infrastructure, infrastructure programs maturing, and infrastructure allocators looking for different forms of diversification. So that's one big trend. There's an opportunity set which is gigantic. I mean, you know the number better than anybody. I think you came up with it in terms of how much energy the world needs. Hundreds of billions of dollars per year has to flow. And where does that money need to flow? Growth markets.
+
+**ML**
+
+See this is very interesting, perhaps also to some of our audience who will have listened to the episode withCarine Smith Ihenacho. She's the head of sustainability at Norges Bank Investment Management, so the Norwegian Oil Fund. And it was a really fascinating episode, except that halfway through it, it became clear that they don't invest in, broadly speaking, new and upcoming technologies, or the global south and growth markets or in infrastructure. And yet we were talking about climate action. So it became a bit uncomfortable. Because what you're doing is infrastructure and global south, a lot of it is new energy and infrastructure technology. So you're doing, in a sense, the thing that they're kind of not doing. Is that fair?
+
+**LH**
+
+I think there's a process of evolution going on, back to the point that infrastructure programs are growing very fast. They're still growing and evolving and so that point of institutional capital being comfortable with a growth market risk-return profile is something that comes with that need for diversification, and thinking beyond look, two thirds of the capital is going to home markets. And if you think of where the world's infrastructure capital lives, there is a home market bias. So that's important, but I talked about the opportunity set being gigantic, but also, there's an impact of track record. The fact that we're in fund five, and we've been doing it for a long time. That's also important as well, in terms of building that confidence that you're gonna be able to do the same.
+
+**ML**
+
+I'd like to get into what sorts of technologies. I've just said, 'well, you invest in energy.' I know that you do a lot of newer energy technologies, clean energy technologies: wind, solar, batteries, you've been working around and so on. But why don't you answer that question of what sort of things you do with some examples? Let's move away from the kind of theoretical and the history and the trends, and so we actually get into some examples, because you don't only do energy, you do infrastructure much more broadly. So paint that picture.
+
+**LH**
+
+So the examples, what I'll use will be energy examples, in terms of, what do we actually do and what does this look like? So, for example, in fund five, we're building our third renewable energy business in India. We built one between 2014 and 2017 called Ostro. That is a business that had, in the end, about 11 individual renewable energy projects, some of which we bought, some of which we built. Context on India: It's one of the most interesting and dynamic energy transition markets on the planet, in terms of, if you think about all the things that a government can do to make energy transition happen and bring in foreign investment, India's doing it.
+
+**ML**
+
+In fact, it's about 30 of those markets, both in terms of scale, but also it's got all of its different states, which, yes, not all are as welcoming and as aligned, but overall the country is phenomenally interesting for sure.
+
+**LH**
+
+So if you think about it, Ostro was a company that we built. So how our playbook works is that we will, as we did with Ostro in 2014, we already saw that renewable energy was becoming cost competitive in terms of India's journey to just simply meeting the needs of its population and high growth and high rates of growth of electricity demand. So you find some foundation projects. You're in a market that has got huge dynamism in terms of many projects coming at you. So you can see a pipeline. You can see a regulatory environment that is working in terms of being stable, being very focused on mobilizing more capital into the energy transition around renewable energy. And what that looked like is the government having distribution state DISCO auctions for power purchase agreements.
+
+**ML**
+
+DISCO?
+
+**LH**
+
+Distribution company.
+
+**ML**
+
+That's almost a klaxon.
+
+**LH**
+
+I did say power purchase agreement.
+
+**ML**
+
+It's funny, because anybody who works with India and energy will say DISCO, and everybody knows what it means. But it is a distribution company. So what we would call a power distribution company, DNO, if you want to invoke the acronym klaxon there. So that's the distribution network operator. The wires to the last few miles.
+
+**LH**
+
+Yeah, wires to customers. So the Indian distribution companies, who are one per state, were very active at that point, having auctions where you could, if you had a project, go and bid in the auction to get a power purchase agreement. And actually that was the moment where India was moving from a tax regime around renewable energy and then a kind of feed in tariff regime to being actually competitively procuring renewable energy. And one of the great things, and a key ingredient of a great energy transition, is a government that really means business and has a big plan. India wants to build 500 gigawatts of renewable energy by 2030, it's already got 200. And there's been a fantastic rate of growth in the last 10 years. So you could get a power purchase agreement, and you had your route to market within the right regulatory framework. So you can find a management team. It's an incredibly deep talent market. So we built a management team. We had a pipeline of projects which we could acquire. We had some foundation assets that we could acquire in terms of things that were already moving in construction or operational. We could bid in auctions and get a power purchase agreement. And we could do this on a relatively diversified basis in terms of which states were credit worthy, or more credit worthy than others. And so we could assemble a business of 11 projects, which at the time was quite a large number. We got to 1.1 gigawatts within three to four years. And we became a sizable player within the renewable space. And that business, then had a continued rate of growth, a great management team, operating assets, diversified operations. And there's an important point here around sustainability and governance, and that's a big hallmark of our approach in terms of doing those things really well, also safety, so that you're ready, and somebody else is very prepared to buy that from you as an entry point into that market and take it on to the next phase of growth. And that's what we did with Ostro. We sold it in, it was bought by Renew, a well known Indian power sector renewable energy business listed in the US. And that completes an investment cycle. And as I said, BluPine, which is our renewable energy business in India in fund five, is our third iteration of the same playbook.
+
+**ML**
+
+So now you called it a company, you said it's an energy company. And I think that's an interesting one to delve into a little bit, because it is a company, of course, but it's a development platform. I would call it a development platform because it's a group of people who've got you said it was, I think 11 or 12 separate projects? But those projects are operating assets. So it's not making wind turbines. It's not casting bits for the gearbox. It's not a technology or a service provider, it's not doing wind weather forecasting. These are companies that are building portfolios of assets. You're going to give a few more examples, are they all building portfolios of assets? Or do you also still invest in the more classical, what I would call private equity, but not infrastructure, piece of just building companies, technology companies?
+
+**LH**
+
+No, we do generation businesses. So hard assets, and the project is the essential building block. So typically, we are assembling projects to make a business. It's more than a development platform, because sometimes a development platform means you're the people going off to develop the projects originally, and we're coming in later stages, finding the route to market, completing the financing, building them, getting them operating. So we're in that kind of phase of the journey.
+
+**ML**
+
+Do you call those IPPs, to use the klaxon once more for the Independent Power Producer?
+
+**LH**
+
+It's an IPP model. It's close to an IPP model, but we, in some ways, call it, you're going to hate this: IPP 2.0. Because that model itself is changing as markets become more sophisticated. You've got commercial-industrial offtake. You're putting in batteries. You're potentially having a mix of longer term and shorter term contracts. That itself is changing as markets become more liberalized in many of the geographies where we operate.
+
+**ML**
+
+And you're putting a layer of more value add? So at no point then are you just the value of a bunch of projects. Because you are managing, you are optimizing, you are integrating. You are trading the power, all those things that lie on top of the bunch of projects, presumably?
+
+**LH**
+
+We're not trading the power, because we're very much in this kind of hard infrastructure land. We are trading perhaps a bit of power from time to time, but the focus is on long-term contracted cash flows. But we're doing all of those other things. Because if you've got a management team with a portfolio, that management team — high quality, best in class operations — is looking around to have... If you've built 11, they're looking for projects 12, 1314, and beyond. And so there's a growth premium, a scale premium that comes into the valuation of that business when you exit, which is more than just taking 11 projects.
+
+**ML**
+
+Interesting. And for those in the audience who are not familiar with electricity sector history, the IPP model: in the beginning, they were just utilities, and they were integrated, they did everything from generation to transmission to the distribution of electricity, all the way through to retailing it. And then that got liberalized. And this was the story of the 1980s and 1990s really around the world, maybe starting in the UK and US, but really around the world. And the IPP was a business model where people said, 'All I want to do is generate and sell the electricity. That's it. I'm an independent power producer. Not my problem to be a retailer or anything else.'
+
+**LH**
+
+I mean, go back to our fund one. The IPP model was prevalent in all sorts of markets in the 90s. If you think about it, there were IPPs in Colombia, Chile already liberalized in 1983 there were IPPs, very well known IPPs in India, in terms of Dabhol and those things that famously went wrong. So the IPP model was very prevalent, and our fund one portfolio was built on the fact that after Enron collapsed in the US, the California energy crisis and 9/11, all the US energy companies who in the 90s had kind of spread themselves around the world, not just the US, but others as well, with IPPs. They had very stressed balance sheets and were very keen to sell. And our fund one portfolio was constructed by buying a lot of power projects from people who just didn't have the room or ability to be in those far flung geographies anymore.
+
+**ML**
+
+I've just had a distant memory resurface. I actually did some work back in the '90s when I was at McKinsey for part of the UK privatized electricity system. They went off on a global adventure and did some of that IPP development. And of course, got into trouble because they didn't have a clue about the local trading environment. And so then probably you went in and bought what was fundamentally a good asset, but in the wrong hands.
+
+**LH**
+
+And that was the original birth of our strategy.
+
+**ML**
+
+So now we get a history lesson — that's fabulous — as well as a lesson in acronym decoding, which is great. Could you give us some more examples? So that's one where those portfolios were wind portfolios?
+
+**LH**
+
+That was wind and solar.
+
+**ML**
+
+So give us some more examples of what you're doing. You said that they're starting to get complicated with batteries. What else have you got? Give us some more examples.
+
+**LH**
+
+So in India, I mean, we're building, right now, generation businesses number 18 to 28. We've sold 17 of them over the lifetime of the funds that we've exited to date, and that's across 35 different geographies.
+
+**ML**
+
+So basically, you're running a factory, is what you're really doing.
+
+**LH**
+
+We're building critical infrastructure, right?
+
+**ML**
+
+Because you have a model of... you're not inventing a new business model each time you make an investment?
+
+**LH**
+
+Well the opportunity set is so massive, and there's a huge amount of pattern recognition. So we've built several of the same sort of businesses in the Americas, which is a very exciting place to invest because it was liberalized and privatized so much earlier. So Chile privatized, or liberalized the electricity sector in 1983, which is the same time as the UK. And over the intervening period, you've just got such a depth of buyers and sellers and players in that market. But for example, in 2016 we partnered with the Sun Edison team. And if you remember that story, SunEdison went into insolvency, they had a very large portfolio globally, and the team in the Americas that we knew well came to us and said, 'Look, we've got 500 Megawatts, but we can see a huge opportunity. Back us to grow.' And we did.
+
+**ML**
+
+And you've bought a few other teams, haven't you? You've brought in a few other teams and portfolios. I'm thinking of Abraj as well. You've done that before, right?
+
+**LH**
+
+So Abraj is slightly separate in terms of more of a private equity workout plan for those LPs, and we took over that. So this is unrelated to the energy business. That was done sort of separately in terms of the Actis overall topco. But in terms of what we've done on the energy side, we might put things together ourselves like we've done in India, and we've done that two more times. We're doing the same right now in Central and Eastern Europe. We're building a company called Resolve, which has just put into construction, last year, 200 megawatts in Romania and 200 megawatts of solar. That's wind in Romania and solar in Bulgaria. So that's a business that's got a growth plan, a team, a pipeline. It's busy contracting it and growing that to scale. As I said, the Sun Edison business, we took over in 2016 when it was 500 megawatts, and it got to 3.2 gigawatts by the time we sold it. And we sold it to GIP —General Infrastructure Partners, I'm learning — in 2022.
+
+**ML**
+
+My hand was reaching for the klaxon there.
+
+**LH**
+
+So again, there is a playbook, because just the energy transition opportunity is so gigantic. If you think about where we are, the countries that are growing fast, industrializing, benefiting from nearshoring, lots of other trends have very strong fundamentals. If you can repeat the playbook, you're going to make less mistakes, and you're going to learn from what went before and build on your success. So it certainly seems like a sensible thing to do.
+
+**ML**
+
+Cleaning Up is brought to you by members of our new Leadership Circle: Actis, Alcazar Energy, EcoPragma Capital, EDP of Portugal, Eurelectric, Gilardini Foundation, KKR, National Grid, Octopus Energy, Quadrature Climate Foundation, SDCL, Wärtsilä and new member Davidson Kemper. For more information on the Leadership Circle and to find out how to become a member, please visit cleaningup.live, that’s cleaningup.live. If you’re enjoying Cleaning Up, please make sure you subscribe on Youtube or your favourite podcast platform, and leave us a review, that really helps other people to find us. Please recommend Cleaning Up to your friends and colleagues and sign up for our free newsletter at cleaninguppod.substack.com. That’s cleaninguppod.substack.com.
+
+**ML**
+
+Within energy, we've mentioned wind, solar and a little bit of batteries. Does that complete the set? And then you are the head of energy and infrastructure. So what have you done outside of energy?
+
+**LH**
+
+So I'm the head of energy infrastructure. There's another team working on infrastructure, led by my colleague Adrian. So their strategy is looking at operating infrastructure, so kind of a core infrastructure risk profile in terms of yielding operating infrastructure. So it includes energy, but also roads, water, data centers.
+
+**ML**
+
+Any ports?
+
+**LH**
+
+Can consider ports, but it's operating infrastructure where the agenda is operational value creation with a focus on governance, sustainability, operations, making sure that panels are cleaned. It's amazing what you can do in terms of a well-honed playbook. But with a focus very much on delivering yield to investors. So energy infrastructure is around generation, distribution and, to answer your question, in generation, we predominantly focus on renewable energy, and batteries are becoming an increasing part of what we do. We recently signed a deal in the Philippines to become a shareholder in one of the world's largest battery solar storage projects, 3.5 gigawatts of solar and 4.5 gigawatt hours of batteries. But just to complete the answer to your question properly, we do also invest in gas, and that is part of a transition journey of many of the countries where we operate. We think quite carefully about it, but for example, we have a gas platform in Mexico, where there's a huge fundamental need for power, both gas and renewable. And we recently acquired an Enel's generation business in Peru, which is a mix of hydro, gas, wind and solar.
+
+**ML**
+
+So if you're looking at gas, maybe a technical question, I believe Mexico has said Net Zero 2050 is their goal. And obviously we all know the imperatives of climate, and that's not news to anybody listening to this. That's now only 25 years away. Does there come a point well before 2050 where you simply can't do gas because in order to make the numbers work, you would need cash flow from a period that goes out beyond 2050? Which is, how can I put it, at the very least, not compatible with net zero, or potentially with that government or that country's own goals.
+
+**LH**
+
+So I think the way that gas is going to be used is the important thing to think about. Because in a world where you've got perfect complementarity of wind and solar and something else you can provide reliable power 24/7, and one of the things we think about when we're investing in gas is, where does it fit on that country's transition pathway. How will the usage of that power project change as a transition journey progresses? So if it's base load today, how will that change? What other services can it provide? What's the type of model under which it would provide those services? And how does it then interface with other technologies? So I was in Mexico last week at our business Valia, talking about decarbonization and what Valia's journey might look like if we look a long way down the road. They built their own model in terms of how Mexico is going to transition? How is the usage of our gas plants today going to change? And some of these are quite elderly gas plants that will potentially move into providing much more of a kind of ancillary services type economic framework. But how does renewables come into that mix? How should Valia position? So we try to take quite a thoughtful approach in terms of considering all those aspects, but also, as a commercial investor looking to exit, who's going to buy that from you?
+
+**ML**
+
+Do you sometimes find yourself, I don't want to say in conflict, but having very different points of view with the executives, perhaps, in a business like that? I don't want to point the finger at any individual business, but a lot of people who work in gas, I mean, it's all encompassing, right? You are developing or running gas plants locally, and along comes an investor, and you want them to put money in, but you live, eat and breathe gas. Do you find yourself sometimes saying, 'Well, okay, what's your plan for decarbonization?' And them just telling you, 'Well, it's not going to happen.'
+
+**LH**
+
+One of the things that is important about our approach, and we've learned this over 20 years, is we're typically a control investor, so we agree the strategy with the management team as we come in, or we're assembling the business ourselves and recruiting the management team, in which case, how and what we build to sell to who in the future are quite important thought processes. So Valia, we put together by acquiring two portfolios of gas projects, we recruited the management team, and we have very strong alignment in terms of what are we doing to create a business that will be valuable in the future?
+
+**ML**
+
+So if you say 'these plants, the numbers better work out with them only working 15% of the time after year 10,' and if the management team just disagrees, how can I put it, you probably wouldn't be in that deal?
+
+**LH**
+
+It's part of the upfront conversation coming into that deal, which is, 'what are you building, and what does that journey look like?' Because we're all aligned. The last place you want to be is a stranded asset that actually there isn't a solution for. And that's an important part of going in and thinking, when we're looking at a country, a sector, an asset, and trying to work out what the best combination is.
+
+**ML**
+
+Do you ever find yourself walking away from what's clearly on the economics a good deal, but it's just not compatible with that vision of where the world needs to go for climate reasons? Are you making an economic trade off to whether you can call it de-risk, or to bring your portfolio and your approach in line with climate science?
+
+**LH**
+
+When you've thought through the long term... So we walk away from deals often, for multiple reasons, and you can see a great deal. For example, there were some deals when coal was kind of coming out of energy systems. There were people who were buying streams of cash flows from coal plants. Looked like a great deal, but for a specific investment strategy, which didn't mind about an exit and wasn't creating a business, but just taking some yield for a period of time. It's all about aligning what you're focusing on with your strategy and what you're looking to deliver to your investors. And the whole thing needs to marry up. We have a wide range of investors, and clearly quite a polarized group in terms of some who are very focused on us doing gas, and some for whom it's very, very difficult that we do some gas. So we have to be clear about how we think about it, the circumstances in which we do it, how we exit it, so that it does marry up into an overall fund performance that's resilient and delivers.
+
+**ML**
+
+I suppose my question, in a way, was a polite way of asking, 'How have your returns been?' Because, you know, if you did all of that but were producing very modest returns, I suspect you might not be on fund five by now. So how have your returns been? And have the people who've just bought coal and said 'To hell with it,' have they been outperforming you?
+
+**LH**
+
+So I can't comment specifically on levels of returns, given that we are regulated, but I think you have to draw the conclusions from it being fund five. And this is, in some ways, what looks like a difficult thing to do. And so the ability to raise capital over successive funds with the same team and the same strategy speaks to that. But it's not just about the absolute levels of return. It's what risk are you taking and what strategy you are employing. And that's the piece where sometimes, you know, we come back to that point about, 'oh, you invest in growth markets, that's probably quite risky.' Well, how do you break the risk down, as well as a return profile? Because you can't just take one number and another number and simply compare them, because it potentially has different pools of capital and different strategies. And so that is an important differentiation to walk through.
+
+**ML**
+
+But is this one of those situations where as an outsider, I look at it and go,'Lucy's quite brave, because these are funky markets.' These are the growth markets. But you know, Mexico has had its moments, dramatic changes, politically, changes in energy policy that I've lived through as a commentator, but I don't do it with real money. Some of the other countries that you've operated in, I look at it as an outsider and say, 'well, that's enormously risky.'But you seem very calm. And so, why is it not as risky? Why am I wrong? Why is it not as risky as it appears?
+
+**LH**
+
+So, I think there's a few layers to that question. I think back to what I said earlier. One of the really important things about investing in critical infrastructure is that you are providing a service or essential infrastructure. It is critical. The country needs it to grow. If you turn it off, it matters. So that definition of a product market fit...
+
+**ML**
+
+But it can still be nationalized or nationalized sort of de facto by changing some regulation or whatever.
+
+**LH**
+
+Let me work up from that, because providing an essential infrastructure that matters at a price that's cost competitive. And that's important as well. It's always been important to us not to be in technologies or within sectors that are subsidized, and renewable energy became cost competitive against other forms of generation in growth markets before it got there in the US and Western Europe, because you've got better natural resources, for example. So it's very important to have that product-market fit. Now I could make the kind of trite remark that there's actually been high levels of regulatory risk in terms of retroactive tariff adjustments, much more in Europe than there has in growth markets.
+
+**ML**
+
+Spain, for example?
+
+**LH**
+
+Well, exactly. But again, if you are providing critical infrastructure that's got a product-market fit at a price that works, and then on top of that, you will layer a regulatory framework. You might have a bilateral investment treaty in your structure, you'll have a bilaterally negotiated power purchase agreement that, if you've got a less creditworthy off taker, will have an explicit government guarantee against it. And then in your least creditworthy countries that you might operate in, where your utility doesn't necessarily charge tariffs that are high enough to cover its cost of power, and gets a government input to its balance sheet, you might have MIGA.
+
+**ML**
+
+MIGA?
+
+**LH**
+
+Multilateral Investment Guarantee Agency, arm of the World Bank that provides political risk insurance. Your list of acronyms is getting really quite long.
+
+**ML**
+
+It's a fabulous list. So those who are listening to the podcast rather than watching on YouTube, will not know that I'm writing down all these acronyms just to keep score.
+
+**LH**
+
+The score's quite high. So the brilliant thing about it is you do all those things, and then you can put in political risk insurance. So a policy that gives you protection for an annual premium against breach of contract, war and expropriation, currency convertibility, sabotage and terrorism. You can put that around your cash flows from your project as a product, and that gives you an additional layer of protection. We have never had a default on any of our projects. And the default rate, when you look at data from S&P who collect these things, if you look at the default rate, to give you an example, on a power project in Africa against the US energy market, the US energy market from memory, default rate is about 8-9%. If you take the subset of African power projects, which sounds like a risky place to do business, but where you've got all these protections in place, it's 1.4%. So that just challenges the mindset, in some ways, that if you do all these things well, and you're in critical infrastructure, your asset is actually incredibly resilient over the cycle.
+
+**ML**
+
+So we had an episode of cleaning up with Professor Avinash Persaud, working on how you could get more money flowing into the global south. And his thesis was that it is being overpriced. Of course, there are risks, sovereign risks, but that they are being enormously overcharged for in the capital markets. And he was trying to address that. I'm not sure he had actually got the answers, but what you're talking about is very concrete. I mean, an 8% default or a 1% default, I know which one I would rather have in my portfolio. And one other observation, just listening to what you've said is that it's complicated and technical stuff, which means that doing maybe not the same thing, but a similar thing again and again — you said that you're developing now number 17 to 28 — presumably, that makes it a lot easier, because you've seen it all before, and you use the same lawyer and the same documentation, and everybody around the table and so on. Is that a fair observation?
+
+**LH**
+
+Some things get easier, but I think the important thing is you build on an increasing institutional base of experience. So, 'oh, gosh, this supply chain player has run into trouble.' Oh, we've seen that before. What did we do? Oh, it was you and the team. How do we get together and solve that problem?
+
+**ML**
+
+You've got a Forex risk, have you not? And that's quite expensive to hedge, because at the end of the day, you're going to buy wind turbines or batteries or a gas turbine or solar panels, probably denominated in dollars, and then you get your money in local currency in pesos or whatever it is. Isn't that a huge and difficult risk?
+
+**LH**
+
+So it's often the first question in any conversation with investors. They ask what about FX risk? But there are some features to this critical infrastructure piece, and the fact that energy sectors in many growth markets are dollarized. So Mexico, it's a dollarized power sector because you've got a lot of gas that's priced in dollars. Chile, Peru are dollarized power sectors. Many power sectors in Africa are dollarized. In your portfolio, one of the first places you start is if you have a higher proportion of hard currency, which allows you to accommodate some of those things, then potentially, if you just took a snapshot of those economies and said, I've got this much FX because I've got this much country exposure.
+
+**ML**
+
+Except that going back to the Asian financial crisis and me selling news content to newsrooms around the world... Those contracts were in dollars. So we thought we were very clever, because we didn't have risk. Well, we had big operations in London that were pound sterling denominated, and we had some dollar costs, but we thought all our revenue was in dollars. Of course, the problem was that when the crisis hit those broadcasters, as it was for us, couldn't find the dollars to pay us, so we thought we were hedged, but we weren't.
+
+**LH**
+
+So that's the beauty of being in critical infrastructure. Because one of the things you want to diligence is that your sector can afford its power bills. Because people do pay their power bills, even in a crisis, power is an essential service.
+
+**ML**
+
+Okay, so this is all fabulous. It's a bit technical, but it's fabulous. It provides good returns. It gets bigger with each fund and over passing time. There must be some clouds on the horizon, and I want to talk about whether you're expecting any pushback, or are you hearing anything about the political situation? We promised we would bring in political volatility. So you've got Trump who has been reelected, President Trump's second term, and obviously that's a largely US issue, and therefore not one of the countries that you operate in. But I've just come back from the Gulf region and how can I put it? The implications of America dashing for growth, dashing for fossil, not interested in climate action at the federal level, that was having an absolutely obvious impact on the discourse. It's absolutely clear that there were headwinds for anything climate related and tailwinds for anything fossil related. Are you seeing that around the world?
+
+**LH**
+
+So we're 10 days in, I think, and so there's a lot that is expected, was expected and well telegraphed. And then there's a lot of impact that will continue to be felt. And I think it's hard to be categoric in any particular direction. And where we come back to is we focus on the fundamentals of electricity demand in the markets where we operate. A place to go back to in terms of… look, electricity demand is growing in Vietnam. Vietnam needs to turn the lights on to create a reliable electricity supply for the people who are nearshoring or moving their operations or their supply chain to Vietnam. I mean, the FDI in Vietnam is $1.5-2 billion a month. That all needs a reliable electricity supply. Mexico has, I was there last week, 200 megawatts of data centers which just don't operate because they don't have the power. The lights and the air conditioning went off in Mexico last year through this hot season because it was extremely hot — climate impact — and there was not enough power, not enough investment in power over the previous administration. So there are plans across our markets to continue to deliver reliable, clean electricity supply to the populations in those countries. And while there is, of course, geopolitical noise, which is going to have ramifications in different directions, there is a fundamental direction of travel around this is where 70% of the electricity demand growth is to 2030. It's also where 76% of the world's emissions are going to be till 2040. But there's some other trends at work in terms of meeting that electricity supply, which means that you just get on with delivering that in the markets where you operate. There's an interesting point on the fossil tailwinds around all of that. Think about a supply chain which has been constrained in recent years because there's been a lot less gas being built, gas turbine projects being built and developed, and think about the focus on nuclear, and the supply chain that today lines up against that, and you can start to see that it's a bit more of a nuanced picture. And there are hiccups that come because the supply chain can't deliver at that kind of pace, and you see relative pricing starting to move.
+
+**ML**
+
+And so when you say supply chain, you mean supply chain for turbines, for the gas infrastructure. And of course, everybody's going crazy thinking they're going to build gas for AI data centers, although there's this little wobble the last few days as we record this, whether the Chinese DeepSeek innovation means now suddenly we don't need such big data centers. But the thinking, and I can tell you, from my visit to the Gulf was, 'we're going to push for these huge data centers, and frankly, I like you, Michael, but they're going to be gas powered.' But you're saying the supply chain is perhaps not able to keep up with that. Meanwhile, you have China ready to sell any number of wind turbines, batteries, solar panels, high voltage DC equipment, etc, etc.
+
+**LH**
+
+And there's a point here in terms of the speed at which you can do it. So if you want your data center online quickly, how long are you going to wait to get in the queue for a gas turbine from one of the world's three or four main turbine manufacturers against being able to, as you say, not just readily get hold of (solar panels), but do it more quickly.
+
+**ML**
+
+I've heard they've got all the time in the world because they're waiting for fusion. I think it's Microsoft who has signed up with a fusion provider for one of their data centers. And I'm sort of thinking, 'Well, they're obviously not in that much of a hurry for that particular data center.' So just to be clear, you're not getting emails from your country teams around the world saying, well, that project that we discussed at the last investment committee or planning committee, I'm afraid it's on hold because it looks like the country is going to go off in some other direction now because of the Trump election and so on?
+
+**LH**
+
+Not as yet. This is a very live and dynamic picture, right? But coming back to the examples we've given in this discussion: India is going to carry on needing to build out renewable energy projects. It doesn't have gas reserves of its own, and coal takes a very long time, and it's difficult to do and not very popular. So you know, what is the least-cost generation technology for those geographies to meet the needs of their population? That so far is not disrupted and continues to be very important in terms of the policy and regulatory environment in India. Same is true in Mexico. Same is true in Peru and other geographies where we operate that kind of fundamental need. Just back to that point, critical infrastructure, essential infrastructure that has a product market fit where it matters if you don't deliver it or turn it off. That gives you a lot of resilience through and we've seen it through multiple cycles and periods of upheaval across those geographies and globally, in the last 20 years.
+
+**ML**
+
+I'm doing my best to throw a curveball at you and failing, because it does seem to be a very robust and well thought through model, at least, based on a lot of experience, probably a lot of trial and not many errors, if you haven't had any defaults. Just to finish then, is there anything that keeps you up at night? Is it interest rates, or is it a global trade war? Is there anything, or are you just so convinced that you've nailed this model, that you really don't have to stay up at night?
+
+**LH**
+
+So many things that keep you up at night, right? What do you choose on your list before you go to bed? So I think we are in a period of a lot of uncertainty and noise and challenge, which create things that you need to navigate: rising interest rates, what's happening with inflation in the US? How is the geopolitics around supply chain, panels and turbines coming from China going to impact us. There's plenty to worry about, but we are investing in something that has real fundamental resilience, which means that day to day and looking forward, we'll be doing the same thing, perhaps in slightly different ways — the technologies, the customers might change — but the same thing still has a lot of relevance in terms of doing being in those countries where 85% of the world's population live, with higher rates of growth, higher rates of electricity demand, and all of that.
+
+**ML**
+
+I've failed to rattle you. There's plenty to worry about, but you're across it and it's a great story. So thank you very, very much for coming in and spending the time and sharing it with us.
+
+**LH**
+
+Thank you very much. I really enjoyed it.
+
+**ML**
+
+So that was Lucy Heintz, partner and head of energy infrastructure at Actis, and one of the world's great experts in investment in clean energy in growth markets. As always, we'll put links in the show notes to resources which we mentioned during our conversation. So that would be Episode 120 of Cleaning up with Ana Hajduka, CEO of Africa Green Co. Episode 138 with Carine Smith Ihenacho of the Norwegian Oil Fund. And Episode 145 with Professor Avinash Persaud, who was talking about the Bridgetown Initiative. This episode was also a bit of a canter through the acronyms. Both the energy sector and the development finance sector seemed to be able to generate them almost at will. So for those of you who want to know the difference between your BIIs and your DNOs, your MIGAs and your IPPs, we'll put a list in the show notes so that you can revise and make sure you haven't missed any and with that. Let me thank the team behind Cleaning Up and of course, all of our Leadership Circle members, including Actis. Please join us this time next week for another episode of Cleaning Up.
+
+**ML**
+
+Cleaning Up is brought to you by members of our new Leadership Circle: Actis, Alcazar Energy, EcoPragma Capital, EDP of Portugal, Eurelectric, Gilardini Foundation, KKR, National Grid, Octopus Energy, Quadrature Climate Foundation, SDCL, Wärtsilä and new member Davidson Kemper. For more information on the Leadership Circle and to find out how to become a member, please visit cleaningup.live, that’s cleaningup.live. If you’re enjoying Cleaning Up, please make sure you subscribe on Youtube or your favourite podcast platform, and leave us a review, that really helps other people to find us. Please recommend Cleaning Up to your friends and colleagues and sign up for our free newsletter at cleaninguppod.substack.com. That’s cleaninguppod.substack.com.

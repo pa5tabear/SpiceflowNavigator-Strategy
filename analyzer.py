@@ -7,6 +7,9 @@ import re
 from textwrap import shorten
 from typing import Iterable, Dict, List
 
+from insight_extractor import extract_insights
+from semantic_search import search_insights
+
 from goal_model import Goal
 
 
@@ -68,3 +71,23 @@ class StrategicAnalyzer:
             ranking.append((idx, total))
         ranking.sort(key=lambda x: x[1], reverse=True)
         return ranking
+
+    # ------------------------------------------------------------------
+    def analyze_with_insights(
+        self,
+        transcript: str,
+        goals: Iterable[Goal],
+        max_words: int = 40,
+    ) -> dict[str, object]:
+        """Return summary, goal scores, insights and semantic index."""
+
+        result = self.analyze(transcript, max_words=max_words, goals=goals)
+        assert isinstance(result, dict)
+        insights = extract_insights(transcript)
+        semantic_index = insights  # simple list used by search_insights
+        return {
+            "summary": result["summary"],
+            "scores": result["scores"],
+            "insights": insights,
+            "semantic_index": semantic_index,
+        }
