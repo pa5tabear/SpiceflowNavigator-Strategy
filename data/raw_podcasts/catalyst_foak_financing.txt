@@ -1,0 +1,291 @@
+FOAK tales | Latitude Media
+FOAK tales | Latitude Media
+News
+Events
+Research
+Resources
+About
+Subscribe
+Covering the new frontiers of the energy transition
+Tech
+Grid edge
+Solar
+Energy storage
+Artificial intelligence
+Data centers + cloud
+Carbon removal
+Hydrogen
+Emerging tech
+Geothermal
+Nuclear
+See all
+Markets
+U.S. market
+Global markets
+Policy
+Regulation
+Research
+See all
+Deals
+Venture capital
+Project finance
+Corporates
+Mergers and acquisitions
+Government funding
+See all
+Podcasts
+Catalyst
+Open Circuit
+The Green Blueprint
+Political Climate
+Tech
+Grid edge
+Solar
+Energy storage
+Artificial intelligence
+Data centers + cloud
+Carbon removal
+Hydrogen
+Emerging tech
+Geothermal
+Nuclear
+See all
+Markets
+U.S. market
+Global markets
+Policy
+Regulation
+Research
+See all
+Deals
+Venture capital
+Project finance
+Corporates
+Mergers and acquisitions
+Government funding
+See all
+Podcasts
+Catalyst
+Open Circuit
+The Green Blueprint
+Political Climate
+Tech
+Grid edge
+Solar
+Energy storage
+Artificial intelligence
+Data centers + cloud
+Carbon removal
+Hydrogen
+Emerging tech
+Geothermal
+Nuclear
+See all
+Markets
+U.S. market
+Global markets
+Policy
+Regulation
+Research
+See all
+Deals
+Venture capital
+Project finance
+Corporates
+Mergers and acquisitions
+Government funding
+See all
+Podcasts
+Catalyst
+Open Circuit
+The Green Blueprint
+Political Climate
+About
+Newsletter
+Resources
+Authors
+Staff
+Careers
+Advertise
+Latitude Studios
+Contact
+Podcast
+Emerging tech
+VC
+FOAK tales
+Lessons on winning over infrastructure investors from the head of Breakthrough Energy’s first-of-a-kind financing program.
+Shayle Kann
+Catalyst
+January 16, 2025
+Listen to the episode on:
+First-of-a-kind projects need infrastructure investment, the kind of money that costs less than venture capital and usually comes in the form of deals worth tens or hundreds of millions of dollars. But infrastructure investors are notoriously conservative and convincing them to bite can be challenging.
+So what do infrastructure investors really want?
+In this episode, Shayle talks to
+Mario Fernandez
+, head of Breakthrough Energy’s FOAK finance program. It has worked with companies like Rondo, Form Energy, and Lanzajet to overcome challenges on the path to infrastructure investment. Coincidentally, the program is also called Catalyst (no relation to our show). Mario and Shayle talk about the journey from lab-proven technology to a fully de-risked infrastructure investment, covering topics like:
+Why investors want to see a path to multiple, repeatable projects
+Mario’s prescription for a scale-up path: pilot, demo, and FOAK project
+The difficulty of following that path on a limited financial runway
+The commercial construct and the tension between negotiating a flexible offtake and securing a customer
+Developing the right capital stack and accurately estimating capital needs
+Recommended resources
+The Green Blueprint
+: Rondo Energy’s complicated path to building heat batteries
+CTVC
+: Venture to Project Finance Duolingo
+Catalyst
+: Financing first-of-a-kind climate assets
+Catalyst is brought to you by EnergyHub. EnergyHub helps utilities build next-generation virtual power plants that unlock reliable flexibility at every level of the grid. See how EnergyHub helps unlock the power of flexibility at scale, and deliver more value through cross-DER dispatch with their leading Edge DERMS platform, by visiting
+energyhub.com
+.
+Catalyst is brought to you by Antenna Group, the public relations and strategic marketing agency of choice for climate and energy leaders. If you’re a startup, investor, or global corporation that’s looking to tell your climate story, demonstrate your impact, or accelerate your growth, Antenna Group’s team of industry insiders is ready to help. Learn more at
+antennagroup.com
+.
+Transcript
+Tag
+: Latitude Media Podcasts at the Frontier of Climate Technology. I’m Shayle Khan and this is Catalyst.
+Mario Fernandez:
+We’ve seen demos that I call half ass demos, which is just proving a particular piece of the technology, but how that component integrates with the rest of the system is super important and it’s so hard to get right the first time because it’s never been done before.
+Shayle Kann:
+Well, there’s no way around it. This stuff is FOAKing hard. I am Shayle Khan. I invest in revolutionary climate technologies at Energy Impact Partners. Welcome. Alright, so we have talked about the challenge of building first of a kind or FOAK projects before on this podcast. We will, again, by the way, after this, it is a huge issue for so many companies and there is no one size fits all solution as we know, but there are a bunch of things that are common amongst many companies and challenges that companies face when they’re trying to build their first of a kind thing. And I do think that we are starting to collectively as an industry, as a market in climate tech, we’re starting to get smarter a little bit about what are those key characteristics that projects need to have? How should companies be thinking about constructing their teams and the timing around first of a kind and then of course, what’s the nature of the commercial contracts that they should have in place?
+How should they be thinking about financing, et cetera. These things are still pretty bespoke but are starting to come a little bit more into focus than they have in the past. And that is in part thanks to FOAKs like Mario Fernandez, who’s our guest today. Mario Leads Breakthrough Energy Catalyst, so I’m sure many of Breakthrough Energy. It’s a broader platform that includes Breakthrough Energy Ventures, which is a venture firm. It includes policy advocacy and a variety of other things. But Catalyst is specifically their first of a kind financing program and they’ve done a bunch now of first of a kind financing for a variety of different things. We talk about some of ’em in the conversation with Mario here, but what he started to see is common patterns amongst the companies that they’re looking at, the ones that are successful, the ones that are not.
+And listen, I think this remains today the real valley of death. There aren’t really any other values of death at this point. In my mind, the capital stack for climate tech companies is actually pretty strong, even in light of the market having shifted a fair bit. The hardest part is still first of a kind and there are good reasons for that, but lots of companies are figuring it out. And so it is worthwhile to figure out what’s working, what should the next generation of companies be thinking about and how can we figure out a playbook to standardize processes, financing structures and so on so that it’s less of a murky question mark. When you’re heading into the abyss and you’re starting to go into your pilot and prove out your technology and so on, you’re going to have a first or kind in the future.
+How do you do it? So it’s worthwhile to walk through some of that. Mario published a piece recently through Breakthrough Energy Catalyst, laying out what he views as 12 keys to first of a Kind projects. We talked through a bunch of those keys in the context of the individual components of a First of a Kind project here. It’s really, this is a tactical conversation. What are the things that you should do here? But it’s so crosscutting and it is such an issue for so many companies that I think it is worth a listen whether you are building a first of a kind or not. Anyway, here’s Mario.
+Mario, welcome.
+Mario Fernandez:
+Thanks for having me, Shayle. Breakthrough Energy catalyst on the Catalyst podcast. So never thought I’d see the day, but I’m very excited.
+Shayle Kann:
+I will say I am a big friend of Breakthrough Energy Catalyst and we’ve done a lot of things together, but I did come up with a catalyst name first and when you guys launched it, I was like, ah, of course I don’t own the word. I’m excited to be here with you in person and talk first of a kind financing for projects, which is the thing I think you know better than basically anybody at this point in this space. And it remains the sort of quintessential challenge I think in the development of new technologies in the climate world. And there’s so much to unpack around it. But I want to start with this, which is how would you describe why it’s hard? Of course it’s hard. Why is it hard though to figure out how to finance a first of a kind thing?
+Mario Fernandez:
+Yeah, no, look, really good question. And I do think this is the main challenge of climate tech. How are we going to get this technologies where people have spent hundreds of millions of dollars years, decades developing? How do we get them scaled up? How do we get them to the place where solar and wind and offshore winner? And it is exactly why Catalyst was created and it’s not just me by the way. It’s a whole team of people that are trying to tackle this. The challenge is the fact that this company’s reached a point where the technology has been proven, but it has not been de-risked in the eyes of large scale infrastructure capital, whether that is infra funds or project finance banks. So you need to find a way to get these technologies over from the proven stage to the de-risk stage. And that’s where the expertise, that catalyst has the infrastructure, energy, infrastructure, investing, development and construction expertise coupled with the flexible capital, that’s where we can play a role in this.
+Shayle Kann:
+That’s really interesting phrasing. I don’t think I’ve heard anybody describe it exactly that way, but it’s useful. So you’re saying technologies that have been proven, we should talk about what proven means but not de-risked in the eyes of infrastructure investors. So what does that look like? I mean, give me representative imaginary technology. How much do you have to do to be at the point where you are proven and then where is the quote? How does an infrastructure look at that same thing and see it as unfinanceable at that point?
+Mario Fernandez:
+Yeah, let’s start with the end part, which is how do infrastructure funds work? How does a project finance bank work? And the reality is that infrastructure funds just do not want to lose money, right? There is 70, 60, 70 billion infrastructure funds that have 15 year track record that have never lost money on any project they’ve invested in, right? It’s a huge contrast obviously with the VC world where you can lose on nine and make it up in the one, the 10th one. So the biggest thing here is the fact that there is such a rigid criteria for infrastructure investors to invest in. You have to have a long-term track record for the technology. You have to have hours of operation. You have to have a really solid EPC scheme to build it. You have to have it long-term contracted and you have to be able to not only invest in a small one-off project, but you have to be able to invest hundreds of millions of dollars from that fund into that technology.
+And I think that’s where a lot of these new technologies don’t make the cut. So what we try to do in our work is how do we shepherd these technologies from the point where again, they came out of a lab and they’ve done a pilot, and out of that pilot comes a lot of data and comes the fact that the original scientific thesis has been proven x, y, Z reaction happened and you could make it viable, but it still has a long way to go to de-risking. The way we propose to do this is that company has to follow a path towards that. And that path in our experience is you go from a pilot to a five to 20 x demonstration project and then you go to another 10, 20 times first of kind project because along the way you learned how to design it, how to engineer it, how to build it, how to operate it, how to get the cost down in a way that when you go to build your first of a kind project, you’re able to show the investor that with through journey that you went through. And with the right commercial construct run, which is super important too, we should dive into that. The risk of the project actually not working is very low and the probability that the project would work, but that team, that company can actually build the second, third, fourth, fifth project and therefore that investor can invest the hundreds of millions of dollars that they want to invest is significantly higher.
+Shayle Kann:
+So the way that I’ve been thinking about this, there’s multiple dimensions of things you need to figure out and you put this very well in the 12 keys document that you put together on sort of what are the things that are necessary. But the way that I think about it categorically, there’s the technology, what needs to be proven or de-risked on the technology. There’s the commercial construct, what does your customer look like? How is that contracted? So on? They’re the economics, what do the returns look like and what do the margins need to be and so on. And then there’s the financing structure sources, et cetera. So I want to talk through each of those. You talked about one thing that I think is important and I often see companies not fully understanding which is what the scale up steps should look like. So I want to spend another minute on that.
+This is the question of what does the tech de-risking need to look like at the point that you’re going to go try to raise any kind of off balance sheet financing for a project? You said pilot demo first of a kind. The distinction between the pilot and the demo as I understand it is there’s a scale difference. The demo is bigger, but it’s mostly that the demo is end-to-end representative, right? So you’re running the full system, you’re producing the product you’re ultimately going to produce, whereas the pilot, maybe you are demonstrating the reactor performance or something like that, but you’re not running the full end-to-end system. Is that right? And also on the demo, I mean you mentioned another thing that people want to see, which is runtime, like how much runtime?
+Mario Fernandez: Yeah, no, that’s exactly right. Which is you have to be able to create, have your whole team understand how you’re going to design a demo, how do you build it? Most of the time the team has to build it themselves. No, EPC contractor really wants to get into the smallish projects, high risk projects. You have to be able to understand how to operate it, what is the product that’s going to come out of it and is that product to spec. So a lot of the demos, what they go to do is to prove out the specs inside the factory or the production processes in the end customers. And then when you look at it where a lot of companies don’t necessarily follow the steps, what happens is they don’t have an end-to-end system and I think that’s super important. What we know is at the end of the day, the investors that come in at the series C series D, most of the time funding or partially funding first of a kind projects, they really want to see six months or more of performance because things de great if you continuously operate something in a way that you didn’t do it in a pilot, things degrade in a way that you really have to learn from that and figure out how you’re going to engineer your first of a kind to make sure the performance is there.
+And that’s why that six month track record is so important and the end to end. We’ve seen demos that I call half as demos, which is just proving a particular piece of the technology, but how that piece of technology, that component integrates with the rest of the system and how you go from the feed stock all the way to the end customer product is super important and it’s so hard to get the first time because it’s never been done before. So that’s what I would say that six months or more end-to-end is fundamental and the scale is also important because sometimes the pilot people do a pilot and when you do a demo, the demo is not large enough and then when to jump off to first of a kind is such a large jump that investors get very scared that that jump has too many risks associated with it.
+Shayle Kann:
+On that point, I think the general rule of thumb in engineering world is everything is a single order of magnitude scale up. So every next scale is 10 x the previous scale is that sort of how you think about it from demo to FOAK, it should be plus or minus a 10 x scale up.
+Mario Fernandez:
+That is how we think about it. I think from pilot to demo you can extend that range. You can go smaller on five X, you can extend the range to 20 x.
+Shayle Kann:
+Yes. Basically what you’re trying to do there as I understand it is you’re saying, look, what we need to go do is convince somebody who is notorious is risk averse by profession. It’s their job to be risk averse and convince them that despite the fact that we’re doing a thing for the first time, it is investible. And one of the tricks, so to speak, to do that is to say, actually we already built the thing we’re going to build. What we’re going to build is basically 12 or 20 of these things lined up in parallel. But if the unit thing is the same size as the ultimate unit thing and what you’re building is a modular version of the thing, it’s viewed as less risk. And I guess my question for you is do you see that as being, is that an optical thing or is it a real thing? Is there actually lower risk if it’s modular or is it just what will convince infrastructure investors?
+Mario Fernandez:
+It is real and for us it’s about the execution risks, right? It’s about the engineering design, the procurement and logistics of it, right? Large scale construction has so much more risk associated with it. And then construction operations and as you said, the capital race, the way we think about it is numbering up. We require you to prove your unit and now you’re adding numbers to it. Integration is not an easy thing, so it’s not a panas a for all your problems, but it does require does alleviate a lot of this execution risk around just large scale projects. I’ve been involved in my lifetime on putting together co-generation projects where you’re using a GE turbine that has been deployed thousands of time and still a lot of things went wrong in building this mega projects. So again, building a billion dollar project versus a hundred or 200 million project does have real risks associated with it that we need to think about. Now many people in your audience are going to say, well, modularity doesn’t work for everything. And it’s true. There are things such as reactors where bigger is better and bigger does get you to down the cross curve a lot faster. So where you cannot design for modularity on everything, you should at least try to design for modularity on components around your tech that can make it easier for you to be able to deploy it machines.
+Shayle Kann:
+Okay, so on the technology side, I guess that’s the first piece of it. What we’re saying is what you want to have is full end-to-end demo operating, ideally designed modularly such that the unit scale of the thing, the reactor, whatever it is going to be is going to be numbered up, not scaled up from there. If possible, if not possible then so be it. And you want ideally six months of operating data on that thing. I will say one thing that I find to be this is the challenge with these companies which you’ll appreciate. They’re living off of a successive venture capital rounds. That’s where their funding’s coming in from to date. At the point when they’re doing their first of a kind, every time they raise a venture capital round, it buys them, let’s call it two years of runway. They have to start fundraising six months before they run out of capital or more.
+So it really buys them 12 to 15 months to make enough progress that they can hit key milestones and go raise the successive round at a higher price. And so they have this dynamic where, okay, we need to build this demo, but we have long lead items, we have design, we have all the things that you have for bigger projects that take time permitting and all that and construction. And then you’re telling me I need six months of operation before I can go finance the next thing. And actually I just don’t have that kind runway. And so you’re operating these parallel tracks where you have to, and I think actually you pointed this out in the 12 keys, these are not sequential activities. You need to be developing your first of a kind project well before your demo is operating and certainly before your demo has six months of operational data because you don’t have time basically to wait around. In ideal world, you probably would wait around but you just can’t live off of that version of a sequential capital formation.
+Mario Fernandez:
+That’s correct. And one of the things we point out that our experience shows that the companies that do it in a sequential way could take somewhere between three or five years to get to the first of a kind versus doing it in a lot less time. But taking a step back, the decision to go on that pilot demo first of a kind journey I think is the first fundamental decision that companies make. And this is where we’ve seen a lot of companies fail because they take way too long to get into that conviction that they need to deploy their own technology. Right?
+Two years ago, one of the things we heard a lot was from CEOs. My board is asking me to go license this technology. They don’t want to spend the CapEx. They feel that someone else should spend the CapEx if I could just sell the license. What we found looking at over 300 projects, 350 projects in the past couple of years is the fact that the companies that actually deploy their own technology and follow that path are the ones that get to success. There are companies that have spent two or three years in the licensing route where at the end the majority of times nobody really wants to take a risk on building something that has never been built before. So your question on capital is how fast do you convince yourself, your board, and do you build a team to drive towards that path and to say, look, it’s on us to be able to build this.
+Shayle Kann:
+It’s a bit of a, every venture capital back company is living a highwire act at all times. But one part of that highwire act is you kind of have to bet on success in the demo before whether you’ll be successful in the demo, there’s kind of no alternative to it because it’s exactly what you described otherwise three or four years. So what you have to do is say, look, I got to plan for this to work assuming it’s going to work, then I want to be in a position that the second I know it works, I can pull the trigger on my next thing rather than starting to plan my next thing. But you actually gave a good segue to the next topic beyond tech, which is the commercial construct. So obviously there’s various different versions of the customer structure and so on. Talk me through how you as an infrastructure investor, how you think about the differences between, okay, you have a customer who’s going to buy your product versus going to buy your system and own and operate it versus the other ways that you can engage with customers and are there, you already described one thing which is don’t license before you build, build first if you’re going to license a license later.
+But beyond that, what are you looking for in the commercial construct?
+Mario Fernandez:
+Sure, let’s spend a little bit of time talking about the demo because I feel you have it exactly right. Let’s just get on with the demo and prove it. Many times though, people think they’re going to make money off the demo, right? In our experience we found that’s not the case. The case is that in most cases the demo is a very large r and d exercise. It’s a money losing unprofitable r and d exercise on every aspect, including the commercial aspect of how are you really going to market this? So most of the time demos don’t really get off the long-term offtake contracts because no customer really wants to take that risk and the company doesn’t really feel comfortable signing up to something to delivering something that they don’t really know. They’ve never really built or produced before.
+Shayle Kann:
+I would add to that, by the way, I agree with you and I would add that the other thing is typically with the demo, there’s a lot of learnings and you want to be able to implement those learnings, which means you may want to shut down the demo for a month to retool something and start it back up again. You could do that if you have no customer sitting on the other side who’s expecting the product. But the second you have a customer who’s expecting the product, your incentives are misaligned a little bit because what you really need from an existential company perspective from the demo is to prove the technology and optimize it what the customer needs is to get their products as they expect it to get it. And you create that misalignment in a way that actually makes the demo less productive for you.
+Mario Fernandez:
+Yeah, that’s exactly right. Now the demo does serve, have the purpose to, you should send it to your customers. You should understand whether you’re producing an input into textiles where you’re producing steel staff, et cetera. You should understand that there are customers that want to buy their product exactly as your demo is producing it, right? So the specs need to be there and I think that’s a great demonstration of that. Now when you go to first of a kind, there is always that balance of companies want to be able to show commercial progress and they want to be able to announce that somebody’s buying a lot of volume of their product off of them. Where you run into issues is how you contract, how do you contract that off? And to your question, let’s talk a little bit more about structure. So one is we find that many times offtake are priced in a way before engineering one fell, two engineering have been done and it’s based on optimistic CapEx assumptions.
+Now when the companies go through the engineering process and they actually get to a feed, they find out that CapEx is twice as much. Unfortunately they’ve already signed an off-take agreement based on half the CapEx, and that’s when they get into trouble because there’s no way they can go back to the customer and say, Hey, can we double the price? So we have seen that a lot and what we encourage is you have to price and structure your offtake very flexibly. Otherwise you’re going to get into travel because by design, the process of engineering the plant is just not as mature as your offtake process
+Shayle Kann:
+Isn’t the challenge though, this is I think the fundamental issue with FOAK is that in the absence of a significant FOAK premium, which can manifest as a green premium or in the absence of capital from a source that is not entirely return seeking, you’re up against the fact that it’s inherently going to be the most expensive one you ever build, right? Hopefully. But in all likelihood that’s true. And so what I feel like a lot, I agree with you that I’ve seen this play out, but I don’t exactly know how to avoid it because I feel like a lot of companies where they’re pricing at that front end is their maximum willingness to pay from the customer. And so they could go to the customer and say, Hey, this is a first of a kind, you have to appreciate it could be more expensive, so let’s do this price, but we’ll build in flexibility. It might be two x that price if my CapEx comes in at two x and I just don’t know if they’re going to succeed at getting the offtake. So I guess how do you think about building in that flexibility, which seems incredibly valuable to the company, building a first of a kind, but still actually getting the customer on board?
+Mario Fernandez
+: Sure. So one is obviously there’s a limit to it, right? There’s a limit to the green premium that companies will pay. So that flexibility only goes so far, right? But there is a flexibility. We’ve seen projects pricing this either of the final CapEx number or of a margin or of a return for the project. So we have seen customers be willing to use those structures. You say, Hey, we are going to make X, let’s agree that this project will make X return for the company and we’ll price the offtake based on that return based on the final feed number. So we have seen or we’ve seen color structures where the company says to the customer, let’s create a base price that we can agree on, and after that we’ll share the upside on where the price actually is based on some kind of market index and let’s share the upside in certain ways that incentivizes, you still buy the product, right?
+And obviously that base price has to be for a minimum return of the capital. So we have implemented various commercial structures that, again, this is commercial innovation that you can use to be able to do that. But as you say, there is a limit and I think where you can safeguard yourself against blowing the CapEx in a way that the customer walks away from that contract where you’re just not able to deliver the plant is by making sure that you learned a lot during the demo. In a way you can put parameters around the CapEx. So the CapEx is not necessarily fully unknown. There is a track record of you having built it and you can put parameters around what the final CapEx, numbers, CapEx and opex numbers are going to come out.
+Shayle Kann:
+Let’s talk about offtake term, which is another often a big question. Do you think that the going an assumption if you’re a company who wants to build a first of kind project is that no one will give you any credit for any merchant risk, any merchant tail risk? Basically you need your offtake. If your system is supposed to work for 20 years, then you need 20 year offtake or can you get away with the shorter offtake? Because the other thing I’ve seen a lot is the offtake or the customer, they know they’re signing up for a first of a kind thing. Maybe they’re willing to do it because they want a spur development of this technology, it’s good for their goals, et cetera. Or they want access to the next bunch of projects, but they know that this is more expensive and higher risk and so on. And so in their mind, ideally they want to send the shortest term contract that they can to allow you to build a project. You want the longest term contract you can get from them for certainty. And so there’s some middle ground there, I don’t know where it sits. So how do you think about how long the offtake needs to last?
+Mario Fernandez:
+So two things. It does depend on the product, right? So we’ve seen there are some products that we were involved in structuring the first 10 year ESAF offtake, fully bankable offtake, and we were able to get it 10 years because the airline, American Airlines was very motivated to have access to future product. They see that demand supply in balance and they want access to future products. So that’s the reason why many people sign those long-term agreements in a space like cement, where cement is such a spot based commodity by the way, so is jet fuel. But again, jet fuel airlines can take a longer term view, but in cement where so short term it’d be really hard to get anybody to sign more than a five-year agreement. However, again, with the right pricing and the right motivated customer, you are able to show that, hey, without this I’m not going to be able to raise the capital that I’m going to need for the plant. And I think that you don’t necessarily have to go 20 years. And yes, I would argue that investors will give some credit to the merchant piece, but you also can’t do one or two year off takes. It’s just not helpful.
+Shayle Kann:
+How do you think about, we’ve been talking mostly about the version of the construct where company builds project sells product, right? That’s the SAF version or the cement one that you’re describing. The alternative is company sells product or sells plant, I should say whatever the product is that’s a balance sheet purchase by a customer rather than offtake, that’s attractive obviously in the context of you don’t need a 20 year offtake, you have a customer who’s just going to take it off your hands. How do you think about the trade-offs there and how much of that do you see in first of a kind?
+Mario Fernandez:
+We’ve seen some of that. The issue with that is you have to finance the construction and if the customer never buy one is you have to make sure the customer buys the plant when star’s operating at a certain performance levels so that you have to be making sure you’re very tight on the agreement on that. Two, how are you going to get that construction financing, which is the biggest thing, right? There’s different ways of doing it. Again, you can base that on the fact that you have a hundred percent certainty that if you perform the plan will, you can put the plan onto the customer. However, where there is great lines or where that is in question, that’s when you, what’s the backup? So what we’ve seen a couple of cases is people actually signed the long-term off the agreement and that of agreement has the buyout option. So you still cover as a company building the plant, you’re still covered from the perspective that if the customer doesn’t buy it, you could still have some sort of offtake, but at the same time they have a buyout, which at some point if it’s going to be an economical decision for the customer to say, look, I can just buy the plan and rip up the offtake agreement.
+Shayle Kann:
+Yeah, I mean you mentioned the challenge of the construction financing in that paradigm. I’ve seen that too, and one of the ways it manifest, so it sounds great to be like, okay, I’m just going to sell this thing to a customer, but as you said, the customer’s not typically on a first of a kind customer is not going to bear that construction risk or cost. And so what you end up having to do is you build it on balance sheet and then it passes some acceptance test and the customer takes over again. That sounds great, but now you are bearing all that construction cost and that on a first of a kind, that’s a meaningful size that creates a cash hole for you. And that’s also a difficult cash hole to fill. There’s no construction finance is a thing if you’re building a utility scale solar project, but if you’re building a first of a kind thing, there’s also not really, we’ve been talking about financing the long-term operation, there’s also not really construction financing solution. So you end up having to do that on balance sheet and that’s a out of cash. You have to do all the procurement 18 months in advance or whatever it is. And so if you have the capital on your balance sheet to do that, it’s attractive again because you get to just transfer it. But if you don’t, which most FOAKs don’t, it ends up being harder than you think it’s going to be to just sell the first thing rather than trying to finance it.
+Mario Fernandez:
+Yeah, that’s correct. And I think a lot of it, again, we talk about pricing of the offtake, but the terms are just as important because when you think about exactly what you said, which is you have to spend all this money building it, you have no idea how long commissioning is going to take, right? Because you’ve never done it at that scale before. You have some data from your demo and hopefully that data will help solve a lot of the commissioning issues. But as you scale up, commissioning becomes really hard. As I said, it’s really hard in conventional technologies. First of all kind, it’s a big unknown. And what we’ve seen unfortunately in some of these offtake agreements is very, I would say stringent parameters around the volumes that the offtake needs to deliver and the dates under which they have to deliver. And that creates a huge problem where if you spend all this money on balance sheet building the plant and you get to that drop the date and you’re not commissioned or you’re not hitting the performance target and the customer can just walk away, it creates a huge issue. It puts your company under. So one of the things we really try to do is how do we create flexibility around the terms around when you’re going to deliver the plan, what performance you’re going to get, what type of commissioning runway are you going to get during that time for you to allow to work out the kinks of your first of a kind plan? So again, people focus a lot on price, but the terms are just as important.
+Shayle Kann:
+Alright, so let’s transition from talking about the commercial terms to the economics, the financials. Do you have rules of thumb? So let’s say I’ve gone through my FL one, FL two, maybe my feed. So I feel like I have pretty good visibility into what this thing is going to cost and I have offtake. What should I be targeting in terms of pick your metric, IRR, payback, et cetera, what is going to be good enough to attract some kind of external project level capital to a first of a kind?
+Mario Fernandez:
+I think the answer is not a single number, but rather it’s a combination of factors that get to that de-risk point of view from the infrastructure investor as opposed to a hard solid number. Because the reality is the risk associated with first of a kind plans most of the time will never compensate on a number. So you have to start thinking about the commercial construct around the project that will give the infrastructure investor a couple of things. One is very high certainty that the plant is going to finish construction and commissioning, and two, they really have to take a point of view around the downside. As I said, infrastructure investors do not like to lose money, so how is that downside protected? So what you have to do is start putting together all of the risks around the contracts. Is your feet stock the same length as your offtake?
+Did you procure the right PPA? Are you exposed to PPA risk in a lot of the long duration energy storage plays that arbitrage on negative price power might only be for a couple of years and the utility of the area might only be willing to offer it three years because they know there’s a new transmission light coming in. So how are you exposed there on the PPA side on the offtake again, what are the obligations that you have under the offtake and is the obligation to pay for that offtake really solid? And how is the customer viewed? What’s the credit profile of the customer, right? So as you start adding up all the different factors, whether it’s feedstock, whether it’s PPA, whether it’s offtake construction and who exactly is going to operate it, you start creating a picture of do you get to a good enough return that is safeguarded on the downside where the infrastructure investor one could see that it’s enough of a return.
+But two, what we’ve seen is most of these infrastructure investors really play for the platform am putting x hundred million dollars in the first project. What I really want to do is put a billion dollars into your next two or three projects, and a lot of them are getting options for those projects, but because what they really, they don’t want to do a one and out project, they don’t want to do a hundred, $200 million investment. What they really want to do is see that company through that platform formation the way it was done for Solar, for Wind, where we’ve seen this platform place really sell at multiples to large scale infrastructure investors or pension funds in a way that was very profitable for the developers of the companies. So again, the answer is very nuanced and it’s not necessarily a hard set number. It has to be IR positive for sure, and you have to really test out whether that protection against laws against principal laws is there, but after that it becomes how much can the project deliver, but can you actually deliver on a platform where the investor could see higher returns?
+Shayle Kann:
+You talked a little bit about CapEx estimation. I’m curious where you’ve seen people get that wrong when people underestimate how much a thing is going to cost. Is there any consistency to what they have underestimated?
+Mario Fernandez:
+No, there isn’t. Again, the reality is the EPC CapEx world changed dramatically after covid things that used to be very secured large scale EPC companies that used to be able to give you a lump sum turnkey contract are just not doing that anymore in the conventional technologies, let alone these kind of technologies. So the CapEx blowouts that we see a lot of times is again, is you go through the process, fail one is a plus and minus 50% number, and as you go through it, there’s a lot of things that the company didn’t realize they needed in order to build the plant. So one is again the quote, lack of knowledge around what it takes to build a plant. Hence the demo is a and large mitigating for that, but you still have to go through the process. One of the things that we see on one of the projects that we committed to that was canceled was the balance of plant, the integration of four systems where the price was very well known in those four different systems, but the integration and the actual commodities, the steel and the cement that went into integrating those four components just was not sized correctly because nobody had ever done before.
+So balance of planning integration said around the modularity is still an is>sue. Still you have to be careful on, but the main thing is no one has ever built this before and a lot of the inputs are just not known until they just start going through engineering. You start realizing things that are needed in order to build out that CapEx.
+Shayle Kann:
+Okay, so finally let’s talk about financing structures first of a kind. So let’s say you’ve got all those other prerequisites, you’ve got your technology sufficiently dearest as much as it can be. You’ve got sufficient commercial offtake that is long enough term, it’s bankable. You’ve got your feed stock secured to all the things that you need to have. You’ve got all the boxes checked. What should you be thinking about in terms of the capital stack on the project? What is realistic? Is there a world where you can get debt on a FOAK project? Does it basically never happened unless it’s government debt? I mean what are you targeting?
+Mario Fernandez:
+Project level investment or financing as you mentioned is even with a positive IRR, as I said, it’s challenging because of that risk return mismatch there. So what you really have to do is you have to bring capital at different levels of your stack in order to be able to fund the project. A lot of times companies do raise TopCo equity and most of that TopCo equity goes to fund the project. I think that is one thing that we’ve seen done. Some of the company putting TopCo equity do want to take a bet on the project level and therefore they put money into that. As far as debt goes, we haven’t seen it. We’ve seen people be able to raise debt at the corporate level via venture debt or via corporate debt. Now those are very low leverage numbers. They’re not the 80, 95% that you’ll get in solar.
+You’ll get very low levels. But again, our contention is that if you structure your project and the contractual structure of your project correctly, you should be able to put some sort of debt, very low level of leverages on it because as I said, you have hopefully protected downside and if you do have an infrastructure investor coming in to your project, it is not a far leap to say can a bank put 20, 30% leverage on it? Again, that is the theory because in practice it hasn’t really been working yet. And what we find is most people are raising the money at the corporate level.
+Shayle Kann:
+Curious your perspective on this. As you know, there are lots of FOAKs out there trying to introduce a platform to finance FOAK projects, infrastructure type investment, and they all seem to run into the same rock or hard pace place problem, which is like you look at as an infrastructure investor and the returns aren’t sufficient to justify the risk. As you said, you can downside protect to some degree but not to the level that a traditional infrastructure investor would. And so then I think often they say, okay, well maybe if I can’t inherently there’s no way to sufficiently truly protect the downside here. Maybe I can juice the upside. And so then a lot of what they’re thinking about is, okay, I will invest, this will be equity more than it’ll be debt, but I’ll invest equity at the project level, but I’ll get a kicker, which is warrants in or options for the TopCo equity. Is that a viable scalable strategy in your mind? It requires basically an infrastructure investor that has almost like a venture capital mindset, which is where I think that’s been challenging.
+Mario Fernandez:
+What is challenging is, so one I agree with the premise that, and as I was saying is you have to be able to take a view at the different points of the capital stack in order to have a downside protection and a blended return that can get you there because the project level investment by itself just will not do that, right? So that’s one thing. The other thing is that project Invest has to be able to enjoy the fact that doing the first demo or the first of a kind is going to create a tremendous amount of value at the TopCo, right?
+And it will increase the valuation of TopCo because without it the company will die. It’s the inflection. Exactly. It’s the inflection point. So again, the problem is that asset class does not exist today, right? And as you said, what do you need in our mind? What you really need is to be able to have a point of view or LPs that where you’re raising money with the point of view around I have the necessary skills to look at projects and be able to really assess the risk of it and ensure that they’re fully de-risked. Look at the top goal and the company and the CEO and say, this people, this group of people will deliver not only on the project, but they have sufficient pipeline of projects and they can deliver on subsequent projects and be able to say, look, I’m coming in at this level at the top core, I’m coming in at this level at the Project Co and with whatever instruments, as you mentioned, it could be warrants some upside sharing, but also I’m going to be able to put a lot of money going forward into all the other projects they do.
+And I think that combination is exactly what the world needs. We’ve seen it in practice. Infinium is a great example of a company. When we started talking to Infinium a year and a half ago, it had the idea of a kind project.
+Shayle Kann
+: This is e-SAF by the way.
+Mario Fernandez
+: This is e-SAF. E-fuels. It’s e-fuels. And they were going through the demo phase. They were trying to get that and then they had the idea to convert a gas liquid plants into an e-fuels facility. Right now, at the time there was no off-take agreement, there was no feedstock, there was no PPA, there wasn’t the commercial construct and the construction plan just wasn’t there. And that’s where the the Catalyst team really partnered with them to be able to create this and again, get them a 10 year offtake agreement as opposed to the one or two, three years that they were being offered. Ensure that the feedstock and the PPA had the protections that an infrastructure investor would need, ensure that they had the right team structure and they had thought about how are they going to execute the construction plan? Did they have enough contingency and even thought they were starting with a brownfield plant, had they really sized the CapEx to convert that brownfield plant into what they needed to.
+So all that work that went in what was achieved is a structure where Brookfield could take a look at this and really see a path to, again, a construction project that could deliver some return, but the ability for Infinium to deliver on future projects. And that’s where they committed over a billion dollars to the platform. So we’ve seen it done in practice and we’ve seen that there are investors out there willing to do that. But I do think, again, back to the point, I do think in this missing middle, in the value of death and the missing middle of the capital stack that is talked about, that you could find a profit and you should be able to find a profit. You just have to be able to do it out of a new asset class that’s not either or, but rather a blending a combination of it. But most importantly, and our contention is a capital is an issue, but the biggest issue is the skillset that is required to be able to help the companies the risk and really assess the risk of that construction operation of first of a kind.
+Shayle Kann:
+Alright, so I guess final thing, we’ve talked through a couple of these specific examples, but I think FOAKs will be interested to hear more. So can you give a couple more actual real world examples of first of a kind projects that you guys have gotten involved in and just a little bit about how they’re structured and what they enable?
+Mario Fernandez:
+Sure, absolutely. And a lot of it has been collaboration with you guys. So I do think that it goes to show that this world is not going to be conquered, that value of death will not be conquered with specific VCs or infra funds or catalyst by itself, but rather the partnership. That’s the main thing that we have learned from this whole thing. Put aside the 12 keys, if you can’t really partner with the investors, with the companies, with the future investors, it’s really hard to get this done. Rondo is a great example where a year and a half ago we spoke to Rondo and they had more than a dozen projects around the world that they wanted to execute on, but there wasn’t a specific clarity around what is the commercial product that they really wanted to put out there. They were customers that wanted to buy the machine.
+There were customers that wanted them to build the machine and then they would buy it from then. There are customers who just wanted the product, the steam in this case. And what we really focus on with Rondo is where is it that you can deliver this, your first all kind projects, in this case, three projects that we funded and what is the best structure that is going to get customers to really buy off on it? And what we found is in working with any partnership with them, we created a new commercial model where we called it STEAM as a service. And with that, we were able to say, look, Rondo, you take care of the CapEx of attaching your battery to an industrial process, whether it is for utilities or whether it is for beverage manufacturing or food manufacturing. And the offer is, I will deliver steam on a monthly basis at this price and the risk of charging that machine would be born by the company.
+So one is you’ve simplified what Rondo needed to do and the type of risks they needed to take. You switched from having the corporate customer choose between spending x million dollars upfront on day one versus signing a utility type of monthly payment, which again, a lot of these corporates, even if they have a lot of money, what we find is their personal investments that people need to take and their personal risks that someone that has been at the company for 20, 30 years need to take. And it’s really hard for them to take it on new technologies, right? So how do you simplify? So the innovation with Rondo is how do we simplify the commercial offering in a way that what’s more palatable to the customer? And along the way, what was so great is with our joint venture that we have with the European Commission and the European Investment Bank, we were able to create a much larger funding package for Rondo to be able to fund these machines with a combination of a catalyst funding plus European investment bank venture debt. So for us, this is the kind of partnerships that work where we’re creating that commercial innovation, where we’re helping companies transform themselves in a way that can help them control their own destiny, but really prove out the technology and that’s what we do.
+Shayle Kann:
+This has been a fascinating and valuable conversation, as ours always are, but thank you so much for joining. There will be more FOAK to talk about in the future, so I’m sure we’ll have you back.
+Mario Fernandez:
+Thank you. Appreciate it.
+Shayle Kann:
+Mario Fernandez is head of the Catalyst program at Breakthrough Energy. This show is a production of Latitude Media. You can head over to latitude media.com for links to today’s topics. Latitude is supported by Prelude Ventures. Prelude backs visionaries, accelerating climate innovation that will reshape the global economy for the betterment of people and planet. Learn more@preludeventures.com. This episode was produced by Daniel Woldorff, mixing by Roy Campanella and Sean Marquand. Theme song by Sean Marquand. Stephen Lacey is our executive editor. I’m Shayle Khan and this is Catalyst.
+Share:
+Copied to clipboard
+Shayle Kann
+Shayle Kann is a partner at Energy Impact Partners, the leading venture capital fund investing in companies shaping the future of energy and infrastructure, where he leads the firm’s investments at the frontier of climate tech.
+Related Reading
+Interview
+These BP and Microsoft alums want to use a ‘Lego set’ data center to power AI
+Bianca Giacobone
+Jun 5, 2025
+Interview
+Azolla Ventures is ‘widening’ its investment strategy to focus on resiliency
+Bianca Giacobone
+Jun 3, 2025
+News
+Breakthrough Energy and the Hertz Foundation are teaming up to get climate tech out of the lab
+Maeve Allsup
+May 30, 2025
+Stay ahead of energy's next frontier. Subscribe for free:
+More from Latitude Media
+Analysis
+Can Zanskar use AI to de-risk conventional geothermal?
+Bianca Giacobone
+Interview
+Inside Octopus Energy’s expansion plans for the US market
+Lisa Martine Jenkins
+Interview
+Platte River’s dual DERMs strategy
+Latitude Studios
+Tech
+Markets
+Deals
+Podcasts
+About
+Newsletter
+Authors
+Careers
+Contact
+Advertise
+Privacy Policy
+Terms and conditions
+copyright @ 2025 Latitude media.inc

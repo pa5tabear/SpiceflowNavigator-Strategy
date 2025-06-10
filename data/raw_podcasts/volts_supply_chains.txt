@@ -1,0 +1,361 @@
+What's up with clean-energy supply chains and global trade?
+Volts
+Subscribe
+Sign in
+Share this post
+Copy link
+Facebook
+Email
+Notes
+More
+Volts
+What's up with clean-energy supply chains and global trade?
+27
+Share this post
+Copy link
+Facebook
+Email
+Notes
+More
+4
+5
+1×
+0:00
+Current time: 0:00 / Total time: -1:07:31
+-1:07:31
+Audio playback is not supported on your browser. Please upgrade.
+What's up with clean-energy supply chains and global trade?
+A conversation with Antoine Vagneur-Jones of BNEF.
+David Roberts
+Apr 04, 2025
+27
+Share this post
+Copy link
+Facebook
+Email
+Notes
+More
+4
+5
+Share
+Transcript
+In this episode, I talk with Antoine Vagneur-Jones, head of clean energy, trade, and supply chains for BloombergNEF, about the messy world of global clean energy supply chains. We explore China's manufacturing dominance, the faltering quest to "onshore" production in Western countries, and why blanket tariffs often undermine the very goals they're supposed to achieve.
+(
+PDF transcript
+)
+(
+Active transcript
+)
+Text transcript:
+David Roberts
+Hello everyone. Welcome to Volts for April 4th, 2025, "What's up with clean energy supply chains and global trade?" I'm your host, David Roberts. In the US, and to some degree in other developed countries, there has been a substantial recent pivot away from the neoliberal free trade consensus of the past several decades toward... well, something else. It is now widely acknowledged that trade policy and industrial policy are part and parcel of national security policy, and governments are taking a much more active role in shaping industrial development.
+Subscribe
+On top of that, the global shift to clean energy has thrown the spotlight of public attention on supply chains — where the materials for a clean energy transition might come from, and how those shifting trade flows might affect geopolitics.
+Antoine Vagneur-Jones
+Finally, there's the arrival of Trump, who views trade-impeding tariffs as his primary tool of foreign policy and has already thrown global trade into a state of chaos with his on-again, off-again tariff threats.
+Add it all together, and you get a situation in which global trade is more important to the decarbonization conversation than it has been in years.
+Share
+Antoine Vagneur-Jones thinks about and researches these issues every day as the head of clean energy, trade, and supply chains for BloombergNEF. He was kind enough to say yes to my extremely vague request that we "talk about trade stuff." So, he is joining me today for a conversation about who is manufacturing clean energy and who is importing it, the (faltering) quest to "onshore" manufacturing, the many ill effects of thoughtless tariffs, and much more.
+This is a less focused topic than I normally take on, and the conversation is necessarily going to be a little digressive, jumping here and there, but I hope you will come out of it with a greater understanding and appreciation for the role of trade in decarbonization.
+Antoine Vagneur-Jones, welcome to Volts. Thank you so much for coming.
+Antoine Vagneur-Jones
+David, it's a pleasure to be here. Thanks for having me on.
+David Roberts
+As I said in the intro, I've been sort of interested, you know — global trade in clean energy has just been a big topic lately. It was a big topic under Biden, and now, of course, Trump has come in, and it's a whole different kind of big topic. So, I just feel like I personally don't have as good a handle on the sort of state of global clean energy trade as I want. Obviously, that's your whole job. Obviously, you know, it is a farce to try to cover that entire subject in a one-hour pod, but we're just going to sort of like wander around, take a glimpse here and there, maybe try to connect a few things, try to just sort of get a sense of like, what's the deal with global trade and clean energy?
+Antoine Vagneur-Jones
+That sounds like fun. Let's do it.
+David Roberts
+So, maybe the way to start is, let's just put Trump out of our minds for a second. Let's imagine ourselves back, you know, a year ago under Biden, sort of the pre-Trump state of affairs, sort of what was going on in clean energy trade before Trump — because obviously, Trump is coming in and being very disruptive. There's a lot to talk about, but just sort of the trends prior. So, my, you know, half-educated take on global clean energy trade is basically just like China subsidized its manufacturers out the wazoo, more or less came to dominate almost every link of the supply chain.
+And so, to a first approximation, global trade in clean energy is just China exporting things and other people importing them. But like, there are reasons to think China is going to divert from that. There are reasons to think the US is going to divert from that. So, talk about what was the state of global energy trade before Trump came in, like? One of the things you call out is that there was overcapacity. So, like, what does that mean? How did that happen?
+Antoine Vagneur-Jones
+Starting with overcapacity makes a lot of sense. It's one of the real defining trends that we've seen over the last few years. And I say few years because if you're defining overcapacity as there being too much manufacturing capacity, too much in the way of factories to meet global demand — I mean, "more than enough" is another way of looking at it. But we're basically in a state where at the end of last year, we had on average about twice as much in the way of factory capacity on a nameplate basis to meet demand for wind nacelles, to meet every bit of the solar value chain, from polysilicon all the way to modules to meet battery manufacturing and its various components.
+And that is the product of, as you've said, a product of sustained investment that originated from subsidization, from a pretty concerted effort to build out market share in strategic industries that were perceived to be alternatives to existing dominance in traditional carmaking. For example, the Chinese government had tried to develop its own automaking and really focused and doubled down on doing EVs. And that led to an industry that grew out of subsidies, but also grew because it was exposed to a tremendous amount of competition. And that's really one of the defining trends that we're seeing now.
+David Roberts
+Well, let me ask then, because I guess this is like an incredibly naive question, but like Economics 101 tells us that in capitalism, in market societies, supply and demand converge. Right? That's sort of the whole thing. So if there's this massive, not just overcapacity, but a 2x overcapacity, it's not primarily market forces doing that. Is that a situation that the Chinese government deliberately set about to create? Did they know this was going to happen? Is this something that they anticipated?
+Antoine Vagneur-Jones
+Yeah, it's baffling from the outset because you would just think that these cycles, demand is growing quite fast, things tend to be cyclical in most markets, this would solve itself. But what we've seen is that in 2022, there was overcapacity across most of the solar value chain. And then 2023 saw an absolutely insane level of investment in Chinese manufacturing, which just shot up capacity just across the board. And that didn't really, when you're looking at things, you sort of think, "Okay, so what's the story there? Why is this required if we don't really need any marginal additions to meet global demand?"
+And the question is, "Okay, is it just subsidies?" And the answer is, "It's a complex picture." Actually, there are subsidies that are clearly being given out at a local level by lots of different provinces within China to subsidize manufacturing of various solar components. But at the same time, we're in an industry where technology cycles are incredibly fast. So if you're a solar manufacturer, right now there's a real shift that we're seeing, an umpteenth sort of shift to the next new big thing in solar manufacturing. And that basically means retrofitting your factories every two, three years.
+It's pretty unbelievable as a state of affairs.
+David Roberts
+Yeah, it's wild.
+Antoine Vagneur-Jones
+And it's also a state of affairs where economies of scale are incredibly important. If you aren't constantly keeping up with the rest, you are just squeezed out because margins have been so compressed. I mean, we're seeing prices that have sunk to the levels where, sort of around $0.09 per watt, which is what we think might well be below production costs in many cases.
+David Roberts
+Yeah, you don't really want to say it's too low, but like...
+Antoine Vagneur-Jones
+No, you don't. But if you're in the solar industry, it's pretty bad news. So, there's a degree of this incredible industry where you're just seeing capital that's funneled into something that isn't particularly great in terms of the returns on your investment that you get. And if you don't keep doing that constantly, if you blink, you're just rendered irrelevant pretty much overnight.
+David Roberts
+Now, is that because of the technology cycles or is that also partially because China is willing to sort of absorb the pain of over-investing in this in order to crush everybody else?
+Antoine Vagneur-Jones
+Right. So, I mean, I think historically we saw a tremendous amount of subsidization happen in many clear ways on the supply side, on the demand side as well. And that's something that's definitely tapered off pretty fast, actually. If we look at the wind sector or even the EV sector on the supply side of the equation and in terms of demand, we are still seeing subsidization happen in sort of discrete cases that we can point to. There's a lot of implicit subsidies happening with sort of concessional rates being given out, sort of below-market loans from state-owned banks, etc.
+Tracking all of that is really difficult, but it's not just that simple. And actually, what we're seeing now is something very different happening where towards the end of last year something really interesting happened at the sort of jamborees, the association get-togethers for the Chinese solar industry and the Chinese wind industry. We actually saw manufacturers come together and agree on coordinating to "solve overcapacity" and basically coordinate on pricing and try and wean and get rid of the older facilities that are still operational, but sort of strip those out and basically try and move towards some seemingly cartel-like behavior.
+David Roberts
+Yeah, I was going to say that sounds like stuff that, I mean, would be straightforwardly illegal in the US, right? Like, you're not supposed to coordinate with your competitors.
+Antoine Vagneur-Jones
+Right. And that's pointing to there being some top-down pressure where basically the government has seen this as a concern. This is in many of the actual official documents and official declarations that we're seeing out of the Chinese government over the last year. This is very clearly something that the Chinese government wants to deal with in the same way as it's deployed efforts to sort of deal with this in the steel sector, for example. It's a complex picture where yes, there's some subsidization going on, but in a very clear way, the Chinese government wants to sort of recognize that this might not be the best thing for the sector's long-term health and is trying to solve for this.
+And I mean, in terms of price coordination, it's very complicated. We actually don't really think that it's very easy when you've got a sector as dispersed as the solar sector to actually engage in any kind of collaboration. So, we don't really think that's going to bear out and have any meaningful impact on the industry as a whole. But it is telling, and it does show that this is recognized as something that needs to be solved for. And the whole narrative that is just about the Chinese government subsidizing things to an insane extent, which is just leading it to then flood the world in some kind of malignant bid to take over the industry, is something that's a little bit more nuanced. And that's also very much linked to another story which we're seeing in many other sectors, which is consumption and is the fact that actually right now, China, following the implosion of its property market, is seeing lower levels of growth than it would like and seeing far lower levels of consumption than it would like.
+And that is reversing some of the priors that these manufacturers had made their big investments on.
+David Roberts
+This was exactly going to be my next question, whether there's also a role here for the sort of general turn in China away from this monomaniacal focus on production, manufacturing, and export to more consumption and quality of life. Is that going to affect the global trade situation?
+Antoine Vagneur-Jones
+Well, it's actually fascinating because if you look at the Malaysian government, for example, it's also framing this very clearly because it's seeing an influx of Chinese imports even beyond clean tech of all sorts. And it's very clearly framing this as a consumption issue and they're being quite nuanced in their take. They're saying that it's because of this slackening of consumption in China that they're seeing this spike in low-priced imports. There are efforts that are being made in China to sort of perk up consumption and to encourage the trade-in of older vehicles to increase EV sales and prop them up.
+But again, these things take time and if we learn anything from the steel sector, it's that you can't solve for this level of capital just being dumped into a sector overnight. It takes a while.
+David Roberts
+I mean, like again, 2x. It's one of the things, "We're slightly over capacity," but double the world's demand capacity — it seems like at the very least, that's going to take a few years to settle out, right?
+Antoine Vagneur-Jones
+Right. And that would be if things were standing still. And that would be if we weren't still seeing vast volumes of investment being channeled into this year after year. And guess what, David, we are. We are continuing to see investment, at lower levels.
+David Roberts
+Adam Smith is rolling over in his grave. Why is this?
+Antoine Vagneur-Jones
+He's not having a good time. And it's because of the dynamics that I mentioned earlier. It's just this momentum that's built up. And this industry, which really is incredibly hard to stay alive in to begin with, the solar industry, for example, and an industry which is seemingly experiencing a bust before it ever really had a boom, which is the battery industry, for example, these are really tough spaces to make a living in and to grow a company within. And there are expectations around demand, which are very different across those sectors. But what's really similar is the fact that just keeping up and spending a lot on R&D and upgrading your factories and retrofitting and expanding, maintaining economies of scale are just completely vital to staying alive.
+And we're seeing these sort of seemingly dominant companies like BYD and CATL, the world's leading EV manufacturer and battery manufacturer, respectively, both headquartered in China, who are really, when you look at how they're behaving, behaving more like sort of scrappy startups than the hegemons that they seemingly are. And that's what's really fascinating about this whole picture.
+David Roberts
+Yeah, that's interesting. I mean, I don't know if you're familiar with the sort of Brett Christopher's general critique of clean energy, which is just that there's not enough profit in it to fuel the pace of growth we need. Do you think there's something to that? I mean, it kind of sounds like a little bit of what's going on here.
+Antoine Vagneur-Jones
+I mean, yeah, it's a take. I mean, if you look at the energy transition, we're saying, you know, you need something around 4 or 5 trillion of spending just across the energy transition to get us anywhere near on track to net zero. And we're seeing a fraction of that. And that needs to improve. The supply side of the equation is the one part that we've solved for, that is the one part where we have more than enough investment that's been funneled into this. And that's why we're seeing this overcapacity. That wouldn't be the case if we hadn't invested to levels that are sufficient to meet global demand.
+So actually, when it comes to manufacturing, it might be an industry where things are tough, margins are pretty tight. We've seen real compression over the last few quarters, a couple of years, and yet we're still seeing companies enter the space, try to expand, and incumbents continue to invest in new facilities. It's an interesting one for sure. But I think that critique has its limits when it comes to talking about manufacturing.
+David Roberts
+So, that makes it sound like this overhang of overcapacity is just going to hang around then. Is this just how it is in clean energy?
+Antoine Vagneur-Jones
+I mean, listen, you can look at these — we've got these pipelines of announced factories, and we tend not to take them too seriously. And, you know, there's a lot of talk around the pipeline of factories in the US that's been announced and in Europe and in India and in China as well. And you can look at those and sort of take them at face value, or you can say, "Hey, well, we're in a market where the conditions are pretty tricky, margins are low, some of these manufacturers are less experienced than others." And what we've done is taken a pretty skeptical look at that pipeline.
+And we've done, you know, we've tried to adjust it for risk. Even with that risk adjustment, even if we assume that a pretty large share of what's being planned in China isn't going to be built, which is what we've done, we're still seeing a sort of plateauing of this overcapacity in the battery and solar space over the next few years. It's not going anywhere terribly soon, which is bad news if you're in manufacturing and you're trying to grow it, especially in markets where it's costlier to do so and the supply chains just haven't developed to the same extent. But equally, there's always a flip side.
+And the flip side of the equation is this: good news if you're trying to build a battery project, an EV, or a solar plant.
+David Roberts
+Like if you're in Pakistan and you want to run your light bulb at night.
+Antoine Vagneur-Jones
+Last year, we were still pouring over the trade data from last year, because it was a fascinating one where we basically had these unexpected spikes in imports. Pakistan, in the first few months of last year, imported something like 11 gigawatts of solar modules, and Brazil dramatically ramped up its imports of EVs, all of which was coming from China. All of that is linked to this idea of extreme competition, massive investment. There's a nuance to this, too, because it's also — if we talk about the defining trends and circle back to your initial kickoff to this, this episode is linked to the other defining trend, which is trade barriers going up, seemingly not in lockstep, in very different ways.
+If you're looking at different geographies, but across the developing world as well as the Western economies.
+David Roberts
+Let me frame this question because that was — you tee me right up here. This was my next question. So, one thing I've noticed in recent years is that just as a descriptive matter, it seems like the heads of developed countries have kind of turned against what's called neoliberalism, the sort of free trade, the whole sort of notion, the notion that free trade is a good in and of itself and that lowering trade barriers is almost always a good thing, et cetera, et cetera. That consensus which held — like was like biblical for most of my life in America, just kind of seemed to vanish.
+And now, as you say, people are talking about tariffs and trade barriers and trying to pull supply chains back and onshore. So, my question to you is, is that consensus? Is that intellectual consensus reflected in an actual, measurable decline in global trade flows?
+Antoine Vagneur-Jones
+So, the fascinating thing is that the answer is no. If you look at trade flows, they're not decreasing year on year. And here, I'm just talking about if you take everything that I've sort of put in this clean energy bucket. We have all kinds of dashboards and databases, and let's say we look across clean tech, loosely defined, across renewable energy, EVs, heat pumps, all of that. We take grid equipment, transformers, cables, and then we also take all the battery metals, whether as ores or in their refined forms, and we add them all up. Then, we're seeing year on year growth and we've seen more than a doubling since 2020 in terms of the value in dollar terms that that trade represents.
+And we expect that growth to continue. That's really significant because prices have gone all over the place. But right now, they're in free fall in many of those sectors. Yet, if you're looking at that trade in value terms, which is kind of necessary when you're talking across different sectors, then that volume is increasing. That is despite the erection of trade barriers, despite this quite hyperbolic talk of onshoring, nearshoring, friendshoring, and all the different types of shoring. We're still seeing this yearly march upwards in terms of the sheer volume of this stuff.
+David Roberts
+So what should we take from that? Should we take from that that the trade barriers are, are ineffective or that there's just more talk than there are actual trade barriers or that trade barriers don't matter? What should we learn from them?
+Antoine Vagneur-Jones
+Well, it's a tricky one. I mean, if you look at the US, there's been tariffs on solar since 2012. That's dramatically inflated the cost of solar in the US to something like three times what it is elsewhere, if you're looking at the module prices we're seeing in the United States. And what that hasn't led to is the instantaneous development of a localized supply chain. There are companies like First Solar that have done quite well out of this and have created a business case for their modules and sold them domestically. But we've still seen a reliance on imports. It's just that the source of those imports has sort of tracked the various ebbs and flows of those trade barriers, situating itself in Southeast Asia, with many of the same Chinese companies exporting to the United States.
+And now, we're seeing further uncertainty expansion of some of those tariffs, which will have knock-on effects and lead to that shifting again. But it really took the Inflation Reduction Act and its subsidies that were afforded to manufacturers, whether as grants or loans or tax credits, to really start to see that onshoring happen. So, this is a brilliant case study because it gives us pretty high levels of very inflationary tariffs that haven't really done much in terms of completely removing imports from the picture. And that's just one case study. And every industry is very different. And last year is a bit of a litmus test because what we did see last year was this pretty unprecedented increase in tariffs across the board.
+Previously, it had been very focused on solar, some wind tariffs. But what we saw last year was a segment of the overall trade volume for clean energy trade, which has really grown rapidly, which is batteries and EVs. They are really pushing solar out of the picture in terms of the overall volumes and dollar terms, they represent about 60% of the total now. Whereas solar, which used to be completely dominant, is around 20%. Because planning cost of modules is really part of the picture. The actual volume of traded modules has gone up. But batteries and EVs are really front and center and they've been hit by very, in some cases, high tariffs by the likes of Canada, by the likes of the US, even by the likes of the EU, which made sort of a roundabout turn on its previous aversion to putting in place trade tariffs on renewables and clean energy and EVs.
+And now, we suddenly have a variety of tariffs that are tailored for different electric vehicle manufacturers, but are imposed, sort of upwards of 30% in some cases. And that's pretty significant. So, we'll see whether or not that has an impact. I mean, we're still looking through, we've just got the end-of-year global trade figures are just in, and we're looking through them and we'll try and see if there's any real impact. But just, I don't think that's going to lead to a reduction in trade flows in any kind of net sense year-on-year.
+David Roberts
+Well, one of the documents you sent did say that clean energy trade growth has slowed. It's 13% year on year now. And I think it was something up in the 20s. So it's not reversed. Flows aren't declining, but there is at least some diminution in the pace of growth of it.
+Antoine Vagneur-Jones
+That's right. But then, what happened during that period, 2023 to 2024, we saw a dramatic decline in the cost of batteries, price of batteries, of lithium-ion batteries. And if you account for that, actually, the volumes that are being traded are greater.
+David Roberts
+Oh, I see the value decline because the prices decline, but the volume is still up.
+Antoine Vagneur-Jones
+Exactly. And we've had pretty clear declining prices just across the board. Meanwhile, volumes of overall trade into their dollar value have increased and that growth might be slowing, but it's as much a product of declining prices as it is of any kind of decline in terms of overall volumes of things being traded. Super low prices for battery metals, solar, even turbine prices are going down. And all of this stuff should be really thought about when we look at these overall trade statistics.
+David Roberts
+Yeah. One of the sort of domestic stories, certainly the story that the Democrats were trying to tell in this previous presidential election, is that the IRA, the Inflation Reduction Act, and all those subsidies had in fact successfully sparked a kind of manufacturing renaissance in the US. They were pointed to factories being built, factories being planned, people talking about factories, etc. But then BloombergNEF comes out with this research and says that in fact half of those planned factories might not come to fruition. Is that some shortcoming in the IRA subsidies, or is that just a change in global economic circumstances?
+Why such a flood of plans and so many that seem like they're not going to go anywhere?
+Antoine Vagneur-Jones
+Right. So, we said that about half of the factories in the United States that were planned to come online this year, we think that at least half of them, if we're looking across batteries and EVs and solar and wind as well as electrolyzers, we think that more than half of what's been announced in value terms of the investment that they represent, we think that that's going to get delayed or paused or put on hold, but it won't come online this year.
+David Roberts
+So maybe not canceled, maybe just delayed.
+Antoine Vagneur-Jones
+So, maybe not cancelled, but it's not looking good. And I think we've also been quite optimistic. It's been about 31 months since, at the time of recording, which is in March, the IRA passed and there's a pretty sizable amount of subsidies that are being deployed. You know, we counted about 183 billion in US subsidies and many of those are now under threat. But still, tax credits, when they're manufacturing tax credits, are quite hard to get rid of for various reasons. And we think even with that policy uncertainty on the subsidy side, we're still going to be seeing subsidies play a big role.
+So, I think this is less about the Trump presidency, this uncertainty, and this is more just these intrinsically difficult issues that we're seeing when it comes to growing manufacturing. And it's just the overall picture is that market conditions are tough, prices are low. That makes it hard to build manufacturing where it didn't exist before, where there isn't really any — where you have to create a comparative advantage because these are infant industries in the United States. There's no local supply chain. There's uncertainty around demand now with EV demand, which has slowed somewhat compared to some of the expectations that we had.
+And that really racks up. Right now, we're doing a big project to look in depth and at an asset level, and phone up all of these different factory owners and try to understand the reasons that are being cited, at least at face value, for some of these changes to some of these plans. Because we really wanted to get a bit more of an in-depth sense. But it's a real mixture of factors and it's something that really is qualifying some of this enthusiasm. When we updated our overall manufacturing shares for all of these different clean energy sectors last year and you looked at the year-on-year change, everything actually became even more concentrated in China.
+We are seeing, we are seeing stuff happen. There are meaningful investments that are taking place. There is a 110 billion-plus in dollar terms pipeline of cleantech factories that are coming on in the US. It's just that many of those projects are going to get delayed/not happen.
+David Roberts
+So, if you were summarizing this, this is sort of one of my questions: is onshoring happening? You know, onshoring is all the rage, all the talk — I'm just curious. It sounds like there's some of that happening, but not enough to reverse the broader trend of concentration in China.
+Antoine Vagneur-Jones
+Right. That's my sense. And the answer is "kind of." It is kind of happening, and it is happening for certain sectors in a bigger way than it is for others. So, for battery cell manufacturing, we are seeing pretty meaningful volumes in gigawatt-hours of this downstream part of the value chain for battery cells being built out in Europe, in the United States. Scaling that is difficult. It's not just local manufacturers. There's a heavy reliance on South Korean firms, for example, like LG. So, that's part of the picture. But then when you go upstream, when you look at cathodes and anodes and the US's reliance on graphite and all these different things, then that remains quite concentrated in one place.
+And that place is China. And that doesn't look like it's going to change right now because we've basically reached the year where I feel, and again, I've said 31 months since the IRA, this is a pretty good time to take stock, and that's what we're doing, of whether or not onshoring is really going to be a thing for these sectors or not. Because this is enough time to really come to a view.
+David Roberts
+Yeah, this was my next question. Like, if you're trying to, you know, there's a little bit of, like, crystal ball here, but, like, do you think that onshoring is like an engine that's just slowly cranking up and going to, you know what I mean, increase momentum in coming years? Or do you think it was just like, it's a little bit of an intellectual fad and basically the current situation is going to stay the way it is? What do you think of the future of onshoring?
+Antoine Vagneur-Jones
+Well, I think rhetorically, it's going to remain a policy priority. It's just that I think it's tricky to come to the conclusion that it's going to start ramping up rapidly at a time when it doesn't seem like, at a federal level at least, we're going to see much more in the way of funding. We're going to see the opposite happen over the coming months in the United States and even in Europe. In Europe, we were supposed to be experiencing — there's this answer in many ways to the IRA, which was the Net Zero Industry Act that was released in the wake of the IRA and had all of these fantastically ambitious targets for local manufacturing, which are very hard in some cases to take seriously at present, at a time when the EU isn't really in a big sense putting the money on the table.
+It isn't really providing clarity about where to go for that funding that is needed. Actually, there's much more of a focus now on pivoting somewhat towards finding money for defense at a time when the EU is really making that its focus. There's a much more dynamic and serious approach that is being taken to deploying capital in that area. If you compare it to the efforts that have been made over the last few years when it comes to scaling clean-tech manufacturing, which is, again, just like the US, remained a huge visible priority of the European Commission.
+But we've just had these structural issues within the European Union that have really held things back and really meant that it's been difficult to get things going in a big way. Even though I will qualify this with the fact that there will be battery making, there will be EV manufacturing, there will be some of this happening within Europe. It's just that overall, the picture is one of leaving someone slightly underwhelmed, if you compare it to the rhetoric that was being deployed a few years ago.
+David Roberts
+It sounds like, despite a lot of big talk, the basic structural situation of China dominating clean energy supply chains is likely to persist, at least for a while. What I want to talk about, and what I want to kind of ask you about, is it became conventional wisdom, it seems like almost overnight, that like, China dominating the supply chain for clean energy is a bad thing. We've got to do something about that. Like, we've got to stop importing from them, we've got to onshore. We've got to do all this. Like, everybody became very exercised by the threat. And it sounds like despite everyone getting very exercised about it and talking about it a lot and passing a lot of legislation, that the threat, insofar as it is a threat, is going to stay around.
+And this is true — like, you know, it's the nature of supply chains that, if they have eight links in them and you manage to claw back or onshore seven of them and China still dominates link eight, then it still basically has leverage over your whole product. You know, I mean, they can still screw you. So whatever power China has over supply chains, it's probably going to have for a while. So what I want to ask about is, and I've asked this to a couple of people before, like, as I said, overnight, everybody decided "this is a huge threat."
+And when I read articles about it, you know, in like, Foreign Policy magazine, about this new industrial policy and the threat of how trade and national security are sort of merging, etc., and we're addressing the threat of China, but when they get to the part where they describe the actual threat, what might actually happen, there's just a lot of hand waving. Like, intuitively, the fact that, like, China's dumping a bunch of subsidies into making the things we need cheaper and therefore the world is being flooded with cheap things that we need. Like, great. That seems like a great thing.
+So, like, to be convinced that we should slow or reverse that because of this threat, I want to know, well, what is that threat? Because the good of being flooded with cheap solar and batteries is very obvious and evident to me. The threat of China dominating supply chains is much fuzzier. So maybe you could just say a little word about, like, what are we scared of? What will or has China done or what do we think China might do that would make this threat into an actual harm?
+Antoine Vagneur-Jones
+Right. So, I think one of the issues is that it was never really clear why onshoring was a priority to begin with. There was a number of different, very valid arguments that were being made around supply chain concentration or the creation of local value or selling this whole energy transition thing to voters — in inverted commas.
+David Roberts
+Yeah, the political argument I get a little bit more than the economic one.
+Antoine Vagneur-Jones
+And what we've learned from the whole experience and how it's played out is that it's pretty tough to do everything at once. Even if you deploy a bunch of tax credits that are quite generous and targeting a real panoply of different technologies under the 45X tax credit that is funding this manufacturing in the US, it's not just at the press of a button that you're going to have something emerge. So, you have to start to have a bit of a hierarchy of priorities. And you have to have a hierarchy of, if you're viewing this as a risk, a hierarchy of threats, and choose accordingly.
+And that's been where there's a lot of soul-searching that's sort of happening in various senses. I mean, there's a big argument that is happening right now in Germany where the German government has made noises about concerns of using Chinese wind turbines, which happen to be bigger and in many cases cheaper than locally made alternatives. Turbine makers in the west have been having a pretty rough time recently, whereas RWE, Europe's biggest generator when it comes to power, is basically arguing that "No, this should not trump the pressing need that the energy transition represents."
+David Roberts
+Right. We need clean energy. That's supposed to be the overriding thing here.
+Antoine Vagneur-Jones
+Examples abound. I mean, there's the Draghi report. Mario Draghi, who used to be the head of the European Central Bank and was the prime minister of Italy, was asked by Ursula von der Leyen, who's the head of the European Commission, to draft a report. She was assuming her second stint as the head of the European Commission and asked him to do a big report on European competitiveness. Some of his conclusions were that you need to come up with a hierarchy. When it comes to solar power, the EU should probably pivot away from trying to have this rhetorical commitment to getting to 40% local content across the solar value chain by 2030, which is the stated target still, but is one that is not taken very seriously by pretty much anyone, and refocus on industries that it deems important, whether for political reasons or for security reasons.
+And what's interesting is we started to see this take shape. One of the parting shots of the Biden administration was an act on connected cars. So, a new rule that effectively bans EVs if they have Chinese software or Chinese hardware comes in. There's a bit of a delay in terms of it coming into force, but it comes on top. It's amazing that this comes in because it's on top of foreign currency of concern rules that limit access to subsidies for cars that use Chinese parts. It comes on top of extremely high tariffs that are put on at over 100% for Chinese EVs.
+And even on top of that, you've got this connected cars rule because of this fear about the interconnectedness of Chinese software and what that represents. We're starting to see the European Commission use the same language. A couple of weeks ago, there was an action plan for the EU automotive industry, which has signaled a real protectionist pivot for the EU, where it's starting to talk about local content, which was a big "no, no" as far as the European Union's competitiveness laws, competition laws were concerned. It's also starting to talk about investigating the expansion of tariffs to potentially things like batteries, and also starting to use exactly the same language as was used by the Biden administration in that piece of legislation I just mentioned, which could, at the flick of a switch, suddenly make it very difficult to have anything Chinese on the roads.
+Again, this is hyperbolic at this stage when it comes to the EU. Things are at very early stages, very vague in terms of how this is going to be implemented. The EU doesn't necessarily do things extremely fast, so there's going to be some time before we get an idea of what this really means. But we are seeing what the US does being picked up by Canada, which has a similar rule in place, and then starting to percolate through further afield. We're starting to see it shape you.
+David Roberts
+And so, like the position all these countries are coming to, is we're willing to accept higher prices for EVs, batteries, and solar panels, slower adoption, you know, less emission reductions because of this threat, because of the severity of the threat. We're willing to accept those drawbacks because of the threat. And so, this is why I come back to like, well, if you're willing to accept all those drawbacks, it must be a really big and obvious threat. So, what is it? Like, when you talk to people who are supportive of this, what are they scared of?
+What is in theory, what would China do that would make this threat real?
+Antoine Vagneur-Jones
+And that's something that we're not really seeing clarity from policymakers on. There obviously is a very different way of treating something like a heat pump compared to a solar panel, compared to an EV, compared to an inverter, for example. These are all things which work in very different ways and are connected to the grid or what have you in very distinct forms. This isn't just the clean tech space. We've seen this play out in telecommunications where the British government was basically forced to do an incredibly expensive exercise in ripping out all of the Huawei tech that they had installed.
+Incredibly expensive exercise just on the pressure from the US administration. And that was their choice. And it incurs costs and it makes things — and what it means for us is it means that it becomes sort of interesting to start to use some of our least cost sort of modeling exercises. We've got our New Energy Outlook which solves for net zero, it solves for the least cost energy system. And we've begun playing around with it and we've begun introducing various premiums because that seems like it's the direction of travel. And that premium can be a tariff, that premium can be a premium for local manufacturing, for local content.
+And you can start to see different industries react in different ways; different sectors have different degrees of sensitivity. So, the solar sector, solar is so cheap that you can make it much more expensive and it still gets built under least cost modeling exercise, even if you're just looking at utility scale solar. And it's really fascinating to see that play out. Whereas the economics of a stationary storage battery system are more of a knife edge and it's a lot more tenuous. And if costs go up, then that could feasibly have a bigger impact on build.
+But that's when it's worth again taking a further step back. I was just speaking to a US solar battery system developer and just highlighting the fact that actually, right now, we're seeing extremely long lead times for the next best option, which is a peaker gas turbine. And right now, we're seeing massive shortages in gas turbines. We're seeing waiting times that are going out to 2031, 2032 for the US and you've got to bear that in mind too. So this is all pretty complicated stuff and it's stuff that we're not used to thinking about because we've really taken it for granted that the energy transition has these learning rates, these cost curves that have this pleasing sort of downward slope.
+We're seeing a sort of logarithmic growth in many cases, and we're seeing deployments sort of just run itself on economics alone. Now, we're starting to have to solve for these other things. There are areas where, you know, solar is still being built in the US despite the fact that it is three times more expensive than in Europe. So, it doesn't necessarily grind things to a halt. But what is really needed and what is really lacking in terms of the policy-making side of the spectrum is any kind of convincing analysis or any kind of convincing proof that they've done this homework and they've actually sat down and tried to work out what happens if they pull on this lever.
+Because they're pulling on those levers and they're deploying a lot of public money, they're raising trade tariffs seemingly at whim. However, what we're not seeing is any kind of thought or modeling of the impact that that has on the competitiveness or the relative competitiveness of different sources of energy.
+David Roberts
+Or the impact on clean energy deployment and emissions.
+Antoine Vagneur-Jones
+Exactly. Yep. And that's the corridor.
+David Roberts
+It would be crazy if we got to the point where the economics were solved and like they're going down the learning curve and they're spreading all over the world, and we intervened with policy deliberately to slow that down and make it more expensive. This is kind of what seems crazy to me about this whole thing. Like, if all these tariffs, all these trade barriers, all this paranoia and this new paranoia, this anti-China paranoia and this idea of onshoring, all of it is just like, scared of what? Like I keep saying, it must be a really substantial threat to go through all of this to slow the spread of clean energy and all, etcetera, etcetera, etcetera.
+And I just can't get anyone to tell me, sort of like, you know, like in 2027, China will do XYZ. Like, is China going to cut off the flow of graphite to the US? I mean, the thing about capitalism is like, they're our big supplier, but conversely, we're their big customer. So, like, they would be cutting, you know what I mean? Like, they would be hurting themselves to do that. Why would they do that? Like, under what circumstances would they do that?
+Antoine Vagneur-Jones
+And there are different aspects to consider as well. I mean, there's the fact that, okay, if we are going back to this regional state of affairs, which by the way, you know, historically the automotive industry operated on a very regional basis when it came to trade throughout much of the 19th century. There is precedent for this happening. Cars still carried on growing pretty fast. But if that is the case, I mean, how are you going to do it? And are you going to accept if you're deciding to, in the case of the United States, attract a lot of foreign capital to your domestic market and grow out your manufacturing base, what kind of companies are you going to be allowing in?
+And as far as I'm concerned, it's quite tough to do that if you aren't learning from the best. And that's something that we saw in the East Asian industrial experience, where there was this incredible series of success stories from South Korea to Taiwan to mainland China, where we basically saw a pretty concerted effort to attract leading manufacturers of things, force them into JVs to partner up, to invest locally, and then leading to technology transfer. And now what we're seeing is another really interesting aspect of this, which is where it's suddenly becoming less clear to Chinese manufacturers that they can actually set up shop and manufacture from the United States, from Canada, from Europe.
+The Trump administration was sort of widely expected, or not widely expected, but Trump had made some noises on the campaign trail that he would be willing to impose a 200% tariff on EVs manufactured in Mexico if they were by a Chinese firm. But as a counterpart, he would be completely happy for Chinese manufacturers to come and set up in the US. So there was this sort of expectation, which was taken seriously, well, to various levels of seriousness, that this would then lead to him being suddenly much more open to Chinese investment than had even been the case under the previous administration. But what we've seen with an America First investment policy that was released again just a few weeks ago, is that that is not the hill he's willing to die on. And he will absolutely follow the Republican consensus in making things quite tough for Chinese manufacturing.
+And that is also the case, by the way, in the EU. I mentioned this action plan for the EU auto industry, which again is starting to make hints that there might be use of this foreign subsidy regulation, which is a new piece of legislation, relatively, to be used to investigate various investments that are being made or mergers if a company that is being involved, that is using EU public funds, can be found to have "distortive subsidies" in their home market. And that's clearly being used to target Chinese manufacturers. And it's again a chilling effect on investments.
+And it means that a lot of these manufacturers are going to hold off.
+David Roberts
+Let's pivot a bit to this then, because the US has these tariffs on batteries and might even get higher. The EU is considering tariffs on batteries. In response, Chinese EV manufacturers are shifting to exporting more to emerging countries that aren't China. So, let's talk a little bit about the role of these countries in the trade mix and in the future. What is the political and economic significance of China kind of turning away from the US and EU to, you know, like Vietnam and Pakistan and all these other countries?
+Antoine Vagneur-Jones
+The arithmetic is really simple. It's overcapacity, low margins at home, there's this need to export. Trade barriers are going up across the big demand centers. And if you look at demand for EVs, solar batteries, and you strip out China, you strip out North America, and you take out the EU and then India, which has also been quite keen on putting in place protectionist barriers of its own, you take those markets out, you're left with a small nub of demand. And those are countries that historically weren't really targeted by exporters. And that's changing. We're starting to see where we look at low to middle-income countries as defined by the World Bank, for example, we're seeing them take a larger and larger share of imports which are growing net, but we're seeing them take a larger share of the pie every year.
+And that accounts for the trade of wind turbines and components, electric vehicles, batteries and associated components, solar modules, solar cells even. We're really seeing that happen across the board. And it's getting to the point where for many of those sectors, there's sort of a third to half of what China's exporting is going to countries that sit at that middle income band or are below that level.
+David Roberts
+Right.
+Antoine Vagneur-Jones
+And that's a real change.
+David Roberts
+And I'm guessing for those countries, there are none of these scruples about onshoring or whatever. Like for these countries, getting access to high volumes of extremely cheap clean energy material just seems like an unqualified good. Like, is there any reason they wouldn't welcome this?
+Antoine Vagneur-Jones
+Well, you say that, but Indonesia has a ministry that has the word "downstreaming" in its title. Brazil has just released a big industrial plan.
+David Roberts
+Oh really?
+Antoine Vagneur-Jones
+Yeah, Turkey is using tariffs, explicitly using tariffs to encourage Chinese manufacturers to set up assembly lines — I mean, the degree to which those are going to be superficial sort of screwdriver assembly shops or, you know, involve some sort of integrated manufacturing, is sort of uncertain — but to attract Chinese manufacturing in Turkey. So even there, I think there's a real shift of leverage because of the fact that the big historical demand centers in the west are becoming a bit harder to sell into. The prospects there are much less certain than they were before. And that means that there are these trickier markets that are starting to have a bit more wiggle room when it comes to trying to put in place policies that could then actually lead to investment from Chinese manufacturers into those markets, too.
+And we're seeing, you know, the Lula administration is very close to — it has no aversion to developing good relations with China, has been extremely keen to promote foreign direct investment, for example, in the battery electric space. I mean, we've seen BYD take up an old Ford factory to establish an EV manufacturing plant in the state of Bahia. And that's a trend that we are starting to see across the board. I mean, there's a reason why BYD is sort of investing in manufacturing in upwards of 10 countries worldwide, despite the fact that doing that in parallel is really tough.
+You're having to hedge all of this foreign currency risk you are having to deal with. You're going to have to manage all of these localization requirements, which are really tough. And that's because of the fact that these markets are growing and they represent an opportunity. But it's also because these governments are also recognizing the fact that they are quite keen to use this as an opportunity to grow their manufacturing bases. Because it's been quite hard the last few years to develop as a country when it comes to manufacturing. And I am skeptical about the extent to which this will become macroeconomically significant for these different countries.
+But they'll have a go, and they'll be much more open to Chinese investment than is typically the case across much of the countries we've been talking about to this point.
+David Roberts
+Interesting. Well, let's talk about tariffs. Let's talk about what's going on. So, BloombergNEF came out with this big report. I mean, it's sort of like one of the funny features of our time that, like, Trump sees some news segment, has indigestion from a Big Mac, fires off a tweet, and then, like, the next thing, you know, 200 BloombergNEF analysts have descended to try to, like, make sense of it. You know, and then, like, by the time they're done, he's burped up something else completely different. These are maddening times to be an analyst.
+Antoine Vagneur-Jones
+Yeah, we're having to do some tweaks with our workflow. And being efficient is not always rewarded when it comes to coming out with reactions when pivoting is becoming such a feature of the —
+David Roberts
+Yes, yes, I kind of want to ask about that. So, BNEF came out with this report saying, you know, the proposed tariffs that Trump is going to impose on Mexico and Canada are going to hurt several segments, in particular, clean energy. So maybe, just, maybe just go through. If he actually does it, if he actually imposes the tariffs that he says he's going to impose and actually keeps them on, why will clean energy be disproportionately hit?
+Antoine Vagneur-Jones
+Well, not necessarily, actually. It's one of the interesting things around blanket tariffs that they really do affect everything. And you can start to try and do some pretty speculative calculus about the impact on different industries and what we — for example, I mean, there's an example in the automotive industry. And there's been lots of ink that's been spilled in recent weeks about the fact that you've got this giant factory called North America and you've got the big three, which have these operations and different suppliers and different Tier 3, Tier 2 suppliers that straddle the borders and parts that will, throughout their lifetimes, get to visit Mexico many, many times until they actually make their way into a final vehicle.
+I mean, there's a report that's cited which sort of says something like eight to nine times is typical for—
+David Roberts
+Right. And getting tariffed every time.
+Antoine Vagneur-Jones
+And potentially, I think the jury is still out in terms of the legal consensus on, you know, we're moving away from this USMCA directed status quo and we're trying to figure out what happens next. And there's the potential that you could be tariffed every time. It seems like there's still a bit of fuzziness into how exactly that would work. But then that means that it starts to be quite interesting because you are imposing a tariff on a very integrated industry. You are also imposing tariffs on crude coming from Canada, coming from Europe. So, that will push up pump prices.
+So, you're making cars and driving more expensive. Meanwhile, EVs, I mean, still, you know, EV manufacturing has a long way to go in the United States, but it is much more concentrated in terms of, you know, there are imported batteries and some imported parts. But in terms of North America, for all of the Biden administration's efforts to bake in near-shoring provisions or incentives in some of these tax credits that it's been deploying to spur demand, it still hasn't led to much in the way of integration across those three countries. And actually, manufacturing and production are much more concentrated in the United States.
+So, that's a long-winded way of saying that conceivably, these tax credits could run against one of the mainstays of the Trump administration, which is to prioritize the sale of thermal vehicles, traditional ICE vehicles over EVs. And there's all kinds of ways you can sort of look at this. You can also look at this from the fact that, you know, another big pillar, another big policy that was signed early on was this commitment to building out data centers. And building out data centers, well, requires building out the grid. And that's not just for integrating renewables.
+It's also for just the sheer capacity that you're going to have to be loading on. And that requires some pretty big pieces of equipment. One of those is transformers and lots of the large power transformers — about half of what the US gets comes from Canada and Mexico. So that starts to make that grid build out more expensive. And that starts to seemingly run contrary to this central objective, which is to plow loads of money into data centers. And I mean to say, you can go on about this, you can talk about what does this mean for manufacturing?
+You're making inputs more expensive. What does that mean for your manufacturing base? Sure, like tariffs, cannot be used selectively.
+David Roberts
+One of the things reading your report kind of clicked for me is that if we're trying to onshore manufacturing, these tariffs could actually work against that because they could make US manufacturing more expensive because so much of the parts for US manufacturing come from Canada or Mexico.
+Antoine Vagneur-Jones
+Well, a) volatility is not great for making business decisions that have very long cycles for their return on investment. And b) selective use of tariffs is not uncommon when you're trying to develop an industry and a manufacturing base from its infancy, or when you're selectively trying to ring-fence a given industry that you're deeming valuable enough for all kinds of political, economic, or social reasons to protect. When you're applying blanket tariffs across the board to countries that are providing a lot of the inputs, parts, equipment, and machinery for the factories that would be built to sort of make good on these objectives, then that's when things start to get tricky.
+And that's when it starts to seem like a bit of an own goal. And again, just similar to this bizarre automotive story, similar to this state of affairs when it comes to data centers, this is another area where you've got this real rhetorical commitment to building out manufacturing in the US, but it's unclear how that would be encouraged by new tariffs. And this is also at a time when we're starting to see some of the central incentives for building out semiconductor manufacturing, to say nothing of the Inflation Reduction Act incentives for clean manufacturing, being directly challenged by the current administration. So, the outlook for manufacturing in the US is one that is slightly murky at this point, and the picture is quite fluid.
+David Roberts
+You put that very politely. By way of my final question, and this gets fuzzier and harder to quantify, but there's the first, second, and third-order effects of tariffs themselves, you know, which are at least somewhat calculable, to some extent. But then, sort of beyond that, there's the effect of uncertainty about tariffs, which is, as we've seen thus far — I mean, I honestly think if you're looking around at tangible economic effects, the uncertainty itself, the flipping back and forth, the chaos is almost having more substantial effects than any of the policies themselves. Is that fair?
+Like, what is the, you know, what is the sort of proximate effect on global trade of just this absolute fog of uncertainty? And you can't even like assume rational actors here. You know what I mean? You can't even assume that, like, if these guys say they want X, they will act rationally in pursuit of X. You can't even assume that. You can't really assume anything. So, how's that going to affect global trade flows?
+Antoine Vagneur-Jones
+It means that there's a lot of hedging of bets that has to happen, and it's a real boon to those manufacturers, for example, who can afford to make a variety of bets by setting up manufacturing facilities in lots of different places. The uncertainty is so high right now that it really is very difficult to just sort of begin and just focus on one target market and try to build things up. I mean, the US is obviously the central focal point of this uncertainty. And April 2nd is the date that is looming for this announcement of these "reciprocal tariffs" that are set to —
+We're at least supposed to get some clarity on them, and markets are bracing for that, and that will have some pretty important outcomes. But yeah, it means that in a very concrete way, it makes things tricky. I mean, Mexico has been talking about near-shoring and onshoring manufacturing throughout the AMLO presidency and now with Claudia Sheinbaum Pardo, that was set to remain one of her focus areas. And that's very difficult to make good on if you've got this looming threat of crippling tariffs in this market, which was supposed to buy all of the stuff you were going to make.
+I mean, already there's a lot of manufacturing that happens on the border, and Nuevo Leon is a big automaking center where a lot of what is being produced, again, as we've talked about, sort of zigzags across the northern border. But it makes things difficult in terms of making new investment decisions where those tariffs could have a bearing. But even in the EU, for example, there's not much clarity about the next step. We've seen this first initial firing, this first initial shot of EV tariffs being implemented last year. What happens next? We think it's likely for there to be some kind of investigation mitigation in battery tariffs.
+That's something that isn't really — where tariffs are minimal, just as they were under much of the Biden administration until there was a reversal of that and Biden brought in tariffs on lithium-ion batteries. But in the EU, there's an expectation that they could follow suit, that the European Commission could do that as well. And that means that, well, that is again, a huge amount of uncertainty for Chinese manufacturers who are currently seeing the EU as one of their growth markets, who are currently increasing their exports to the continent, to the region as a whole.
+And it means that they're going to have to really think hard about their prospects and whether or not they're willing to bear the risk of local manufacturing and investing there. Again, when we're seeing the expansion of Chinese manufacturers to the emerging world, to developing markets, to the west where they're able to set up shop, that's not just because those markets have a particular advantage to be gained from proximity. In many cases, there isn't a real comparative advantage. It's just about trying to navigate what is an increasingly difficult world, what are increasingly choppy waters as far as geopolitics go.
+And that is hard to do if you're a small company, if you're a medium-sized enterprise. That means that some of these bigger players who are able to expand are going to be doing so at the expense of many of those smaller players.
+David Roberts
+Interesting. Are there sort of in-market mechanisms that serve to price in some of this uncertainty? Like, somebody online was mentioning provisions in PPAs that basically say, "If some tariff comes out of nowhere, you have to pay it." Do you know what I mean? Like pass-through provisions, they're called. Are markets capable of pricing this in any meaningful way?
+Antoine Vagneur-Jones
+I mean, it's hard to know what happens in contracts. There were some manufacturing projects where seemingly the plug was pulled on them on the day that the election result was announced. So seemingly, there are some provisions that are baked in, in all kinds of ways. I think it's slightly too early to make a definitive call on how those provisions are going to be structured in renewable energy contracts, for example. But I guess it's reasonable to expect that tariff risks are going to influence contract negotiations and pricing dynamics in some form.
+David Roberts
+Yeah. Speaking of uncertainty and trust and everything. So, like we've now had two rounds of Trump, two rounds of policy, trade policy just flailing in different directions going this way and that. You know, tariffs, no tariffs. Like NATO, yes, NATO, no. I mean everything's so — I'm wondering, like even if Trump loses in 2028, whatever Dems take back over, there is once again something that the world recognizes as kind of a normal administration with normal, you know what I mean? Even if that happens, do you think there's going to be permanent effects on global trade of the kind of like, do you know what I mean?
+Are people going to be able to go back to trusting the US and making... Like you say, manufacturing is a big industry. Ten-year horizon investments, these are long-term investments, big pots of money. Is the loss of trust in the US going to persist and shape global trade, do you think?
+Antoine Vagneur-Jones
+I think when decisions are made to invest or contracts are signed, there will be a looming thought at the back of people's minds about the fact that knee-jerk reactions in trade, I mean, they've always been par for the course. But we're living in a world where there will be some scarring as a result of what we're seeing right now. And we are going to be living with the consequences of that for some time. There's talk of deglobalization and globalization. We're not really seeing that in the overall trade statistics, to be honest.
+We are seeing all kinds of ructions and jitters and ups and downs, but we are also seeing a steady rise in overall volumes that are being traded across the world. And that's something to really remember and to have in mind when we sort of discuss this.
+David Roberts
+Is it going to help at all that Gavin Newsom is stepping in and sort of signing these memoranda with Mexican states like can sub-national entities have any meaningful effect here?
+Antoine Vagneur-Jones
+If you rephrase the question as that, then sure. Yes, I think there's going to be inevitably some scarring from the kind of protectionist shift that we're seeing from the fact that we're moving away from a world that really had free trade to a large extent, something that was reasonably expected. That's no longer the case. It's not just no longer the case with the United States. It's no longer the case with paragons of free markets and free trade such as the EU.
+David Roberts
+It seems global.
+Antoine Vagneur-Jones
+It is global to a large extent. However, I mean, it is premature to start to talk about deglobalization, and sort of this is being mentioned in slightly exaggerated terms. But it is not unreasonable to expect that this will have a bearing in the future and on trade dynamics and how people think about and how decision makers, policymakers, manufacturers, investors think about signing contracts and investing and where they want to invest in their manufacturing, in manufacturing facilities. Does it lead to a shift to the sub-national level? I mean, we've seen this happen in the past.
+I guess there's very little prospect of a federal carbon price in the US, even under a Democratic administration, but we still saw collaboration in setting up a carbon price that links Quebec and California. So, there are some examples of this. The investments that were announced between California, the MOU that was signed with Sonora in Mexico, I mean, in many ways, that's just signed with the Mexican government. The Sonora plan has been a mainstay of the AMLO administration and is now being taken on this sort of, this idea to develop this region of Mexico which is supposedly going to turn into a big lithium mining, refining, battery making, EV producing hub.
+But, I think a lot of the barriers that existed then will still exist, and the capital-intensive nature of a lot of these industries and of whether you're talking about building out a manufacturing base, whether you're talking about the nudge that is required to decarbonize many of the industries that we focus on is such that when it comes to onshoring and shifting things around, having support at a national level will remain incredibly important. And I don't think that this can just sort of happen with, you know, even though, you know, California is a pretty large country-level economy if you compare it to many other places, I still see that as an exception and not really the beginning of anything.
+David Roberts
+We are cursed to live in interesting times, as they say. So, Antoine Vagneur-Jones, thank you so much for coming and going on this ramble with me through various trade questions.
+Antoine Vagneur-Jones
+I enjoyed meandering with you. That was a lot of fun.
+David Roberts
+Thank you for listening to Volts. It takes a village to make this podcast work. Shout out, especially, to my super producer, Kyle McDonald, who makes me and my guests sound smart every week. And it is all supported entirely by listeners like you. So, if you value conversations like this, please consider joining our community of paid subscribers at volts.wtf. Or, leaving a nice review, or telling a friend about Volts. Or all three. Thanks so much, and I'll see you next time.
+Discussion about this episode
+Comments
+Restacks
+Share this post
+Copy link
+Facebook
+Email
+Notes
+More
+Volts
+Volts is a podcast about leaving fossil fuels behind. I've been reporting on and explaining clean-energy topics for almost 20 years, and I love talking to politicians, analysts, innovators, and activists about the latest progress in the world's most important fight. (Volts is entirely subscriber-supported. Sign up!)
+Volts is a podcast about leaving fossil fuels behind. I've been reporting on and explaining clean-energy topics for almost 20 years, and I love talking to politicians, analysts, innovators, and activists about the latest progress in the world's most important fight. (Volts is entirely subscriber-supported. Sign up!)
+Subscribe
+Listen on
+Substack App
+Spotify
+RSS Feed
+Appears in episode
+David Roberts
+Recent Episodes
+A journey from clean-energy wonkery to influencer fame
+Jun 6
+•
+David Roberts
+How to reduce the impact of mining
+Jun 4
+•
+David Roberts
+What the F is happening? Part 3
+May 30
+•
+David Roberts
+Parking reform in Washington, parking reform everywhere!
+May 28
+•
+David Roberts
+The past and future of community choice aggregation
+May 23
+•
+David Roberts
+A "Google Maps for electrons"
+May 21
+•
+David Roberts
+Embedding intelligence at the edge of the grid
+May 16
+•
+David Roberts
+Taming the hydrogen hype
+May 14
+•
+David Roberts
+Ready for more?
+Subscribe
+© 2025 David Roberts
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start writing
+Get the app
+Substack
+is the home for great culture
+Share
+Copy link
+Facebook
+Email
+Notes
+More
