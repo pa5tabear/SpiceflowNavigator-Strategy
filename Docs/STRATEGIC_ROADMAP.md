@@ -46,47 +46,52 @@ class BasicPatternAnalyzer:
 
 ---
 
-### **Phase 2: Intelligence Layer** 🚧 **(Sprints 4-5 IN PROGRESS)**
-**Cross-Source Correlation & Entity Mapping**
+### **Phase 2: Aggregation Layer** 🚧 **(Sprints 4-6 IN PROGRESS)**
+**Simple Cross-Transcript Analysis & Pattern Detection**
 
-**Sprint 4 - Intelligence Correlation Engine:**
-- 🎯 Entity relationship mapping with co-occurrence analysis
-- 🎯 Cross-source correlation and pattern detection
-- 🎯 Strategic anomaly detection with confidence scoring
+**Sprint 4 - Cross-Transcript Aggregation:**
+- 🎯 Aggregate insights from all 5 transcripts into collections
+- 🎯 Simple pattern detection for recurring themes  
+- 🎯 Basic trend analysis dashboard with frequency ranking
 
-**Sprint 5 - Predictive Analytics Foundation:**
-- 🎯 Trend forecasting algorithms and trajectory prediction
-- 🎯 Strategic alerting system with risk assessment
-- 🎯 Historical pattern analysis and temporal correlation
+**Sprint 5 - Enhanced Pattern Detection:**
+- 🎯 Basic entity tracking across transcripts
+- 🎯 Simple relationship detection between common entities
+- 🎯 Topic evolution analysis with timeline visualization
 
-**Target Intelligence Capabilities:**
+**Sprint 6 - Intelligence Correlation Foundation:**
+- 🎯 Cross-source correlation with confidence scoring
+- 🎯 Strategic anomaly detection for unusual patterns
+- 🎯 Advanced entity relationship mapping
+
+**Target Aggregation Capabilities:**
 ```python
-# Target: Cross-source correlation and entity mapping
-class IntelligenceCorrelator:
-    def correlate_across_sources(self, analyzed_content: List[dict]) -> dict:
+# Target: Simple aggregation and pattern detection
+class CrossTranscriptAggregator:
+    def aggregate_insights(self, transcript_insights: List[dict]) -> dict:
         return {
-            'entity_networks': self.build_entity_relationship_map(),
-            'topic_evolution': self.track_topic_development_over_time(),
-            'cross_source_validation': self.validate_claims_across_sources(),
-            'influence_mapping': self.identify_information_flow_patterns(),
-            'anomaly_alerts': self.detect_strategic_importance_spikes()
+            'combined_insights': self.combine_insights_by_category(),
+            'recurring_themes': self.find_common_patterns(),
+            'topic_frequency': self.rank_topics_by_occurrence(),
+            'dashboard_data': self.create_visualization_structure(),
+            'trend_summary': self.generate_simple_trend_analysis()
         }
 ```
 
 ---
 
-### **Phase 3: Predictive Analytics** 🔮 **(Sprints 6-7 PLANNED)**
-**Trend Forecasting & Strategic Alerting**
+### **Phase 3: Intelligence Layer** 🔮 **(Sprints 7-8 PLANNED)**
+**Advanced Correlation & Predictive Analytics**
 
-**Sprint 6 - Advanced Forecasting:**
-- 🎯 Machine learning-driven trend prediction models
+**Sprint 7 - Advanced Intelligence Correlation:**
+- 🎯 Cross-source validation and information flow tracking
+- 🎯 Advanced entity relationship mapping with confidence scoring
+- 🎯 Strategic anomaly detection and automated alerting
+
+**Sprint 8 - Predictive Analytics Foundation:**
+- 🎯 Simple trend forecasting based on historical patterns
+- 🎯 Risk assessment framework with basic scenario modeling
 - 🎯 Competitive intelligence and market positioning analysis
-- 🎯 Risk assessment framework with scenario modeling
-
-**Sprint 7 - Strategic Alert System:**
-- 🎯 Real-time monitoring of strategic indicators
-- 🎯 Automated alerting for critical developments
-- 🎯 Opportunity mapping and threat identification
 
 **Target Predictive Capabilities:**
 ```python
@@ -104,20 +109,25 @@ class StrategyPredictor:
 
 ---
 
-### **Phase 4: Interactive Intelligence** 🎨 **(Sprints 8-10 PLANNED)**
+### **Phase 4: Interactive Intelligence** 🎨 **(Sprints 9-12 PLANNED)**
 **Natural Language Queries & Visual Dashboards**
 
-**Sprint 8 - Natural Language Interface:**
-- 🎯 ThoughtSpot-style natural language querying ("Show me AI trends in Q4")
-- 🎯 Instant answers to strategic questions with supporting evidence
-- 🎯 Smart recommendations for related insights and follow-up queries
+**Sprint 9 - Natural Language Interface Foundation:**
+- 🎯 Simple natural language querying ("Show me solar insights")
+- 🎯 Basic question answering with supporting evidence
+- 🎯 Query result ranking by relevance and goal alignment
 
-**Sprint 9 - Visual Analytics Dashboard:**
-- 🎯 Tableau-level interactive dashboards for strategic decision-makers
-- 🎯 Drill-down capabilities from high-level trends to specific content
-- 🎯 Role-based intelligence delivery (Executive, Analyst, Researcher)
+**Sprint 10 - Visual Analytics Dashboard:**
+- 🎯 Interactive dashboards built on aggregation foundation
+- 🎯 Basic drill-down from trends to specific insights
+- 🎯 Role-based data filtering and display preferences
 
-**Sprint 10 - Integration & Orchestration:**
+**Sprint 11 - Advanced Query Intelligence:**
+- 🎯 ThoughtSpot-style complex natural language queries
+- 🎯 Smart recommendations and related insight suggestions
+- 🎯 Contextual intelligence with user goal awareness
+
+**Sprint 12 - Integration & Orchestration:**
 - 🎯 Real-time integration with Navigator-Pipeline and Navigator-UI
 - 🎯 Automated report generation and distribution
 - 🎯 Enterprise-grade scalability and performance optimization
